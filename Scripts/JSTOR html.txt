@@ -1,0 +1,2272 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <script type="text/javascript">
+   var JiffyParams = { jsStart: (new Date()).getTime()};
+  </script>
+  <meta content="noarchive,noindex,nofollow,NOODP" name="robots"/>
+  <meta content="true" name="MSSmartTagsPreventParsing"/>
+  <title>
+   JSTOR: Search Results
+  </title>
+  <meta charset="utf-8"/>
+  <link href="/templates/jsp/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <link href="/jawrcss/1765374789/bundles/jstor.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="//fonts.googleapis.com/css?family=Roboto:400,500,700,900|Roboto+Condensed:400,700" rel="stylesheet" type="text/css"/>
+  <link href="/templates/jsp/_jstor/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+  <script src="/jawr/2110877841/bundles/layoutBundle.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var tAndCAccepted = false;
+  </script>
+  <!-- placeholder id=null, description=Branding CSS -->
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="/templates/jsp/_jstor/images/apple-touch-icon.png" rel="apple-touch-icon"/>
+ </head>
+ <body>
+  <script type="text/javascript">
+   Jiffy.mark("startBody");
+  </script>
+  <div class="page liquid results ">
+   <div class="head globalContainer">
+    <div id="ufo">
+     <h1 class="ufo">
+      JSTOR
+     </h1>
+    </div>
+    <div id="skipNav">
+     <a class="ufo" href="#mainContent">
+      Skip to Main Content
+     </a>
+    </div>
+    <ul class="menu global" id="globalNav">
+     <li>
+      <a href="/" id="home" title="JSTOR: Home">
+       JSTOR Home
+      </a>
+     </li>
+     <li class="search hasDropDown">
+      <a href="/action/showAdvancedSearch" id="search">
+       Search
+      </a>
+      <ul>
+       <li>
+        <a href="/action/showAdvancedSearch">
+         Advanced Search
+        </a>
+       </li>
+       <li>
+        <a href="/action/showArticleLocator">
+         Citation Locator
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class=" hasDropDown">
+      <a href="/action/showJournals" id="browse">
+       Browse
+      </a>
+      <ul>
+       <li>
+        <a href="/action/showJournals">
+         by Subject
+        </a>
+       </li>
+       <li>
+        <a href="/action/showJournals?browseType=title">
+         by Title
+        </a>
+       </li>
+       <li>
+        <a href="/action/showJournals?browseType=publisherInstance">
+         by Publisher
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="hasDropDown">
+      <a href="https://proxy.library.upenn.edu:2166/action/myJstorSettings" id="myjstor">
+       MyJSTOR
+      </a>
+      <ul>
+       <li>
+        <a href="https://proxy.library.upenn.edu:2166/action/myJstorSettings">
+         Saved Citations
+        </a>
+       </li>
+       <li>
+        <a href="https://proxy.library.upenn.edu:2166/action/showAlertSettings?myJstor=true">
+         Journal Alerts
+        </a>
+       </li>
+       <li>
+        <a href="https://proxy.library.upenn.edu:2166/action/doSavedSearch?myJstor=true&amp;action=savedSearch">
+         Search Alerts
+        </a>
+       </li>
+       <li>
+        <a href="/action/showShelf">
+         Shelf
+        </a>
+       </li>
+       <li>
+        <a href="/action/showSubscriptions">
+         JPASS Downloads
+        </a>
+       </li>
+       <li>
+        <a href="/action/showPurchases">
+         Purchase History
+        </a>
+       </li>
+       <li>
+        <a href="/action/showRegistrationUpdate?myJstor=true">
+         My Profile
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </div>
+   <div class="body jstor brandingStripe">
+    <div class="rightCol myYahoo">
+     <div id="rrSkipNav">
+      <a class="ufo" href="#mainContent">
+       Skip to Main Content
+      </a>
+     </div>
+     <div class="login">
+      <div id="logo">
+       <a href="/" title="JSTOR: Home">
+        <img alt="JSTOR" height="60" src="/templates/jsp/_jstor/images/jstor_logo.jpg" width="47"/>
+       </a>
+      </div>
+      <ul class="menu support">
+       <li>
+        <a href="https://proxy.library.upenn.edu:2166/action/showLogin?redirectUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26" id="supportLogin">
+         Login
+        </a>
+       </li>
+       <li>
+        <a href="http://proxy.library.upenn.edu:2167/support-training/help">
+         Help
+        </a>
+       </li>
+       <li>
+        <a href="/action/showContactUSMain">
+         Contact Us
+        </a>
+       </li>
+       <li>
+        <a href="http://proxy.library.upenn.edu:2167">
+         About
+        </a>
+       </li>
+      </ul>
+      <div class="welcome">
+      </div>
+     </div>
+     <div class="subContent">
+      <div class="providerAccess smTxt">
+       <p>
+        Your access to JSTOR provided by
+        <span class="impact">
+         <a href="http://proxy.library.upenn.edu:2071">
+          <p style="line-height: 5px; ">
+          </p>
+          <img alt="University of Pennsylvania Library" src="http://proxy.library.upenn.edu:14550/sites/default/files/misc/upenn.edu_.png" style="margin:0 1px 0 0;" title="University of Pennsylvania Library" width="170px"/>
+         </a>
+        </span>
+       </p>
+      </div>
+      <form action="https://proxy.library.upenn.edu:2166/action/doSaveSearch" id="frmSaveSearch" method="get" name="frmSaveSearch">
+       <div class="mod rail">
+        <div class="inner">
+         <div class="hd">
+          <h2 class="h6">
+           Save this Search
+          </h2>
+         </div>
+         <div class="bd">
+          <label for="searchName">
+           Search Name
+          </label>
+          <br/>
+          <input class="text" id="searchName" maxlength="70" name="saveSearchName" onfocus="javascript:if(this.value==''){this.value='';}" size="15" title="" type="text" value=""/>
+          <input name="perform" type="hidden" value="true"/>
+          <!-- <input type="hidden" name="alertme" value="true"/>-->
+          <label class="saveSearchLabels" for="alertme">
+           Alert Me About New Articles
+          </label>
+          <br/>
+          <select id="alertme" name="alertme">
+           <option value="Never">
+            Never
+           </option>
+           <option value="Monthly">
+            Monthly
+           </option>
+           <option selected="selected" value="Weekly">
+            Weekly
+           </option>
+           <option value="Daily">
+            Daily
+           </option>
+          </select>
+          <div class="rss">
+           <a href="/action/doSearchRSS?Query=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;hp=100">
+            RSS feed
+           </a>
+          </div>
+          <input class="button" id="searchSaveButton" type="submit" value="Save"/>
+          <input name="action" type="hidden" value="saveSearch"/>
+          <input name="noDoi" type="hidden" value="yesDoi"/>
+          <input name="redirectUri" type="hidden" value="/action/doBasicResults?amp;wc=on&amp;Query=herodotus&amp;acc=on&amp;fc=off"/>
+          <input name="sbq" type="hidden" value="herodotus"/>
+          <input name="Search" type="hidden" value="Search"/>
+          <input name="hp" type="hidden" value="25"/>
+          <input name="la" type="hidden" value=""/>
+          <input name="wc" type="hidden" value="off"/>
+          <input name="fc" type="hidden" value="off"/>
+          <input name="acc" type="hidden" value="on"/>
+          <input name="vf" type="hidden" value="all"/>
+          <input name="bk" type="hidden" value="off"/>
+          <input name="pm" type="hidden" value="off"/>
+          <input name="jo" type="hidden" value="off"/>
+          <input name="ar" type="hidden" value="off"/>
+          <input name="re" type="hidden" value="off"/>
+          <input name="ms" type="hidden" value="off"/>
+          <input name="mxpg" type="hidden" value="1139"/>
+          <input name="dpg" type="hidden" value="1"/>
+          <input name="si" type="hidden" value="1"/>
+          <input name="gw" type="hidden" value="jtx"/>
+          <input name="Query" type="hidden" value="herodotus"/>
+          <input name="sname" type="hidden" value="doBasicSearch"/>
+         </div>
+        </div>
+       </div>
+      </form>
+      <div id="linkingContainer">
+      </div>
+     </div>
+    </div>
+    <!-- if the page is Advance Search, Citation Locator Search Page and Registration form, we hide the global search box -->
+    <div class="main" id="mainContent">
+     <div class="mainInner noGlobalSrch">
+      <h2>
+       28,465    
+	
+			Search Results
+      </h2>
+      <!--
+<span id="EngineQuery" name="ocr:herodotus ti:herodotus^2.0 au:herodotus^2.0 ctbr:herodotus^2.0 ab:herodotus^2.0 kw:herodotus^2.0 ca:herodotus^2.0"></span>
+<span id="NumberOfHits" name="28465"></span>
+<span id="SearchTime" name="0.081"></span>
+-->
+      <div class="searchbd">
+       <form action="/action/doBasicSearch" class="simpleForm" id="resultsSearchForm" method="get">
+        <fieldset>
+         <label class="hidden" for="searchArchive">
+          Search JSTOR
+         </label>
+         <input autocapitalize="off" class="text searchResultPlaceWidth" id="searchArchive" name="Query" type="text" value="herodotus"/>
+         <input class="button btnSearchExten" name="Search" type="submit" value="Search"/>
+         <input name="gw" type="hidden" value="jtx"/>
+         <input name="prq" type="hidden" value="herodotus"/>
+         <input name="hp" type="hidden" value="25"/>
+         <input name="acc" type="hidden" value="on"/>
+         <input name="aori" type="hidden" value="off"/>
+         <input name="wc" type="hidden" value="off"/>
+         <input name="fc" type="hidden" value="off"/>
+        </fieldset>
+        <input id="searchWithin" name="swp" type="checkbox"/>
+        <label class="simpleLabel" for="searchWithin">
+         Search within these results
+        </label>
+       </form>
+       <div class="divModifySearch">
+        <form action="/action/showBasicSearch" id="resultsSearchForm2" method="get">
+         <fieldset>
+          <input class="btnToLink" name="ModifySearch" title="Modify Search" type="submit" value="Modify Search"/>
+          <input name="hp" type="hidden" value="25"/>
+          <input name="la" type="hidden" value=""/>
+          <input name="wc" type="hidden" value="off"/>
+          <input name="fc" type="hidden" value="off"/>
+          <input name="acc" type="hidden" value="on"/>
+          <input name="vf" type="hidden" value="all"/>
+          <input name="bk" type="hidden" value="off"/>
+          <input name="pm" type="hidden" value="off"/>
+          <input name="jo" type="hidden" value="off"/>
+          <input name="ar" type="hidden" value="off"/>
+          <input name="re" type="hidden" value="off"/>
+          <input name="ms" type="hidden" value="off"/>
+          <input name="Query" type="hidden" value="herodotus"/>
+          <input name="sbq" type="hidden" value="herodotus"/>
+         </fieldset>
+        </form>
+       </div>
+      </div>
+      <noscript>
+       <div class="errorMessage">
+        You do not have JavaScript enabled. Please enable JavaScript to use all features on this page.
+       </div>
+      </noscript>
+      <!-- searchResultsItems.jsp -->
+      <div class="mod">
+       <div>
+        <div class="tabs">
+         <ul class="inline">
+          <li class="active">
+           <a href="/action/doBasicResults?hp=25&amp;la=&amp;wc=off&amp;fc=off&amp;acc=on&amp;acc=on&amp;bk=off&amp;pm=off&amp;jo=off&amp;ar=off&amp;re=off&amp;ms=off&amp;gw=jtx&amp;Query=herodotus&amp;sbq=herodotus&amp;mxpg=1139&amp;aori=off&amp;vf=all">
+            All Results
+           </a>
+          </li>
+          <li>
+           <a href="/action/doBasicResults?hp=25&amp;la=&amp;wc=off&amp;fc=off&amp;acc=on&amp;acc=on&amp;bk=off&amp;pm=off&amp;jo=off&amp;ar=off&amp;re=off&amp;ms=off&amp;gw=jtx&amp;Query=herodotus&amp;sbq=herodotus&amp;mxpg=1139&amp;aori=off&amp;vf=jo">
+            Journals
+           </a>
+          </li>
+
+          <li>
+           <a href="/action/doBasicResults?hp=25&amp;la=&amp;wc=off&amp;fc=off&amp;acc=on&amp;acc=on&amp;bk=off&amp;pm=off&amp;jo=off&amp;ar=off&amp;re=off&amp;ms=off&amp;gw=jtx&amp;Query=herodotus&amp;sbq=herodotus&amp;mxpg=1139&amp;aori=off&amp;vf=bk">
+            Books
+           </a>
+          </li>
+          <li>
+           <a href="/action/doBasicResults?hp=25&amp;la=&amp;wc=off&amp;fc=off&amp;acc=on&amp;acc=on&amp;bk=off&amp;pm=off&amp;jo=off&amp;ar=off&amp;re=off&amp;ms=off&amp;gw=jtx&amp;Query=herodotus&amp;sbq=herodotus&amp;mxpg=1139&amp;aori=off&amp;vf=pm">
+            Pamphlets
+           </a>
+          </li>
+         </ul>
+         <div class="tabsActiveBotBorder">
+         </div>
+        </div>
+        <div class="hd">
+         <form action="/action/doBasicResults" id="adjustmentForm" method="get">
+          <input name="la" type="hidden" value=""/>
+          <input name="wc" type="hidden" value="off"/>
+          <input name="fc" type="hidden" value="off"/>
+          <input name="vf" type="hidden" value="all"/>
+          <input name="bk" type="hidden" value="off"/>
+          <input name="pm" type="hidden" value="off"/>
+          <input name="jo" type="hidden" value="off"/>
+          <input name="ar" type="hidden" value="off"/>
+          <input name="re" type="hidden" value="off"/>
+          <input name="ms" type="hidden" value="off"/>
+          <input name="Query" type="hidden" value="herodotus"/>
+          <input name="sbq" type="hidden" value="herodotus"/>
+          <input name="si" type="hidden" value="1"/>
+          <div class="hdPadding">
+           <fieldset class="resultTools">
+            <div class="unit size1of3">
+             <label for="show">
+              Show
+             </label>
+             <select class="selectTall" id="show" name="aori">
+              <option selected="selected" value="off">
+               All content
+              </option>
+              <option value="a">
+               Content I can access
+              </option>
+             </select>
+             <input class="button btnShort" id="accessOrImages" name="Go" title="Go" type="submit" value="Go"/>
+            </div>
+            <div class="unit size1of3 txtR">
+             <label for="sortBy">
+              Sort by
+             </label>
+             <select class="selectSortBy selectTall" id="sortBy" name="so">
+              <option selected="selected" value="rel">
+               Relevance
+              </option>
+              <option value="new">
+               Newest to Oldest
+              </option>
+              <option value="old">
+               Oldest to Newest
+              </option>
+             </select>
+             <input class="button btnShort" id="sortByGoBtn" name="Go" title="Go" type="submit" value="Go"/>
+            </div>
+            <div class="lastUnit size1of3 txtR">
+             <label for="resultsDropDown">
+              Display
+             </label>
+             <select class="selectResults selectTall" id="resultsDropDown" name="hp">
+              <option value="10">
+               10 per page
+              </option>
+              <option selected="selected" value="25">
+               25 per page
+              </option>
+              <option value="50">
+               50 per page
+              </option>
+              <option value="100">
+               100 per page
+              </option>
+             </select>
+             <input class="button btnShort" id="dsplyNumbGoBtn" name="Go" title="Go" type="submit" value="Go"/>
+            </div>
+           </fieldset>
+          </div>
+         </form>
+        </div>
+        <form action="/action/doBasicResults" class="clear" id="frmSrch" method="get" name="frmSrch">
+         <div class="pageResultsNav txtC prSearchRes">
+          <ul class="inline">
+           <li>
+            <span class="inactive">
+             « Previous
+            </span>
+           </li>
+           <li>
+            Page 1 of 1,139
+           </li>
+           <li>
+            <a href="/action/doBasicResults?hp=25&amp;la=&amp;wc=off&amp;fc=off&amp;acc=on&amp;vf=all&amp;bk=off&amp;pm=off&amp;jo=off&amp;ar=off&amp;re=off&amp;ms=off&amp;gw=jtx&amp;Query=herodotus&amp;sbq=herodotus&amp;si=26">
+             Next »
+            </a>
+           </li>
+          </ul>
+         </div>
+         <input name="noDoi" type="hidden" value="yesDoi"/>
+         <input name="redirectUri" type="hidden" value="/action/doBasicResults?amp;wc=on&amp;Query=herodotus&amp;acc=on&amp;fc=off"/>
+         <div class="citationToolsLabel">
+         </div>
+         <ul class="issueToolsNoClear inline">
+          <li>
+           <strong>
+            Citation Tools
+           </strong>
+          </li>
+          <li>
+           <a class="favorites" href="javascript:submitArticles(document.frmSrch, 'https://www.jstor.org/action/addFavoritePublication', '');" id="favoritesTop">
+            Save
+           </a>
+          </li>
+          <li>
+           <a class="email" href="javascript:jstor.submitArticles(document.frmSrch, '/action/emailCitations?from=true&amp;userAction=list');" id="emailTop">
+            Email
+           </a>
+          </li>
+          <li>
+           <a class="export" href="javascript:jstor.submitArticles(document.frmSrch, '/action/showCitFormats');" id="exportTop">
+            Export
+           </a>
+          </li>
+          <li>
+           <a class="trackCitations" href="javascript:submitArticles(document.frmSrch, 'https://www.jstor.org/action/addCitationAlert', '');" id="trackCitationsTop">
+            Track
+           </a>
+          </li>
+         </ul>
+         <div class="container selectAllCitations">
+          <input id="selectUnselectTop" name="selectUnselect" type="checkbox"/>
+          <label for="selectUnselectTop">
+           Select/Unselect All
+          </label>
+         </div>
+         <fieldset class="citeList results" id="results">
+          <ul>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite1" name="doi" type="checkbox" value="10.2307/1357657"/>
+               <span>
+                1.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite1">
+                   Herodotus' Description of the East Mediterranean Coast
+                  </label>
+                  <a class="title" data-rankinpage="1" href="/stable/1357657?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=1&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Herodotus' Description of the East Mediterranean Coast
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F1357657&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F1357657%29" id="previewResult-1">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22Anson+F.+Rainey%22&amp;wc=on&amp;fc=on">
+                   Anson F. Rainey
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   Bulletin of the American Schools of Oriental Research
+                  </cite>
+                  ,  No. 321  (Feb., 2001), pp. 57-63
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="1" href="/stable/view/1357657?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=1&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="1" href="/stable/pdfplus/1357657.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="1" href="/stable/info/1357657?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=1&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite2" name="doi" type="checkbox" value="10.2307/3269235"/>
+               <span>
+                2.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite2">
+                   Herodotus: On the Scythians
+                  </label>
+                  <a class="title" data-rankinpage="2" href="/stable/3269235?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=2&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Herodotus: On the Scythians
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F3269235&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F3269235%29" id="previewResult-2">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22Herodotus%22&amp;wc=on&amp;fc=on">
+                   Herodotus
+                  </a>
+                  ,
+                  <a href="/action/doBasicSearch?Query=au%3A%22Francis+R.+B.+Godolphin%22&amp;wc=on&amp;fc=on">
+                   Francis R. B. Godolphin
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Metropolitan Museum of Art Bulletin
+                  </cite>
+                  , New Series, Vol. 32, No. 5, From the Lands of the Scythians: Ancient Treasures from the Museums of the U.S.S.R. 3000 B.C.-100 B.C.  (1973 - 1974), pp. 129-149
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="2" href="/stable/view/3269235?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=2&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="2" href="/stable/pdfplus/3269235.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="2" href="/stable/info/3269235?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=2&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite3" name="doi" type="checkbox" value="10.2307/3065662"/>
+               <span>
+                3.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  Review
+                  <a href="/action/showSearchInfo?doi=10.2307%2F3065662&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F3065662%29" id="previewResult-3">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="rw">
+                  <cite>
+                   <a data-rankinpage="3" href="/stable/3065662?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=3&amp;ttl=28465&amp;returnArticleService=showFullText">
+                    Herodotus, The History by Herodotus, David Grene
+                   </a>
+                  </cite>
+                 </div>
+                 <div class="author">
+                  Review by:
+                  <a href="/action/doBasicSearch?Query=au%3A%22John+Hart%22&amp;wc=on&amp;fc=on">
+                   John Hart
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Classical Review
+                  </cite>
+                  , New Series, Vol. 38, No. 2  (1988), pp. 402-403
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="3" href="/stable/view/3065662?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=3&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="3" href="/stable/pdfplus/3065662.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="3" href="/stable/info/3065662?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=3&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite4" name="doi" type="checkbox" value="10.2307/30096860"/>
+               <span>
+                4.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite4">
+                   Herodotus and the Caspian
+                  </label>
+                  <a class="title" data-rankinpage="4" href="/stable/30096860?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=4&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Herodotus and the Caspian
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F30096860&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F30096860%29" id="previewResult-4">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22Stanley+Casson%22&amp;wc=on&amp;fc=on">
+                   Stanley Casson
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Annual of the British School at Athens
+                  </cite>
+                  , Vol. 23,  (1918/1919), pp. 175-193
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="4" href="/stable/view/30096860?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=4&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="4" href="/stable/pdfplus/30096860.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="4" href="/stable/info/30096860?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=4&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite5" name="doi" type="checkbox" value="10.2307/3950636"/>
+               <span>
+                5.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite5">
+                   Dig Confirms Herodotus' Tales
+                  </label>
+                  <a class="title" data-rankinpage="5" href="/stable/3950636?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=5&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Dig Confirms Herodotus' Tales
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F3950636&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F3950636%29" id="previewResult-5">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="srcInfo">
+                  <cite>
+                   Science News
+                  </cite>
+                  , Vol. 90, No. 21  (Nov. 19, 1966), p. 426
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="5" href="/stable/view/3950636?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=5&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="5" href="/stable/pdfplus/3950636.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="5" href="/stable/info/3950636?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=5&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite6" name="doi" type="checkbox" value="10.2307/631826"/>
+               <span>
+                6.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite6">
+                   Ananke in Herodotus
+                  </label>
+                  <a class="title" data-rankinpage="6" href="/stable/631826?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=6&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Ananke in Herodotus
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F631826&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F631826%29" id="previewResult-6">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22Rosaria+Vignolo+Munson%22&amp;wc=on&amp;fc=on">
+                   Rosaria Vignolo Munson
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Journal of Hellenic Studies
+                  </cite>
+                  , Vol. 121,  (2001), pp. 30-50
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="6" href="/stable/view/631826?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=6&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="6" href="/stable/pdfplus/631826.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="6" href="/stable/info/631826?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=6&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite7" name="doi" type="checkbox" value="10.2307/40599873"/>
+               <span>
+                7.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite7">
+                   Taking Herodotus Personally
+                  </label>
+                  <a class="title" data-rankinpage="7" href="/stable/40599873?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=7&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Taking Herodotus Personally
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F40599873&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F40599873%29" id="previewResult-7">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22P.+A.+CARTLEDGE%22&amp;wc=on&amp;fc=on">
+                   P. A. CARTLEDGE
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Classical World
+                  </cite>
+                  , Vol. 102, No. 4  (SUMMER 2009), pp. 371-382
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="7" href="/stable/view/40599873?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=7&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="7" href="/stable/pdfplus/40599873.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="7" href="/stable/info/40599873?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=7&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite8" name="doi" type="checkbox" value="10.2307/25011045"/>
+               <span>
+                8.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite8">
+                   Herodotus and Solon
+                  </label>
+                  <a class="title" data-rankinpage="8" href="/stable/25011045?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=8&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Herodotus and Solon
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F25011045&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F25011045%29" id="previewResult-8">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22Susan+O.+Shapiro%22&amp;wc=on&amp;fc=on">
+                   Susan O. Shapiro
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   Classical Antiquity
+                  </cite>
+                  , Vol. 15, No. 2  (Oct., 1996), pp. 348-364
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="8" href="/stable/view/25011045?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=8&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="8" href="/stable/pdfplus/25011045.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="8" href="/stable/info/25011045?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=8&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite9" name="doi" type="checkbox" value="10.2307/41653215"/>
+               <span>
+                9.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite9">
+                   ON EDITING HERODOTUS
+                  </label>
+                  <a class="title" data-rankinpage="9" href="/stable/41653215?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=9&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   ON EDITING HERODOTUS
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F41653215&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F41653215%29" id="previewResult-9">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22R.+A.+McNeal%22&amp;wc=on&amp;fc=on">
+                   R. A. McNeal
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   L’Antiquité Classique
+                  </cite>
+                  , T. 52,  (1983), pp. 110-129
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="9" href="/stable/view/41653215?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=9&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="9" href="/stable/pdfplus/41653215.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="9" href="/stable/info/41653215?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=9&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite10" name="doi" type="checkbox" value="10.2307/642699"/>
+               <span>
+                10.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite10">
+                   Herodotus
+                  </label>
+                  <a class="title" data-rankinpage="10" href="/stable/642699?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=10&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Herodotus
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F642699&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F642699%29" id="previewResult-10">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22G.+E.+M.+De+Ste.+Croix%22&amp;wc=on&amp;fc=on">
+                   G. E. M. De Ste. Croix
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   Greece &amp; Rome
+                  </cite>
+                  , Second Series, Vol. 24, No. 2  (Oct., 1977), pp. 130-148
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="10" href="/stable/view/642699?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=10&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="10" href="/stable/pdfplus/642699.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="10" href="/stable/info/642699?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=10&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite11" name="doi" type="checkbox" value="10.2307/4350661"/>
+               <span>
+                11.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  Review
+                  <a href="/action/showSearchInfo?doi=10.2307%2F4350661&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F4350661%29" id="previewResult-11">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="rw">
+                  <cite>
+                   <a data-rankinpage="11" href="/stable/4350661?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=11&amp;ttl=28465&amp;returnArticleService=showFullText">
+                    Herodotus, Book I by R. A. McNeal, Herodotus
+                   </a>
+                  </cite>
+                 </div>
+                 <div class="author">
+                  Review by:
+                  <a href="/action/doBasicSearch?Query=au%3A%22T.+J.+Luce%22&amp;wc=on&amp;fc=on">
+                   T. J. Luce
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Classical World
+                  </cite>
+                  , Vol. 83, No. 4  (Mar. - Apr., 1990), p. 375
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="11" href="/stable/view/4350661?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=11&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="11" href="/stable/pdfplus/4350661.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="11" href="/stable/info/4350661?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=11&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite12" name="doi" type="checkbox" value="10.2307/40599878"/>
+               <span>
+                12.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite12">
+                   Who Are Herodotus' Persians?
+                  </label>
+                  <a class="title" data-rankinpage="12" href="/stable/40599878?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=12&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Who Are Herodotus' Persians?
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F40599878&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F40599878%29" id="previewResult-12">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22ROSARIA+VlGNOLO+MUNSON%22&amp;wc=on&amp;fc=on">
+                   ROSARIA VlGNOLO MUNSON
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Classical World
+                  </cite>
+                  , Vol. 102, No. 4  (SUMMER 2009), pp. 457-470
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="12" href="/stable/view/40599878?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=12&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="12" href="/stable/pdfplus/40599878.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="12" href="/stable/info/40599878?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=12&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite13" name="doi" type="checkbox" value="10.2307/3062237"/>
+               <span>
+                13.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite13">
+                   Herodotus on Egypt
+                  </label>
+                  Review:
+                  <a class="title" data-rankinpage="13" href="/stable/3062237?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=13&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Herodotus on Egypt
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F3062237&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F3062237%29" id="previewResult-13">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="rw">
+                  <cite>
+                   Herodotus, Book ii. Introduction, Commentary 1-98
+                  </cite>
+                  by Herodotus; A. B. Lloyd
+                 </div>
+                 <div class="author">
+                  Review by:
+                  <a href="/action/doBasicSearch?Query=au%3A%22Stephanie+West%22&amp;wc=on&amp;fc=on">
+                   Stephanie West
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Classical Review
+                  </cite>
+                  , New Series, Vol. 28, No. 2  (1978), pp. 230-233
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="13" href="/stable/view/3062237?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=13&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="13" href="/stable/pdfplus/3062237.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="13" href="/stable/info/3062237?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=13&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite14" name="doi" type="checkbox" value="10.2307/283138"/>
+               <span>
+                14.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite14">
+                   Herodotus and the Spartan King Lists
+                  </label>
+                  <a class="title" data-rankinpage="14" href="/stable/283138?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=14&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Herodotus and the Spartan King Lists
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F283138&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F283138%29" id="previewResult-14">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22D.+W.+Prakken%22&amp;wc=on&amp;fc=on">
+                   D. W. Prakken
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   Transactions and Proceedings of the American Philological Association
+                  </cite>
+                  , Vol. 71,  (1940), pp. 460-472
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="14" href="/stable/view/283138?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=14&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="14" href="/stable/pdfplus/283138.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="14" href="/stable/info/283138?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=14&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite15" name="doi" type="checkbox" value="10.2307/40599875"/>
+               <span>
+                15.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite15">
+                   Herodotus and Samos: Personal or Political?
+                  </label>
+                  <a class="title" data-rankinpage="15" href="/stable/40599875?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=15&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Herodotus and Samos: Personal or Political?
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F40599875&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F40599875%29" id="previewResult-15">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22ELIZABETH+IRWIN%22&amp;wc=on&amp;fc=on">
+                   ELIZABETH IRWIN
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Classical World
+                  </cite>
+                  , Vol. 102, No. 4  (SUMMER 2009), pp. 395-416
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="15" href="/stable/view/40599875?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=15&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="15" href="/stable/pdfplus/40599875.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="15" href="/stable/info/40599875?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=15&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite16" name="doi" type="checkbox" value="10.2307/1408909"/>
+               <span>
+                16.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite16">
+                   Aristotle and the Politics of Herodotus's "History"
+                  </label>
+                  <a class="title" data-rankinpage="16" href="/stable/1408909?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=16&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Aristotle and the Politics of Herodotus's "History"
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F1408909&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F1408909%29" id="previewResult-16">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22Elliot+Bartky%22&amp;wc=on&amp;fc=on">
+                   Elliot Bartky
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Review of Politics
+                  </cite>
+                  , Vol. 64, No. 3  (Summer, 2002), pp. 445-468
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="16" href="/stable/view/1408909?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=16&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="16" href="/stable/pdfplus/1408909.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="16" href="/stable/info/1408909?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=16&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite17" name="doi" type="checkbox" value="10.2307/40599880"/>
+               <span>
+                17.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite17">
+                   On "Fussy Authorial Nudges" in Herodotus
+                  </label>
+                  <a class="title" data-rankinpage="17" href="/stable/40599880?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=17&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   On "Fussy Authorial Nudges" in Herodotus
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F40599880&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F40599880%29" id="previewResult-17">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22ROBIN+WATERFIELD%22&amp;wc=on&amp;fc=on">
+                   ROBIN WATERFIELD
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Classical World
+                  </cite>
+                  , Vol. 102, No. 4  (SUMMER 2009), pp. 485-494
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="17" href="/stable/view/40599880?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=17&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="17" href="/stable/pdfplus/40599880.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="17" href="/stable/info/40599880?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=17&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite18" name="doi" type="checkbox" value="10.1525/CA.2010.29.1.1"/>
+               <span>
+                18.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite18">
+                   Herodotus and the Map of Aristagoras
+                  </label>
+                  <a class="title" data-rankinpage="18" href="/stable/10.1525/CA.2010.29.1.1?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=18&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Herodotus and the Map of Aristagoras
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.1525%2FCA.2010.29.1.1&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.1525%2FCA.2010.29.1.1%29" id="previewResult-18">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22David+Branscome%22&amp;wc=on&amp;fc=on">
+                   David Branscome
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   Classical Antiquity
+                  </cite>
+                  , Vol. 29, No. 1  (April 2010), pp. 1-44
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pdflink" data-rankinpage="18" href="/stable/pdfplus/10.1525/CA.2010.29.1.1.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="18" href="/stable/info/10.1525/CA.2010.29.1.1?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=18&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite19" name="doi" type="checkbox" value="10.2307/629251"/>
+               <span>
+                19.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  Review
+                  <a href="/action/showSearchInfo?doi=10.2307%2F629251&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F629251%29" id="previewResult-19">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="rw">
+                  <cite>
+                   <a data-rankinpage="19" href="/stable/629251?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=19&amp;ttl=28465&amp;returnArticleService=showFullText">
+                    Herodotus. Histories by A. de Selincourt, Herodotus
+                   </a>
+                  </cite>
+                 </div>
+                 <div class="author">
+                  Review by:
+                  <a href="/action/doBasicSearch?Query=au%3A%22A.+R.+Burn%22&amp;wc=on&amp;fc=on">
+                   A. R. Burn
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Journal of Hellenic Studies
+                  </cite>
+                  , Vol. 75,  (1955), p. 197
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="19" href="/stable/view/629251?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=19&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="19" href="/stable/pdfplus/629251.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="19" href="/stable/info/629251?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=19&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite20" name="doi" type="checkbox" value="10.2307/40599874"/>
+               <span>
+                20.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite20">
+                   Herodotus on the American Empire
+                  </label>
+                  <a class="title" data-rankinpage="20" href="/stable/40599874?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=20&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Herodotus on the American Empire
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F40599874&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F40599874%29" id="previewResult-20">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22THOMAS+HARRISON%22&amp;wc=on&amp;fc=on">
+                   THOMAS HARRISON
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Classical World
+                  </cite>
+                  , Vol. 102, No. 4  (SUMMER 2009), pp. 383-393
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="20" href="/stable/view/40599874?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=20&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="20" href="/stable/pdfplus/40599874.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="20" href="/stable/info/40599874?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=20&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite21" name="doi" type="checkbox" value="10.2307/1087214"/>
+               <span>
+                21.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  Review
+                  <a href="/action/showSearchInfo?doi=10.2307%2F1087214&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F1087214%29" id="previewResult-21">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="rw">
+                  <cite>
+                   <a data-rankinpage="21" href="/stable/1087214?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=21&amp;ttl=28465&amp;returnArticleService=showFullText">
+                    Herodotus: An Interpretative Essay by Charles W. Fornara, Herodotus
+                   </a>
+                  </cite>
+                 </div>
+                 <div class="author">
+                  Review by:
+                  <a href="/action/doBasicSearch?Query=au%3A%22J.+R.+Grant%22&amp;wc=on&amp;fc=on">
+                   J. R. Grant
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   Phoenix
+                  </cite>
+                  , Vol. 26, No. 1  (Spring, 1972), pp. 92-95
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="21" href="/stable/view/1087214?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=21&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="21" href="/stable/pdfplus/1087214.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="21" href="/stable/info/1087214?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=21&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite22" name="doi" type="checkbox" value="10.2307/4344981"/>
+               <span>
+                22.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  Review
+                  <a href="/action/showSearchInfo?doi=10.2307%2F4344981&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F4344981%29" id="previewResult-22">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="rw">
+                  <cite>
+                   <a data-rankinpage="22" href="/stable/4344981?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=22&amp;ttl=28465&amp;returnArticleService=showFullText">
+                    Herodotus, the Struggle for Greece by Kenneth Cavander, Herodotus
+                   </a>
+                  </cite>
+                 </div>
+                 <div class="author">
+                  Review by:
+                  <a href="/action/doBasicSearch?Query=au%3A%22Paul+MacKendrick%22&amp;wc=on&amp;fc=on">
+                   Paul MacKendrick
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Classical World
+                  </cite>
+                  , Vol. 56, No. 3  (Dec., 1962), p. 74
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="22" href="/stable/view/4344981?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=22&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="22" href="/stable/pdfplus/4344981.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="22" href="/stable/info/4344981?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=22&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite23" name="doi" type="checkbox" value="10.2307/30222427"/>
+               <span>
+                23.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  <label class="hide" for="cite23">
+                   Cultural Antitheses: Reflections of Herodotus 2.35-36
+                  </label>
+                  <a class="title" data-rankinpage="23" href="/stable/30222427?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=23&amp;ttl=28465&amp;returnArticleService=showFullText">
+                   Cultural Antitheses: Reflections of Herodotus 2.35-36
+                  </a>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F30222427&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F30222427%29" id="previewResult-23">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="author">
+                  <a href="/action/doBasicSearch?Query=au%3A%22Stephanie+West%22&amp;wc=on&amp;fc=on">
+                   Stephanie West
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   International Journal of the Classical Tradition
+                  </cite>
+                  , Vol. 5, No. 1  (Summer, 1998), pp. 3-19
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="23" href="/stable/view/30222427?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=23&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="23" href="/stable/pdfplus/30222427.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="23" href="/stable/info/30222427?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=23&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon accessIconFull" src="/templates/jsp/_jstor/images/access_full.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite24" name="doi" type="checkbox" value="10.2307/629252"/>
+               <span>
+                24.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  Review
+                  <a href="/action/showSearchInfo?doi=10.2307%2F629252&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F629252%29" id="previewResult-24">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="rw">
+                  <cite>
+                   <a data-rankinpage="24" href="/stable/629252?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=24&amp;ttl=28465&amp;returnArticleService=showFullText">
+                    Herodotus. Histoires. Livre VIII, Uranie. by Herodotus, Ph.-E. Legrand
+                   </a>
+                  </cite>
+                 </div>
+                 <div class="author">
+                  Review by:
+                  <a href="/action/doBasicSearch?Query=au%3A%22E.+D.+Phillips%22&amp;wc=on&amp;fc=on">
+                   E. D. Phillips
+                  </a>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The Journal of Hellenic Studies
+                  </cite>
+                  , Vol. 75,  (1955), pp. 197-198
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="24" href="/stable/view/629252?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=24&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="24" href="/stable/pdfplus/629252.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="24" href="/stable/info/629252?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=24&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="cite">
+             <div class="subCite tipContainer">
+              <img alt="" class="accessIcon" src="/templates/jsp/_jstor/images/access_free.gif"/>
+             </div>
+             <div class="mainCite">
+              <div class="index floatL">
+               <input id="cite25" name="doi" type="checkbox" value="10.2307/25107555"/>
+               <span>
+                25.
+               </span>
+              </div>
+              <div class="resultsContainer">
+               <div class="unit size4of5">
+                <div class="hd">
+                 <!-- putting the content-type images as a background to title -->
+                 <div class="title">
+                  Review
+                  <img alt="Free content" src="/templates/jsp/_jstor/images/free.gif"/>
+                  <a href="/action/showSearchInfo?doi=10.2307%2F25107555&amp;searchText=herodotus&amp;wc=on&amp;fc=on&amp;acc=off&amp;Query=%28herodotus%29+AND+%28doi%3A10.2307%2F25107555%29" id="previewResult-25">
+                  </a>
+                 </div>
+                </div>
+                <div class="bd">
+                 <div class="rw">
+                  <cite>
+                   <a data-rankinpage="25" href="/stable/25107555?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=25&amp;ttl=28465&amp;returnArticleService=showFullText">
+                    The History of Herodotus. A New English Version, Edited with Copious Notes and Appendices, Illustrating the History and Geography of Herodotus, from the Most Recent Sources of Information; And Embodying the Chief Results, Historical and Ethnographical, Which Have Been Obtained in the Progress of Cuneiform and Hieroglyphical Discovery. Vol. I by George Rawlinson, Herodotus
+                   </a>
+                  </cite>
+                 </div>
+                 <div class="srcInfo">
+                  <cite>
+                   The North American Review
+                  </cite>
+                  , Vol. 89, No. 185  (Oct., 1859), pp. 572-573
+                 </div>
+                 <div class="ft articleLinks clear">
+                  <a class="pagescanlink" data-rankinpage="25" href="/stable/view/25107555?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=25&amp;ttl=28465&amp;returnArticleService=showArticle">
+                   Page Scan
+                  </a>
+                  <a class="pdflink" data-rankinpage="25" href="/stable/pdfplus/25107555.pdf" target="_blank">
+                   Article PDF
+                  </a>
+                  <a class="first" data-rankinpage="25" href="/stable/info/25107555?&amp;Search=yes&amp;searchText=herodotus&amp;list=hide&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dherodotus%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26&amp;prevSearch=&amp;item=25&amp;ttl=28465&amp;returnArticleService=showArticleInfo">
+                   Article Summary
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <div class="lastUnit size1of5 floatR">
+                <div class="ctArticle">
+                 Journal
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </li>
+          </ul>
+         </fieldset>
+         <input name="hp" type="hidden" value="25"/>
+         <input name="la" type="hidden" value=""/>
+         <input name="wc" type="hidden" value="off"/>
+         <input name="fc" type="hidden" value="off"/>
+         <input name="acc" type="hidden" value="on"/>
+         <input name="vf" type="hidden" value="all"/>
+         <input name="bk" type="hidden" value="off"/>
+         <input name="pm" type="hidden" value="off"/>
+         <input name="jo" type="hidden" value="off"/>
+         <input name="ar" type="hidden" value="off"/>
+         <input name="re" type="hidden" value="off"/>
+         <input name="ms" type="hidden" value="off"/>
+         <input name="mxpg" type="hidden" value="1139"/>
+         <input name="dpg" type="hidden" value="1"/>
+         <input name="si" type="hidden" value="1"/>
+         <input name="gw" type="hidden" value="jtx"/>
+         <input name="Query" type="hidden" value="herodotus"/>
+         <input name="sbq" type="hidden" value="herodotus"/>
+         <div class="pageResultsNav txtC prSearchRes">
+          <ul class="inline">
+           <li>
+            <span class="inactive">
+             « Previous
+            </span>
+           </li>
+           <li>
+            Page 1 of 1,139
+           </li>
+           <li>
+            <a href="/action/doBasicResults?hp=25&amp;la=&amp;wc=off&amp;fc=off&amp;acc=on&amp;vf=all&amp;bk=off&amp;pm=off&amp;jo=off&amp;ar=off&amp;re=off&amp;ms=off&amp;gw=jtx&amp;Query=herodotus&amp;sbq=herodotus&amp;si=26">
+             Next »
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div class="citationToolsLabel">
+         </div>
+         <ul class="issueToolsNoClear inline">
+          <li>
+           <strong>
+            Citation Tools
+           </strong>
+          </li>
+          <li>
+           <a class="favorites" href="javascript:submitArticles(document.frmSrch, 'https://www.jstor.org/action/addFavoritePublication', '');" id="favoritesBottom">
+            Save
+           </a>
+          </li>
+          <li>
+           <a class="email" href="javascript:jstor.submitArticles(document.frmSrch, '/action/emailCitations?from=true&amp;userAction=list');" id="emailBottom">
+            Email
+           </a>
+          </li>
+          <li>
+           <a class="export" href="javascript:jstor.submitArticles(document.frmSrch, '/action/showCitFormats');" id="exportBottom">
+            Export
+           </a>
+          </li>
+          <li>
+           <a class="trackCitations" href="javascript:submitArticles(document.frmSrch, 'https://www.jstor.org/action/addCitationAlert', '');" id="trackCitationsBottom">
+            Track
+           </a>
+          </li>
+         </ul>
+         <div class="container selectAllCitations">
+          <input id="selectUnselectBottom" name="selectUnselect" type="checkbox"/>
+          <label for="selectUnselectBottom">
+           Select/Unselect All
+          </label>
+         </div>
+        </form>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="foot">
+   <ul class="menu support" id="footerNav">
+    <li>
+     <a href="/">
+      JSTOR Home
+     </a>
+    </li>
+    <li>
+     <a href="http://proxy.library.upenn.edu:2167">
+      About
+     </a>
+    </li>
+    <li>
+     <a href="/action/showAdvancedSearch">
+      Search
+     </a>
+    </li>
+    <li>
+     <a href="/action/showJournals">
+      Browse
+     </a>
+    </li>
+    <li>
+     <a href="/page/info/about/policies/terms.jsp">
+      Terms and Conditions
+     </a>
+    </li>
+    <li>
+     <a href="/page/info/about/policies/privacy.jsp">
+      Privacy Policy
+     </a>
+    </li>
+    <li>
+     <a href="http://proxy.library.upenn.edu:2167/content/setting-jstor-access#Technical-Info#JSTOR-s-Use-of-Cookies">
+      Cookies
+     </a>
+    </li>
+    <li>
+     <a href="/page/info/about/policies/accessibility.jsp">
+      Accessibility
+     </a>
+    </li>
+    <li>
+     <a href="http://proxy.library.upenn.edu:2167/support-training/help">
+      Help
+     </a>
+    </li>
+    <li>
+     <a href="/action/showContactSupportForm">
+      Contact us
+     </a>
+    </li>
+   </ul>
+   <div class="footer">
+    <div class="inner">
+     JSTOR is part of ITHAKA, a not-for-profit organization helping the academic community use digital technologies to preserve the scholarly record and to advance research and teaching in sustainable ways.
+     <br/>
+     ©2000-2013 ITHAKA. All Rights Reserved. JSTOR®, the JSTOR logo, the JPASS logo and ITHAKA® are registered trademarks of ITHAKA.
+     <br/>
+     <div class="providerAccess smTxt">
+      <p>
+       Your access to JSTOR provided by
+       <span class="impact">
+        <a href="http://proxy.library.upenn.edu:2071">
+         <p style="line-height: 5px; ">
+         </p>
+         <img alt="University of Pennsylvania Library" src="http://proxy.library.upenn.edu:14550/sites/default/files/misc/upenn.edu_.png" style="margin:0 1px 0 0;" title="University of Pennsylvania Library" width="170px"/>
+        </a>
+       </span>
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+<!-- placeholder id=null, description=Per Page Scripts -->
+<script type="text/javascript">
+ if($("#bookMarcDownload").length){
+    $("h3.reportsHeader").closest(".line").append("<p class='h4'>Please note: Beginning November 15, 2013, JSTOR will be partnering with OCLC on the production and delivery of MARC records. Institutions may wish to avoid loading MARC records from JSTOR until OCLC MARC records become available. For more information please contact <a href='mailto:participation@jstor.org'>participation@jstor.org</a>.</p>");
+}
+if($("#sales").length){
+    $("h3.reportsHeader").closest(".line").append("<p class='h4'>Note that this Sales report represents only a portion of the traffic that leads to Publisher Sales Service (PSS) transactions. For a summary of all completed PSS transactions, please refer to your PSS quarterly summaries or contact <a href='mailto:contentdevelopment@jstor.org'>contentdevelopment@jstor.org</a>.</p>");
+}
+</script>
+<script src="/jawr/1280407819/bundles/jstorSiteCatalyst.js" type="text/javascript">
+</script>
+<div class="hide" data-loginevent="" data-loginstatus="" data-registrationcomplete="" id="SCDataSiteWide">
+</div>
+<div class="hide" data-authenticate="Institutional" data-foundresults="true" data-pagename="search results" data-resultspage="1" data-searchquery="herodotus" id="SCData">
+</div>
+<!-- placeholder id=null, description=Site-wide Scripts -->
+<!-- ABS Script -->
+<script src="/abs/main.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ jstor.feature.searchOverlay = true;
+  (function($){
+      if(window.location.protocol !== "https:"){
+          if(jstor.mobile.isTouchDevice()){
+              //only get the bookmark js and execute if mobile touch device
+              $(window).load(function(){
+                  $.getScript("/sda/28344/bookmark_bubble.js", function(){
+                      var jstorMobileBookmark = new google.bookmarkbubble.Bubble();
+                      
+                      jstorMobileBookmark.NUMBER_OF_TIMES_TO_DISMISS = 1;
+                      jstorMobileBookmark.mobileReturn = function(){
+                          if(window.localStorage){
+                              if(localStorage.getItem("fromMobile") === "true"){
+                                  return true;
+                              }
+                          }
+                          return false;
+                      };
+                      jstorMobileBookmark.hasHashParameter = function() {
+                          var eval = location.href.indexOf("#mobileBookmark") != -1 || location.href.indexOf("#globalNav") != -1;
+                          
+                          if(eval && window.localStorage){
+                              localStorage.setItem("fromMobile", "true");
+                          }
+                          
+                          return eval;
+                      };
+                      jstorMobileBookmark.setHashParameter = function() {
+                          if (!this.hasHashParameter()) {
+                              location.href = "#mobileBookmark";
+                          }
+                      };
+                      //1.5 second delay before bubble shows
+                      if(!jstorMobileBookmark.mobileReturn()){
+                          setTimeout(function(){
+                              jstorMobileBookmark.showIfAllowedWhenLoaded();
+                          }, 1500);
+                      }
+                      
+                  });
+              });      
+          }
+      
+          if($("#results").length){
+              var $curSearch = $("#resultsSearchForm2"),
+              bookVal = $curSearch.find("input[name='bk']").val(),
+              articleVal = $curSearch.find("input[name='ar']").val(),
+              pampletVal = $curSearch.find("input[name='pm']").val(),
+              reviewVal = $curSearch.find("input[name='re']").val(),
+              miscVal = $curSearch.find("input[name='ms']").val(),
+              tabSelectVal = $curSearch.find("input[name='vf']").val();
+              
+              if(bookVal === "off" && (articleVal === "on" || pampletVal === "on" || reviewVal === "on" || miscVal === "on" || (tabSelectVal !== "all" && tabSelectVal !== "bk"))){
+                  $.getScript("http://ethn.io/remotes/63692");
+              }
+          }
+          var curUrl = window.location.href,
+          imgUrl = "http://beacon.cdn.jstor.org" + curUrl.replace(/^.*(com|org|net)(\/.*$)/,"$2");
+          
+          $("body").append("<img id='dynImage' src='" + imgUrl + "' alt=' ' />");
+          $("#dynImage").error(function(){
+              $(this).remove();
+          });
+      }
+  })(jQuery);
+
+// Crazy Egg
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0010/4927.js";
+
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<noscript>
+</noscript>
+<!-- IMPORTANT! This jiffy script needs to be the last script on this page - as it measures load time. -->
+<script type="text/javascript">
+ Jiffy.measure("BodyTagTiming", "startBody");
+</script>
+

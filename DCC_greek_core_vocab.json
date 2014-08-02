@@ -1,0 +1,3642 @@
+[
+	{
+		"headword" : "ὁ ἡ τό",
+		"definition" : "the",
+		"part-of-speech" : "definite article",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "1"
+  	},
+  	{
+		"headword" : "αὐτός αὐτή αὐτό",
+		"definition" : "him- her- itself etc. (for emphasis); the same (with article); (pron.) him, her, it etc. (in oblique cases)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "2"
+  	},
+  	{
+		"headword" : "καί",
+		"definition" : "and, also, even; καί...καί both...and",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "3"
+  	},
+  	{
+		"headword" : "δέ",
+		"definition" : "and; but",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "4"
+  	},
+  	{
+		"headword" : "τίς τί",
+		"definition" : "who? what? which? (interrog. pron./adj.)",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "5"
+  	},
+  	{
+		"headword" : "εἰμί, ἔσομαι, impf. ἦν, infin. εἶναι",
+		"definition" : "be, exist",
+		"part-of-speech" : "verb: irregular",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "6"
+  	},
+  	{
+		"headword" : "οὗτος αὕτη τοῦτο",
+		"definition" : "this, these; μετὰ ταῦτα after this",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "7"
+  	},
+  	{
+		"headword" : "ἐν",
+		"definition" : "in, among (+dat.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "9"
+  	},
+  	{
+		"headword" : "μέν...δέ",
+		"definition" : "on the one hand...on the other hand (often untranslated); μέν (by itself) indeed",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "10"
+  	},
+  	{
+		"headword" : "ὅς ἥ ὅ",
+		"definition" : "who, which, that",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "11"
+  	},
+  	{
+		"headword" : "γάρ",
+		"definition" : "for (explanatory), indeed, in fact (confirming)",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "12"
+  	},
+  	{
+		"headword" : "οὐ, οὐκ, οὐχ",
+		"definition" : "not (with indicative verbs)",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "13"
+  	},
+  	{
+		"headword" : "λέγω, ἐρῶ, εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην and ἐρρήθην",
+		"definition" : "say, speak (of), recount; pick up, collect, count",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "14"
+  	},
+  	{
+		"headword" : "ὡς",
+		"definition" : "as, since; (introducing purpose clause) so that (+subj./opt.); (introducing indir. statement) that",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "15"
+  	},
+  	{
+		"headword" : "τε",
+		"definition" : "and; τε…τε both…and",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "16"
+  	},
+  	{
+		"headword" : "εἰς",
+		"definition" : "into, to, towards (+acc.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "17"
+  	},
+  	{
+		"headword" : "ἐπί",
+		"definition" : "at (+gen.); on (+dat.); on to, against (+acc.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "18"
+  	},
+  	{
+		"headword" : "κατά",
+		"definition" : "down, down (from or along), throughout, according to; κατὰ γῆν by land; κατὰ φύσιν in accordance with nature; κατ’ ἔθνη by nations; καθ᾿ἕνα one by one.",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "19"
+  	},
+  	{
+		"headword" : "ἐγώ ἐμοῦ, (pl.) ἡμεῖς, ἡμῶν",
+		"definition" : "I, we",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "20"
+  	},
+  	{
+		"headword" : "πρός",
+		"definition" : "from the side of, in the presence of (+gen.); near, at, in addition to (+dat.); to, towards, in relation to (+acc.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "22"
+  	},
+  	{
+		"headword" : "γίγνομαι, γενήσομαι, 2 aor. ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην",
+		"definition" : "become; be born; happen, be",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "23"
+  	},
+  	{
+		"headword" : "ἐάν (εἰ-ἄν)",
+		"definition" : "if (+subj.)",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "24"
+  	},
+  	{
+		"headword" : "διά",
+		"definition" : "through, during, because of (+gen., acc.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Prepositions without Direction",
+		"frequency-rank" : "25"
+  	},
+  	{
+		"headword" : "ἀλλά",
+		"definition" : "but",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "26"
+  	},
+  	{
+		"headword" : "πᾶς πᾶσα πᾶν",
+		"definition" : "every, all; whole (with article)",
+		"part-of-speech" : "noun: 3rd declension irregular",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "27"
+  	},
+  	{
+		"headword" : "ἔχω, ἕξω or σχήσω, 2 aor. ἔσχον, ἔσχηκα, impf. εἶχον",
+		"definition" : "have, hold, keep",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "28"
+  	},
+  	{
+		"headword" : "ἐκ, ἐξ",
+		"definition" : "from, out of (+gen.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "29"
+  	},
+  	{
+		"headword" : "πολύς πολλή πολύ",
+		"definition" : "much, many; ὡς ἐπὶ τὸ πολύ for the most part",
+		"part-of-speech" : "noun: 3rd declension irregular",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "30"
+  	},
+  	{
+		"headword" : "περί",
+		"definition" : "around, about; concerning (+gen.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "31"
+  	},
+  	{
+		"headword" : "μή",
+		"definition" : "not (marks the negative as subjective or conditional); εἰ μή if not, except",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "32"
+  	},
+  	{
+		"headword" : "ὅστις ἥτις ὅ τι",
+		"definition" : "anyone who, anything which; (in indir. quest.) who, which, what",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "33"
+  	},
+  	{
+		"headword" : "ἄν",
+		"definition" : "[marks verbs as potential (with optative), or generalizing (with subjunctive)]",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "34"
+  	},
+  	{
+		"headword" : "σύ, σοῦ, (pl.) ὑμεῖς, ὑμῶν",
+		"definition" : "you",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "35"
+  	},
+  	{
+		"headword" : "ἀνά",
+		"definition" : "up, on; throughout",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "36"
+  	},
+  	{
+		"headword" : "ὅτι",
+		"definition" : "because, that; (with superl.) as...as possible",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "37"
+  	},
+  	{
+		"headword" : "εἰ",
+		"definition" : "if (+indic. or opt.); εἴπερ if indeed",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "38"
+  	},
+  	{
+		"headword" : "ἄλλος ἄλλη ἄλλο",
+		"definition" : "other, another",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "39"
+  	},
+  	{
+		"headword" : "ἀπό",
+		"definition" : "from (+gen.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "40"
+  	},
+  	{
+		"headword" : "φημί, φήσω, impf. ἔφην",
+		"definition" : "say, assert, declare; οὐ φημί deny, refuse, say that...not",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "41"
+  	},
+  	{
+		"headword" : "ὑπό",
+		"definition" : "under (+gen., dat.); by (+gen. of personal agent); down under (+acc.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "42"
+  	},
+  	{
+		"headword" : "ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην",
+		"definition" : "make, produce, cause, do; (mid.) consider, reckon",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "43"
+  	},
+  	{
+		"headword" : "οὖν",
+		"definition" : "therefore, accordingly; at any rate",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "44"
+  	},
+  	{
+		"headword" : "λόγος λόγου, ὁ",
+		"definition" : "word, speech, discourse; thought, reason, account",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "45"
+  	},
+  	{
+		"headword" : "παρά",
+		"definition" : "from (+gen.); beside (+dat.); to, to the side of, contrary to (+acc.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "46"
+  	},
+  	{
+		"headword" : "οὕτως",
+		"definition" : "in this way",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "47"
+  	},
+  	{
+		"headword" : "πρότερος προτέρα πρότερον",
+		"definition" : "before, earlier; τὸ πρότερον previously, before",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Time",
+		"frequency-rank" : "48"
+  	},
+  	{
+		"headword" : "θεός θεοῦ, ὁ/ἡ",
+		"definition" : "god, goddess",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Religion",
+		"frequency-rank" : "49"
+  	},
+  	{
+		"headword" : "μετά",
+		"definition" : "with (+gen.); after (+acc.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Prepositions without Direction",
+		"frequency-rank" : "50"
+  	},
+  	{
+		"headword" : "ἑαυτοῦ ἑαυτῆς ἑαυτοῦ",
+		"definition" : "him- her- itself (reflexive pron.)",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "51"
+  	},
+  	{
+		"headword" : "μέγας μεγάλη μέγα",
+		"definition" : "big, great, powerful",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "52"
+  	},
+  	{
+		"headword" : "οὐδέ",
+		"definition" : "and not, but not, nor; οὐδέ...οὐδέ not even...nor yet",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "53"
+  	},
+  	{
+		"headword" : "ἐκεῖνος ἐκείνη ἐκεῖνον",
+		"definition" : "that person or thing; ἐκεῖνος…οὗτος the former…the latter",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "54"
+  	},
+  	{
+		"headword" : "τοιοῦτος τοιαύτη τοιοῦτο",
+		"definition" : "such, of such a sort",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "55"
+  	},
+  	{
+		"headword" : "οὐδείς οὐδεμία οὐδέν",
+		"definition" : "no one, nothing",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "56"
+  	},
+  	{
+		"headword" : "εἶπον",
+		"definition" : "I said, I spoke, 2 aor. → λέγω, φημί",
+		"part-of-speech" : "verb: irregular",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "57"
+  	},
+  	{
+		"headword" : "ἀγαθός –ή –όν",
+		"definition" : "good, virtuous, brave, noble",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "58"
+  	},
+  	{
+		"headword" : "γε",
+		"definition" : "(enclitic) indeed; at least, at any rate",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "59"
+  	},
+  	{
+		"headword" : "δή",
+		"definition" : "surely, really, now, in fact, indeed (gives greater exactness)",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "60"
+  	},
+  	{
+		"headword" : "πόλις πόλεως, ἡ",
+		"definition" : "city, city-state",
+		"part-of-speech" : "noun: 3rd declension ι-stem",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "61"
+  	},
+  	{
+		"headword" : "εἷς μία ἕν",
+		"definition" : "one",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "62"
+  	},
+  	{
+		"headword" : "ἵημι, ἥσω, ἧκα, -εἷκα, εἷμαι, -εἵθην",
+		"definition" : "put in motion, let go, shoot; (mid.) hasten, rush",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "63"
+  	},
+  	{
+		"headword" : "ἵημι, ἥσω, ἧκα, εἷκα, εἷμαι, εἵθην",
+		"definition" : "put in motion, let go, shoot; (mid.) hasten, rush",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "63"
+  	},
+  	{
+		"headword" : "δέω, δεήσω, ἐδέησα, δεδέηκα, δεδέημαι, ἐδεήθην",
+		"definition" : "lack, miss, stand in need of (+gen.)",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "64"
+  	},
+  	{
+		"headword" : "ἄνθρωπος –ου, ὁ/ἡ",
+		"definition" : "human being",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "65"
+  	},
+  	{
+		"headword" : "ὁράω, ὄψομαι, 2 aor. εἶδον, ἑόρακα and ἑώρακα, ὤφθην, impf. ἑώρων",
+		"definition" : "see, look (to)",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "66"
+  	},
+  	{
+		"headword" : "μόνος μόνη μόνον",
+		"definition" : "alone, single",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "67"
+  	},
+  	{
+		"headword" : "οὔτε...οὔτε",
+		"definition" : "neither...nor",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "68"
+  	},
+  	{
+		"headword" : "οἷος οἵα οἷον",
+		"definition" : "such as, of what sort, like, (exclam.) what a!, how! ; οἷός τε (+infin.) fit or able to; οἷόν τε (+infin.) it is possible to",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "69"
+  	},
+  	{
+		"headword" : "λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην",
+		"definition" : "take, grasp, seize; receive, get",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "70"
+  	},
+  	{
+		"headword" : "δοκέω, δόξω, ἔδοξα",
+		"definition" : "think, suppose, imagine (+acc. and infin.); seem, seem good; (impers.) δοκεῖ μοι it seems to me",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "The Mind, Perceiving and Learning",
+		"frequency-rank" : "71"
+  	},
+  	{
+		"headword" : "ἕτερος ἑτέρα ἕτερον",
+		"definition" : "the other (of two); other, another",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "72"
+  	},
+  	{
+		"headword" : "κακός –ή –όν",
+		"definition" : "bad, wicked, cowardly",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "73"
+  	},
+  	{
+		"headword" : "ἀνήρ ἀνδρός, ὁ",
+		"definition" : "man, husband",
+		"part-of-speech" : "noun: 3rd declension irregular",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "74"
+  	},
+  	{
+		"headword" : "ἐπεί",
+		"definition" : "after, since, when",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Time",
+		"frequency-rank" : "75"
+  	},
+  	{
+		"headword" : "ὅσος ὅση ὅσον",
+		"definition" : "however much; as great as; (in pl.) as many as; ὅσον (adv.) as much as",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "76"
+  	},
+  	{
+		"headword" : "καλέω, καλῶ, ἐκάλεσα, κέκληκα, κέκλημαι, ἐκλήθην",
+		"definition" : "call, summon",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "77"
+  	},
+  	{
+		"headword" : "σῶμα σώματος, τό",
+		"definition" : "body",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Body Parts",
+		"frequency-rank" : "78"
+  	},
+  	{
+		"headword" : "δεῖ, δεήσει, impf. ἔδει",
+		"definition" : "it is necessary, one must, one ought (+acc. and infin.)",
+		"part-of-speech" : "verb: impersonal",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "79"
+  	},
+  	{
+		"headword" : "ὥσπερ",
+		"definition" : "just as, as if",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "80"
+  	},
+  	{
+		"headword" : "δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην",
+		"definition" : "give, grant, offer",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "81"
+  	},
+  	{
+		"headword" : "ἔτι",
+		"definition" : "still, yet",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "82"
+  	},
+  	{
+		"headword" : "φύσις φύσεως, ἡ",
+		"definition" : "nature; (of the mind) one’s nature or disposition; regular order of nature",
+		"part-of-speech" : "noun: 3rd declension ι-stem",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "83"
+  	},
+  	{
+		"headword" : "μικρός –ά –όν",
+		"definition" : "small, little, short",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "84"
+  	},
+  	{
+		"headword" : "δύναμαι, δυνήσομαι, ἐδυνήθην, δεδύνημαι",
+		"definition" : "(+infin.) to be able (to), be strong enough (to)",
+		"part-of-speech" : "verb: impersonal",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "85"
+  	},
+  	{
+		"headword" : "ὥστε",
+		"definition" : "(introducing natural or actual result clause) so as, so that, (with the result) that",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "86"
+  	},
+  	{
+		"headword" : "ἀρχή ἀρχῆς, ἡ",
+		"definition" : "beginning, origin; rule, empire, realm; magistracy",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Time",
+		"frequency-rank" : "87"
+  	},
+  	{
+		"headword" : "ἕκαστος ἑκάστη ἕκαστον",
+		"definition" : "each (of several)",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "88"
+  	},
+  	{
+		"headword" : "ἡμέρα ἡμέρας, ἡ",
+		"definition" : "day",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "89"
+  	},
+  	{
+		"headword" : "φύω, φύσω, ἔφυσα",
+		"definition" : "bring forth, produce, beget; 2 aor. ἔφυν grew, pf. πέφυκα be by nature",
+		"part-of-speech" : "verb: -ω vowel stem",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "90"
+  	},
+  	{
+		"headword" : "ἅπας ἅπασα ἅπαν",
+		"definition" : "all together",
+		"part-of-speech" : "noun: 3rd declension irregular",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "91"
+  	},
+  	{
+		"headword" : "ὅμοιος ὁμοία ὅμοιον",
+		"definition" : "like, resembling (+dat.)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "92"
+  	},
+  	{
+		"headword" : "νῦν, νυνί",
+		"definition" : "now",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "93"
+  	},
+  	{
+		"headword" : "γῆ γῆς, ἡ",
+		"definition" : "earth",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "94"
+  	},
+  	{
+		"headword" : "δύναμις δυνάμεως, ἡ",
+		"definition" : "power, strength, ability",
+		"part-of-speech" : "noun: 3rd declension ι-stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "95"
+  	},
+  	{
+		"headword" : "καλός –ή –όν",
+		"definition" : "beautiful, noble, honorable",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "96"
+  	},
+  	{
+		"headword" : "κύριος κυρίου, ὁ",
+		"definition" : "lord, master",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "97"
+  	},
+  	{
+		"headword" : "μᾶλλον",
+		"definition" : "more, rather; μᾶλλον...ἤ rather than",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "98"
+  	},
+  	{
+		"headword" : "ὅδε ἥδε τόδε",
+		"definition" : "this",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "99"
+  	},
+  	{
+		"headword" : "ὅλος ὅλη ὅλον",
+		"definition" : "whole, entire, complete",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "100"
+  	},
+  	{
+		"headword" : "μέρος μέρους, τό",
+		"definition" : "part, share",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "101"
+  	},
+  	{
+		"headword" : "ἐμός ἐμή ἐμόν",
+		"definition" : "my, mine",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "103"
+  	},
+  	{
+		"headword" : "χράομαι, χρήσομαι, ἐχρησάμην, κέχρημαι, ἐχρήσθην",
+		"definition" : "use, experience, suffer (+dat.); treat someone in a certain way (+dat. and adv.)",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "104"
+  	},
+  	{
+		"headword" : "δύο",
+		"definition" : "two",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "105"
+  	},
+  	{
+		"headword" : "χρόνος χρόνου, ὁ",
+		"definition" : "time",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Time",
+		"frequency-rank" : "106"
+  	},
+  	{
+		"headword" : "ἴσος ἴση ἴσον",
+		"definition" : "equal, the same as (+dat.)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "107"
+  	},
+  	{
+		"headword" : "ὅταν (ὅτε-ἄν)",
+		"definition" : "whenever (+subj.)",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "108"
+  	},
+  	{
+		"headword" : "μόνον",
+		"definition" : "only",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "109"
+  	},
+  	{
+		"headword" : "οἶδα, infin. εἰδέναι, imper. ἴσθι, plupf. used as impf. ᾔδειν",
+		"definition" : "to know (pf. in pres. sense); to know how to (+infin.)",
+		"part-of-speech" : "verb: irregular",
+		"semantic-group" : "The Mind, Perceiving and Learning ",
+		"frequency-rank" : "110"
+  	},
+  	{
+		"headword" : "βασιλεύς βασιλέως, ὁ",
+		"definition" : "king",
+		"part-of-speech" : "noun: 3rd declension -εύς, -έως",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "111"
+  	},
+  	{
+		"headword" : "ὦ",
+		"definition" : "oh! (unemphatic when with the vocative)",
+		"part-of-speech" : "interjection",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "112"
+  	},
+  	{
+		"headword" : "βούλομαι, βουλήσομαι, βεβούλημαι, ἐβουλήθην",
+		"definition" : "(+infin.) will, wish (to); be willing (to); ὁ βουλόμενος anyone who likes",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "113"
+  	},
+  	{
+		"headword" : "φαίνω, φανῶ, ἔφηνα, πέφηνα, πέφασμαι, ἐφάνην",
+		"definition" : "bring to light, make appear, make clear; (pass.) come to light, be seen, appear, appear to be (+ptc. or infin.)",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Showing and Finding",
+		"frequency-rank" : "114"
+  	},
+  	{
+		"headword" : "γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην",
+		"definition" : "write",
+		"part-of-speech" : "verb: -ω labial stem",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "115"
+  	},
+  	{
+		"headword" : "φέρω, οἴσω, 1 aor. ἤνεγκα, 2 aor. ἤνεγκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην",
+		"definition" : "carry, bring, fetch; carry off or away; φέρε come now, well",
+		"part-of-speech" : "verb: irregular",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "116"
+  	},
+  	{
+		"headword" : "ψυχή ψυχῆς, ἡ",
+		"definition" : "breath, life, soul",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "117"
+  	},
+  	{
+		"headword" : "μηδείς μηδεμία μηδέν",
+		"definition" : "no one, nothing",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "118"
+  	},
+  	{
+		"headword" : "αἴτιος αἰτία αἴτιον",
+		"definition" : "responsible, guilty",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "119"
+  	},
+  	{
+		"headword" : "πάλιν",
+		"definition" : "back, backwards; again",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "120"
+  	},
+  	{
+		"headword" : "μάλιστα",
+		"definition" : "most, most of all; (in replies) certainly",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "121"
+  	},
+  	{
+		"headword" : "ὑπάρχω, ὑπάρξω, ὑπῆρξα, ὑπῆργμαι, ὑπήρχθην",
+		"definition" : "exist, be, belong to; τὰ ὑπάρχοντα existing circumstances",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "122"
+  	},
+  	{
+		"headword" : "ἄρχω, ἄρξω, ἦρξα, ἦργμαι, ἤρχθην",
+		"definition" : "begin (+gen.); lead, rule, govern (+gen.)",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Time",
+		"frequency-rank" : "123"
+  	},
+  	{
+		"headword" : "γυνή γυναικός, ἡ",
+		"definition" : "woman, wife",
+		"part-of-speech" : "noun: 3rd declension irregular",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "124"
+  	},
+  	{
+		"headword" : "ποτε (enclitic)",
+		"definition" : "at some time, ever, in the world",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "125"
+  	},
+  	{
+		"headword" : "ἵνα",
+		"definition" : "in order that (conj. +subj. or opt.); where (rel. adv. +indic.)",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "126"
+  	},
+  	{
+		"headword" : "ὄνομα ὀνόματος, τό",
+		"definition" : "name; fame",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "127"
+  	},
+  	{
+		"headword" : "ὑπέρ",
+		"definition" : "for (+gen), beyond (+acc.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Prepositions without Direction",
+		"frequency-rank" : "128"
+  	},
+  	{
+		"headword" : "ἤδη",
+		"definition" : "already, now (of the immediate past); presently (of the immediate future)",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "129"
+  	},
+  	{
+		"headword" : "πατήρ πατρός, ὁ",
+		"definition" : "father",
+		"part-of-speech" : "noun: 3rd declension irregular",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "130"
+  	},
+  	{
+		"headword" : "ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, plup. ἠκηκόη or ἀκηκόη, ἠκούσθην",
+		"definition" : "listen (to), hear (of)",
+		"part-of-speech" : "verb: -ω vowel stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "131"
+  	},
+  	{
+		"headword" : "γένος γένους, τό",
+		"definition" : "race, family; kind, class",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "132"
+  	},
+  	{
+		"headword" : "τόπος τόπου, ὁ",
+		"definition" : "place; topic",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "133"
+  	},
+  	{
+		"headword" : "πράσσω, πράξω, ἔπραξα, πέπραχα, πέπραγμαι, ἐπράχθην",
+		"definition" : "do, achieve, accomplish; do or fare in a certain way (+adv.)",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "134"
+  	},
+  	{
+		"headword" : "πρῶτος πρώτη πρῶτον",
+		"definition" : "first, foremost, earliest; (adv.) τὸ πρῶτον in the first place",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "135"
+  	},
+  	{
+		"headword" : "εὑρίσκω, εὑρήσω, 2 aor. ηὗρον or εὗρον, ηὕρηκα or εὕρηκα, εὕρημαι, εὑρέθην",
+		"definition" : "find (out), discover, devise",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Showing and Finding",
+		"frequency-rank" : "136"
+  	},
+  	{
+		"headword" : "παῖς παιδός, ὁ/ἡ",
+		"definition" : "son, daughter, child; slave",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "137"
+  	},
+  	{
+		"headword" : "ἔρχομαι, fut. εἶμι or ἐλεύσομαι, 2 aor. ἦλθον, ἐλήλυθα",
+		"definition" : "come, go",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "138"
+  	},
+  	{
+		"headword" : "υἱός υἱοῦ, ὁ",
+		"definition" : "son",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "139"
+  	},
+  	{
+		"headword" : "ὕδωρ ὕδατος, τό",
+		"definition" : "water",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "140"
+  	},
+  	{
+		"headword" : "ἴδιος ἰδία ἴδιον",
+		"definition" : "one’s own; peculiar, separate, distinct",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "141"
+  	},
+  	{
+		"headword" : "σός σή σόν",
+		"definition" : "your, yours (sg.; ὑμέτερος = pl.)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "142"
+  	},
+  	{
+		"headword" : "γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην",
+		"definition" : "come to know, learn; judge, think, or determine that (+acc. and infin.)",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "The Mind, Perceiving and Learning",
+		"frequency-rank" : "143"
+  	},
+  	{
+		"headword" : "τυγχάνω, τεύξομαι, ἔτυχον, τετύχηκα. τέτυγμαι, ἐτύχθην",
+		"definition" : "hit, light upon, meet by chance (+gen.); reach, gain, obtain; happen to be (+ptc.)",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "144"
+  	},
+  	{
+		"headword" : "ἵστημι στήσω will set, ἔστησα set, caused to stand, 2 aor. ἔστην stood, ἕστηκα stand, plup. εἱστήκη stood, ἐστάθην stood",
+		"definition" : "make to stand, set",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "145"
+  	},
+  	{
+		"headword" : "ἅμα",
+		"definition" : "at the same time; (prep.) together with (+dat.)",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "146"
+  	},
+  	{
+		"headword" : "ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην",
+		"definition" : "lead, carry, bring; pass (time)",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "147"
+  	},
+  	{
+		"headword" : "τρόπος τρόπου, ὁ",
+		"definition" : "way, manner, fashion; way of life, habit, custom",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "148"
+  	},
+  	{
+		"headword" : "μήτε...μήτε",
+		"definition" : "neither...nor",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "149"
+  	},
+  	{
+		"headword" : "μέσος μέση μέσον",
+		"definition" : "middle, in the middle, moderate; τὸ μέσον midst",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "150"
+  	},
+  	{
+		"headword" : "ἀλλήλων –οις",
+		"definition" : "(oblique cases plural only) one another, each other",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "151"
+  	},
+  	{
+		"headword" : "ἀεί",
+		"definition" : "always",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "152"
+  	},
+  	{
+		"headword" : "φίλος φίλη φίλον",
+		"definition" : "beloved, dear; friendly",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "153"
+  	},
+  	{
+		"headword" : "συμβαίνω, συμβήσομαι, 2 aor. συνέβην, συμβέβηκα",
+		"definition" : "meet, come to an agreement, correspond; happen, occur, come to pass; turn out in a certain way (+adv.), result",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "154"
+  	},
+  	{
+		"headword" : "ἔργον ἔργου, τό",
+		"definition" : "work, achievement, exploit",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "155"
+  	},
+  	{
+		"headword" : "πλέω, πλεύσομαι, ἔπλευσα, πέπλευκα, πέπλευσμαι, ἐπλεύσθην",
+		"definition" : "sail",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "156"
+  	},
+  	{
+		"headword" : "τότε",
+		"definition" : "then, at that time; οἱ τότε the men of that time (opp. οἱ νῦν)",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "157"
+  	},
+  	{
+		"headword" : "μήν",
+		"definition" : "[emphasizes preceding particle]",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "158"
+  	},
+  	{
+		"headword" : "χρή, impf. χρῆν or ἐχρῆν, infin. χρῆναι",
+		"definition" : "it is necessary, it is fated, one ought (+infin. or +acc. and infin.)",
+		"part-of-speech" : "verb: impersonal",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "159"
+  	},
+  	{
+		"headword" : "δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην",
+		"definition" : "show, point out",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Showing and Finding",
+		"frequency-rank" : "160"
+  	},
+  	{
+		"headword" : "ζῷον ζῴου, τό",
+		"definition" : "living being, animal",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Animals and Plants",
+		"frequency-rank" : "161"
+  	},
+  	{
+		"headword" : "πρᾶγμα πράγματος, τό",
+		"definition" : "thing; (pl.) circumstances, affairs, business",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "162"
+  	},
+  	{
+		"headword" : "ἐναντίος ἐναντία ἐναντίον",
+		"definition" : "opposite, facing; opposing",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "163"
+  	},
+  	{
+		"headword" : "τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι (but usu. κεῖμαι instead), ἐτέθην",
+		"definition" : "to put, place; establish, ordain, institute; put in a certain state",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "164"
+  	},
+  	{
+		"headword" : "εἶδον, 2 aor. of ὁράω, act. infin. ἰδεῖν, mid.infin. ἰδέσθαι",
+		"definition" : "I saw",
+		"part-of-speech" : "verb: irregular",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "165"
+  	},
+  	{
+		"headword" : "χείρ χειρός, ἡ",
+		"definition" : "hand",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Body Parts",
+		"frequency-rank" : "166"
+  	},
+  	{
+		"headword" : "μηδέ",
+		"definition" : "and not",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "167"
+  	},
+  	{
+		"headword" : "ὀλίγος ὀλίγη ὀλίγον",
+		"definition" : "little, small, few",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "168"
+  	},
+  	{
+		"headword" : "νόμος νόμου, ὁ",
+		"definition" : "custom, tradition, law",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "169"
+  	},
+  	{
+		"headword" : "κοινός –ή –όν",
+		"definition" : "common, shared, mutual",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "170"
+  	},
+  	{
+		"headword" : "οἴομαι or οἶμαι, οἰήσομαι, impf. ᾤμην, aor. ᾠήθην",
+		"definition" : "think, suppose, imagine (+acc. and infin.)",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "The Mind, Perceiving and Learning ",
+		"frequency-rank" : "171"
+  	},
+  	{
+		"headword" : "κινέω, κινήσω, ἐκίνησα, κεκίνηκα, κεκίνημαι, ἐκινήθην",
+		"definition" : "set in motion, move, rouse",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "172"
+  	},
+  	{
+		"headword" : "πάσχω, πείσομαι, ἔπαθον, πέπονθα",
+		"definition" : "suffer, experience, be affected in a certain way (+adv.)",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "173"
+  	},
+  	{
+		"headword" : "πῶς",
+		"definition" : "how?",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "174"
+  	},
+  	{
+		"headword" : "ὅσπερ ἥπερ ὅπερ",
+		"definition" : "the very one who, the very thing which",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "175"
+  	},
+  	{
+		"headword" : "τοσοῦτος –αύτη –οῦτο(ν)",
+		"definition" : "so large, so much",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "176"
+  	},
+  	{
+		"headword" : "σύν",
+		"definition" : "with (+ dat. of accompaniment or means)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Prepositions without Direction",
+		"frequency-rank" : "177"
+  	},
+  	{
+		"headword" : "εἶτα",
+		"definition" : "then, next",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "178"
+  	},
+  	{
+		"headword" : "ἀληθής –ές",
+		"definition" : "true ",
+		"part-of-speech" : "adjective: 3rd declension -ης, -ες",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "179"
+  	},
+  	{
+		"headword" : "δίκαιος δικαία δίκαιον",
+		"definition" : "right, just",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "180"
+  	},
+  	{
+		"headword" : "μέλλω, μελλήσω, ἐμέλλησα",
+		"definition" : "(+infin.) think of doing, intend to, be about to",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "181"
+  	},
+  	{
+		"headword" : "ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα",
+		"definition" : "(+infin.) wish (to); be willing (to)",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "182"
+  	},
+  	{
+		"headword" : "λοιπός –ή –όν",
+		"definition" : "rest, remaining, rest-of-the",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "183"
+  	},
+  	{
+		"headword" : "ἀνάγκη ἀνάγκης, ἡ",
+		"definition" : "necessity",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "184"
+  	},
+  	{
+		"headword" : "ὅτε",
+		"definition" : "when, whenever (+indic. or opt.)",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Time",
+		"frequency-rank" : "185"
+  	},
+  	{
+		"headword" : "δεύτερος –α –ον",
+		"definition" : "second",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "186"
+  	},
+  	{
+		"headword" : "πόλεμος πολέμου ὁ",
+		"definition" : "war",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "187"
+  	},
+  	{
+		"headword" : "χώρα χώρας, ἡ",
+		"definition" : "land; place",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "188"
+  	},
+  	{
+		"headword" : "ζάω, ζήσω, ἔζησα, ἔζηκα",
+		"definition" : "live",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "189"
+  	},
+  	{
+		"headword" : "πλῆθος πλήθους, τό",
+		"definition" : "mass, throng, crowd",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "190"
+  	},
+  	{
+		"headword" : "ἥλιος ἡλίου, ὁ",
+		"definition" : "sun",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "191"
+  	},
+  	{
+		"headword" : "αἰτία αἰτίας, ἡ",
+		"definition" : "cause, origin; charge, accusation",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "192"
+  	},
+  	{
+		"headword" : "πείθω, πείσω, ἔπεισα, πέποιθα, πέπεισμαι, ἐπείσθην",
+		"definition" : "persuade, win over; (mid. and pass.) obey, believe in, trust in (+dat.)",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "193"
+  	},
+  	{
+		"headword" : "πάρειμι",
+		"definition" : "be present, be ready or at hand; (impers.) πάρεστί μοι it depends on me, it is in my power; τὰ παρόντα the present circumstances; τὸ παρόν just now",
+		"part-of-speech" : "verb: irregular",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "194"
+  	},
+  	{
+		"headword" : "πλεῖστος πλείστη πλεῖστον",
+		"definition" : "most, greatest, largest (superl. of πολύς)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "195"
+  	},
+  	{
+		"headword" : "εἶδος εἴδους, τό",
+		"definition" : "form, shape, figure; class, kind, sort",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "196"
+  	},
+  	{
+		"headword" : "ὅπως",
+		"definition" : "how, as; so that, in order that (+subj. or opt.)",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "197"
+  	},
+  	{
+		"headword" : "τρεῖς τρία",
+		"definition" : "three",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "198"
+  	},
+  	{
+		"headword" : "βίος βίου, ὁ",
+		"definition" : "life",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "199"
+  	},
+  	{
+		"headword" : "νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην",
+		"definition" : "think, believe that (+acc. and infin.); hold as a custom, be accustomed to (+infin.)",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "The Mind, Perceiving and Learning ",
+		"frequency-rank" : "200"
+  	},
+  	{
+		"headword" : "κύκλος κύκλου, ὁ",
+		"definition" : "circle, ring, orb, disc, circular motion",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "201"
+  	},
+  	{
+		"headword" : "πάθος πάθους, τό",
+		"definition" : "incident, accident, misfortune, experience; passion, emotion; state, condition",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "201"
+  	},
+  	{
+		"headword" : "πρό",
+		"definition" : "before, in front of (+gen.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Time",
+		"frequency-rank" : "202"
+  	},
+  	{
+		"headword" : "ὀνομάζω, ὀνομάσω, ὠνόμασα, ὠνόμακα, ὠνόμασμαι, ὠνομάσθην",
+		"definition" : "call by name",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "203"
+  	},
+  	{
+		"headword" : "μέντοι",
+		"definition" : "however; of course",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "204"
+  	},
+  	{
+		"headword" : "ἀρετή ἀρετῆς, ἡ",
+		"definition" : "goodness, excellence; virtue; valor, bravery",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "205"
+  	},
+  	{
+		"headword" : "ὑμέτερος ὑμετέρα ὑμέτερον",
+		"definition" : "your, yours (pl.; σός = sg.)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "206"
+  	},
+  	{
+		"headword" : "ἔτος ἔτους, τό",
+		"definition" : "year",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Time",
+		"frequency-rank" : "207"
+  	},
+  	{
+		"headword" : "ἀντί",
+		"definition" : "opposite (+gen.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "208"
+  	},
+  	{
+		"headword" : "ναῦς νεώς, ἡ",
+		"definition" : "ship",
+		"part-of-speech" : "noun: 3rd declension irregular",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "209"
+  	},
+  	{
+		"headword" : "τρίτος –η –ον",
+		"definition" : "third",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "210"
+  	},
+  	{
+		"headword" : "πνεῦμα πνεύματος, τό",
+		"definition" : "wind, breath, spirit",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "211"
+  	},
+  	{
+		"headword" : "ὀρθός –ή –όν",
+		"definition" : "upright, straight, true, regular",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "212"
+  	},
+  	{
+		"headword" : "θάλασσα θαλάσσης, ἡ",
+		"definition" : "the sea",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "213"
+  	},
+  	{
+		"headword" : "διαφέρω, διοίσω, 1 aor. διήνεγκα, 2 aor. διήνεγκον, διενήνοχα, διενήνεγμαι",
+		"definition" : "carry in different ways, spread; differ; (impers.) διαφέρει it makes a difference to (+dat.)",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "214"
+  	},
+  	{
+		"headword" : "μέχρι (+gen.)",
+		"definition" : "until; (prep.) as far as, up to (+gen.)",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Time",
+		"frequency-rank" : "215"
+  	},
+  	{
+		"headword" : "δόξα δόξης, ἡ",
+		"definition" : "opinion, judgment; reputation, honor, glory",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "216"
+  	},
+  	{
+		"headword" : "κεφαλή –ῆς, ἡ",
+		"definition" : "head",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Body Parts",
+		"frequency-rank" : "217"
+  	},
+  	{
+		"headword" : "πῦρ πυρός, τό",
+		"definition" : "fire",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "218"
+  	},
+  	{
+		"headword" : "ἐλάσσων ἔλασσον",
+		"definition" : "smaller, less, fewer (comp. of μικρός)",
+		"part-of-speech" : "adjective: 3rd declension -ων, -ον",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "219"
+  	},
+  	{
+		"headword" : "πούς ποδός, ὁ",
+		"definition" : "foot",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Body Parts",
+		"frequency-rank" : "220"
+  	},
+  	{
+		"headword" : "ἱερός –ά –όν",
+		"definition" : "holy, venerated, divine",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Religion",
+		"frequency-rank" : "221"
+  	},
+  	{
+		"headword" : "εὐθύς εὐθεῖα εὐθύ",
+		"definition" : "straight, direct; (adv.) immediately",
+		"part-of-speech" : "adjective: -ύς, -εῖα, -ύ",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "222"
+  	},
+  	{
+		"headword" : "εἶμι, infin. ἰέναι, ptc. ἰών, ἰοῦσα, ἰόν",
+		"definition" : "I will go (fut. of ἔρχομαι)",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "223"
+  	},
+  	{
+		"headword" : "ταχύς ταχεῖα ταχύ",
+		"definition" : "quick, fast; (adv.) τάχα quickly; perhaps",
+		"part-of-speech" : "adjective: -ύς, -εῖα, -ύ",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "224"
+  	},
+  	{
+		"headword" : "ποταμός –οῦ, ὁ",
+		"definition" : "river, stream",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "225"
+  	},
+  	{
+		"headword" : "οὐσία οὐσίας, ἡ",
+		"definition" : "substance, property; essence",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "226"
+  	},
+  	{
+		"headword" : "ἀριθμός –οῦ, ὁ",
+		"definition" : "number",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "227"
+  	},
+  	{
+		"headword" : "ὕστερος ὑστέρα ὕστερον",
+		"definition" : "coming after, following (+gen.); next, later; (adv.) ὕστερον afterwards",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "228"
+  	},
+  	{
+		"headword" : "φυλάσσω, φυλάξω, ἐφύλαξα, πεφύλαχα, πεφύλαγμαι, ἐφυλάχθην",
+		"definition" : "watch, guard, defend; (mid.) be on one’s guard against (+acc.)",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "229"
+  	},
+  	{
+		"headword" : "καιρός καιροῦ, ὁ",
+		"definition" : "the right time",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Time",
+		"frequency-rank" : "230"
+  	},
+  	{
+		"headword" : "οἰκέω, οἰκήσω, ᾤκησα, ᾤκηκα, ᾠκήθην",
+		"definition" : "inhabit, occupy",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "231"
+  	},
+  	{
+		"headword" : "ἀμφότερος ἀμφοτέρα ἀμφότερον",
+		"definition" : "both",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "232"
+  	},
+  	{
+		"headword" : "σημεῖον σημείου, τό",
+		"definition" : "sign, signal, mark",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Showing and Finding",
+		"frequency-rank" : "233"
+  	},
+  	{
+		"headword" : "παρέχω, παρέξω, παρέσχον, παρέσχηκα, impf. παρεῖχον",
+		"definition" : "provide",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "234"
+  	},
+  	{
+		"headword" : "ἑκάτερος ἑκατέρα ἑκάτερον",
+		"definition" : "each (of two)",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "235"
+  	},
+  	{
+		"headword" : "δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, ἐδηλώθην",
+		"definition" : "show, declare, explain",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Showing and Finding",
+		"frequency-rank" : "236"
+  	},
+  	{
+		"headword" : "οἰκεῖος οἰκεία οἰκεῖον",
+		"definition" : "domestic, of the house; one’s own; fitting, suitable",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "237"
+  	},
+  	{
+		"headword" : "κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην",
+		"definition" : "order, bid, command (+acc. and infin.)",
+		"part-of-speech" : "verb: -ω vowel stem",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "238"
+  	},
+  	{
+		"headword" : "τέλος τέλους, τό",
+		"definition" : "end, fulfillment, achievement",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "239"
+  	},
+  	{
+		"headword" : "ἡγέομαι, ἡγήσομαι, ἡγησάμην, ἥγημαι",
+		"definition" : "lead, be the leader; regard, believe, think",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "The Mind, Perceiving and Learning ",
+		"frequency-rank" : "240"
+  	},
+  	{
+		"headword" : "ἄξιος ἀξία ἄξιον",
+		"definition" : "worthy, deserving",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "241"
+  	},
+  	{
+		"headword" : "ἦ",
+		"definition" : "truly (emphasizes what follows)",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "242"
+  	},
+  	{
+		"headword" : "δῆλος δήλη δῆλον",
+		"definition" : "visible, clear, manifest",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Showing and Finding",
+		"frequency-rank" : "243"
+  	},
+  	{
+		"headword" : "τοίνυν (τοί-νυν)",
+		"definition" : "therefore, accordingly (inferential); further, moreover (transitional)",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "244"
+  	},
+  	{
+		"headword" : "πολέμιος πολεμία πολέμιον",
+		"definition" : "hostile; οἱ πολέμιοι the enemy",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "245"
+  	},
+  	{
+		"headword" : "ἔρομαι, ἐρήσομαι, 2 aor. ἠρόμην",
+		"definition" : "ask, ask one about (+double acc.)",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "246"
+  	},
+  	{
+		"headword" : "ἀδελφός –οῦ, ὁ",
+		"definition" : "brother",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "247"
+  	},
+  	{
+		"headword" : "μέγεθος μεγέθους, τό",
+		"definition" : "greatness, size, magnitude",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "248"
+  	},
+  	{
+		"headword" : "εἴτε…εἴτε",
+		"definition" : "whether…or",
+		"part-of-speech" : "conjunction: coordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "249"
+  	},
+  	{
+		"headword" : "κεῖμαι, κείσομαι",
+		"definition" : "to lie, be situated, be laid up in store, be set up, be established or ordained (used as pf. pass. of τίθημι)",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "250"
+  	},
+  	{
+		"headword" : "πολλάκις",
+		"definition" : "often",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "251"
+  	},
+  	{
+		"headword" : "πίνω, πίομαι, 2 aor. ἔπιον, πέπωκα, -πέπομαι, -επόθην",
+		"definition" : "drink",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "252"
+  	},
+  	{
+		"headword" : "χάρις χάριτος, ἡ",
+		"definition" : "splendor, honor, glory; favor, goodwill, gratitude, thanks",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "253"
+  	},
+  	{
+		"headword" : "ἔπειτα",
+		"definition" : "then, next",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "254"
+  	},
+  	{
+		"headword" : "ζητέω, ζητήσω, ἐζήτησα, ἐζήτηκα",
+		"definition" : "seek",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Showing and Finding",
+		"frequency-rank" : "254"
+  	},
+  	{
+		"headword" : "σχῆμα σχήματος, τό",
+		"definition" : "form, figure, appearance, character",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "256"
+  	},
+  	{
+		"headword" : "τροφή τροφῆς, ἡ",
+		"definition" : "nourishment, food",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "257"
+  	},
+  	{
+		"headword" : "μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα",
+		"definition" : "learn, ascertain",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "The Mind, Perceiving and Learning ",
+		"frequency-rank" : "258"
+  	},
+  	{
+		"headword" : "ἐνταῦθα",
+		"definition" : "here, there",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "259"
+  	},
+  	{
+		"headword" : "φεύγω, φεύξομαι, ἔφυγον, πέφευγα",
+		"definition" : "flee, run away, avoid, shun",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "260"
+  	},
+  	{
+		"headword" : "ἵππος ἵππου, ὁ",
+		"definition" : "horse",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Animals and Plants",
+		"frequency-rank" : "261"
+  	},
+  	{
+		"headword" : "κόσμος κόσμου, ὁ",
+		"definition" : "order; ornament, decoration, adornment; world, universe",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "262"
+  	},
+  	{
+		"headword" : "αἷμα αἵματος, τό",
+		"definition" : "blood",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Body Parts",
+		"frequency-rank" : "263"
+  	},
+  	{
+		"headword" : "αἱρέω, αἱρήσω, 2 aor. εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην",
+		"definition" : "take, grasp, take by force; (mid.) choose",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "264"
+  	},
+  	{
+		"headword" : "προστίθημι, προσθήσω, προσέθηκα, προστέθηκα, προστέθειμαι (but commonly προσκεῖμαι instead), προσετέθην",
+		"definition" : "add; (med.) join",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "265"
+  	},
+  	{
+		"headword" : "ἀξιόω, ἀξιώσω, ἠξίωσα, ἠξίωκα, ἠξίωμαι, ἠξιώθην",
+		"definition" : "consider worthy",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "266"
+  	},
+  	{
+		"headword" : "ἕως",
+		"definition" : "until; while, so long as",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Time",
+		"frequency-rank" : "267"
+  	},
+  	{
+		"headword" : "νέος νέα νέον",
+		"definition" : "young, new, fresh",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "268"
+  	},
+  	{
+		"headword" : "ἔοικα, ptc. εἰκώς",
+		"definition" : "be like, look like (+dat.); seem; befit",
+		"part-of-speech" : "verb: irregular",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "269"
+  	},
+  	{
+		"headword" : "κἄν (καὶ-ἄν)",
+		"definition" : "even if (+subj.)",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "270"
+  	},
+  	{
+		"headword" : "καθίστημι, καταστήσω, κατέστησα, κατέστην, καθέστηκα, plupf. καθειστήκη, κατεστάθην",
+		"definition" : "set down, establish; bring into a certain state, render",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "271"
+  	},
+  	{
+		"headword" : "τέχνη τέχνης, ἡ",
+		"definition" : "art, skill, craft",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "272"
+  	},
+  	{
+		"headword" : "χρῆμα χρήματος, τό",
+		"definition" : "thing, matter; (more commonly in pl.) goods or property, esp. money",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "273"
+  	},
+  	{
+		"headword" : "σῴζω, σώσω, ἔσωσα, σέσωκα, ἐσώθην",
+		"definition" : "save",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "Help and Safety",
+		"frequency-rank" : "274"
+  	},
+  	{
+		"headword" : "πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην",
+		"definition" : "send",
+		"part-of-speech" : "verb: -ω labial stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "275"
+  	},
+  	{
+		"headword" : "φωνή φωνῆς, ἡ",
+		"definition" : "sound, voice",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "276"
+  	},
+  	{
+		"headword" : "ἕνεκα",
+		"definition" : "on account of, for the sake of (+gen.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Prepositions without Direction",
+		"frequency-rank" : "277"
+  	},
+  	{
+		"headword" : "ἀπόλλυμι, ἀπολῶ, ἀπώλεσα, 2 aor. mid. ἀπωλόμην, pf. ἀπολώλεκα (“I have utterly destroyed”) or ἀπόλωλα (“I am undone”)",
+		"definition" : "kill, destroy; (mid.) perish, die",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "278"
+  	},
+  	{
+		"headword" : "θάνατος θανάτου, ὁ",
+		"definition" : "death",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "279"
+  	},
+  	{
+		"headword" : "νύξ νυκτός, ἡ",
+		"definition" : "night",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "280"
+  	},
+  	{
+		"headword" : "ὁδός ὁδοῦ, ἡ",
+		"definition" : "road, way, path",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "281"
+  	},
+  	{
+		"headword" : "ἔθνος ἔθνους, τό",
+		"definition" : "nation",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "282"
+  	},
+  	{
+		"headword" : "ἀποδίδωμι, ἀποδώσω, ἀπέδωκα, ἀποδέδωκα, ἀποδέδομαι, ἀπεδόθην",
+		"definition" : "give back; render; allow; (mid.) sell",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "283"
+  	},
+  	{
+		"headword" : "νοῦς (νόος), νοῦ (νόου), ὁ",
+		"definition" : "mind, perception, sense",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "The Mind, Perceiving and Learning ",
+		"frequency-rank" : "284"
+  	},
+  	{
+		"headword" : "μένω, μενῶ, ἔμεινα, μεμένηκα",
+		"definition" : "stay, remain, endure, await",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "285"
+  	},
+  	{
+		"headword" : "ἀποθνῄσκω, ἀποθανοῦμαι, 2 aor. ἀπέθανον, ἀποτέθνηκα",
+		"definition" : "die",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "286"
+  	},
+  	{
+		"headword" : "πάνυ",
+		"definition" : "altogether, entirely",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "287"
+  	},
+  	{
+		"headword" : "εὖ",
+		"definition" : "well (opp. κακῶς); thoroughly, competently; happily, fortunately",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "288"
+  	},
+  	{
+		"headword" : "κρίνω, κρινῶ, ἔκρινα, κέκρικα, κέκριμαι, ἐκρίθην",
+		"definition" : "judge, decide, determine",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "289"
+  	},
+  	{
+		"headword" : "ἀναιρέω, ἀναιρήσω, ἀνεῖλον, ἀνῄρηκα, ἀνῄρημαι, ἀνῃρέθην",
+		"definition" : "raise, take up; kill, destroy",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "290"
+  	},
+  	{
+		"headword" : "μακρός –ά –όν",
+		"definition" : "long, tall, large, long-lasting",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "291"
+  	},
+  	{
+		"headword" : "ἥκω, ἥξω, pf. ἧκα",
+		"definition" : "I have come, I am present",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "292"
+  	},
+  	{
+		"headword" : "ἡδονή –ῆς, ἡ",
+		"definition" : "pleasure, enjoyment",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "293"
+  	},
+  	{
+		"headword" : "μήτηρ μητρός, ἡ",
+		"definition" : "mother",
+		"part-of-speech" : "noun: 3rd declension irregular",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "294"
+  	},
+  	{
+		"headword" : "δεινός –ή –όν",
+		"definition" : "awesome, terrible; clever, clever at (+infin.)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "295"
+  	},
+  	{
+		"headword" : "διαφορά –ᾶς, ἡ",
+		"definition" : "difference, disagreement",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "296"
+  	},
+  	{
+		"headword" : "κρατέω, κρατήσω, ἐκράτησα, κεκράτηκα, κεκράτημαι, ἐκρατήθην",
+		"definition" : "be victorious, conquer, rule, surpass, excel (+gen.)",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "297"
+  	},
+  	{
+		"headword" : "δῆμος δήμου, ὁ",
+		"definition" : " the (common) people; country district (opp. πόλις)",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "298"
+  	},
+  	{
+		"headword" : "οὐρανός –οῦ, ὁ",
+		"definition" : "sky, heaven",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "299"
+  	},
+  	{
+		"headword" : "ἕπομαι ἕψομαι, 2 aor. ἑσπόμην",
+		"definition" : "follow",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "300"
+  	},
+  	{
+		"headword" : "ἥσσων ἧσσον",
+		"definition" : "less, weaker (comp. of κακός or μικρός)",
+		"part-of-speech" : "adjective: 3rd declension -ων, -ον",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "301"
+  	},
+  	{
+		"headword" : "ὄρος ὄρους, τό",
+		"definition" : "mountain, hill",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "302"
+  	},
+  	{
+		"headword" : "πλήν",
+		"definition" : "(prep.) except (+gen.); (conj.) except that, unless, but",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Prepositions without Direction",
+		"frequency-rank" : "303"
+  	},
+  	{
+		"headword" : "τέτταρες τέτταρα",
+		"definition" : "four",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "304"
+  	},
+  	{
+		"headword" : "δυνατός –ή –όν",
+		"definition" : "strong, powerful, able",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "305"
+  	},
+  	{
+		"headword" : "οἶκος οἴκου, ὁ",
+		"definition" : "house, home, family",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "306"
+  	},
+  	{
+		"headword" : "ἄριστος ἀρίστη ἄριστον",
+		"definition" : "best, noblest (superl. of ἀγαθός)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "307"
+  	},
+  	{
+		"headword" : "ῥᾴδιος ῥᾳδία ῥᾴδιον",
+		"definition" : "easy",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "308"
+  	},
+  	{
+		"headword" : "ἀφαιρέω, ἀφαιρήσω, ἀφεῖλον, ἀφῄρηκα, ἀφῄρημαι, ἀφῃρέθην",
+		"definition" : "take from, take away",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "309"
+  	},
+  	{
+		"headword" : "τύχη τύχης, ἡ",
+		"definition" : "luck, fortune (good or bad), fate, chance",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "310"
+  	},
+  	{
+		"headword" : "πρόσωπον προσώπου, τό",
+		"definition" : "face, mask, person",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Body Parts",
+		"frequency-rank" : "311"
+  	},
+  	{
+		"headword" : "πιστεύω, πιστεύσω, ἐπίστευσα, πεπίστευκα, πεπίστευμαι, ἐπιστεύθην",
+		"definition" : "trust, rely on, believe in (+dat.)",
+		"part-of-speech" : "verb: -ω vowel stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "312"
+  	},
+  	{
+		"headword" : "διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην",
+		"definition" : "teach",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "The Mind, Perceiving and Learning",
+		"frequency-rank" : "313"
+  	},
+  	{
+		"headword" : "ἄνω",
+		"definition" : "up, upwards",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "314"
+  	},
+  	{
+		"headword" : "τάσσω, τάξω, ἔταξα, τέταχα, τέταγμαι, ἐτάχθην",
+		"definition" : "arrange, put in order",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "315"
+  	},
+  	{
+		"headword" : "ὀφθαλμός –οῦ, ὁ",
+		"definition" : "eye",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Body Parts",
+		"frequency-rank" : "316"
+  	},
+  	{
+		"headword" : "δέχομαι, δέξομαι, ἐδεξάμην, δέδεγμαι, -εδέχθην",
+		"definition" : "take, accept; welcome, entertain",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "317"
+  	},
+  	{
+		"headword" : "ἀφικνέομαι, ἀφίξομαι, 2 aor. ἀφικόμην, ἀφῖγμαι",
+		"definition" : "come to, arrive at",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "318"
+  	},
+  	{
+		"headword" : "ἱκανός –ή –όν",
+		"definition" : "sufficient, enough; competent, able to (+infin.)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Help and Safety",
+		"frequency-rank" : "319"
+  	},
+  	{
+		"headword" : "ἐργάζομαι, ἐργάσομαι, εἰργασάμην, εἴργασμαι",
+		"definition" : "work, labor",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "320"
+  	},
+  	{
+		"headword" : "μάχη μάχης, ἡ",
+		"definition" : "battle",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "321"
+  	},
+  	{
+		"headword" : "τρέφω, θρέψω, ἔθρεψα, τέθραμμαι, ἐτράφην",
+		"definition" : "nourish, feed, support, maintain; rear, educate",
+		"part-of-speech" : "verb: -ω labial stem",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "322"
+  	},
+  	{
+		"headword" : "ἀδύνατος –ον",
+		"definition" : "impossible; powerless",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "323"
+  	},
+  	{
+		"headword" : "ἀκριβής –ές",
+		"definition" : "exact, accurate, precise",
+		"part-of-speech" : "adjective",
+		"semantic-group" : "adjective: 3rd declension -ης, -ες",
+		"frequency-rank" : "324"
+  	},
+  	{
+		"headword" : "ὅθεν",
+		"definition" : "from where, whence",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "326"
+  	},
+  	{
+		"headword" : "στόμα στόματος, τό",
+		"definition" : "mouth, face, opening",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Body Parts",
+		"frequency-rank" : "327"
+  	},
+  	{
+		"headword" : "χωρίς",
+		"definition" : "separately, apart; (+gen.) without, separate from",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "328"
+  	},
+  	{
+		"headword" : "κρείσσων κρεῖσσον",
+		"definition" : "stronger, mightier; better, more excellent (comp. of ἀγαθός)",
+		"part-of-speech" : "adjective: 3rd declension -ων, -ον",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "329"
+  	},
+  	{
+		"headword" : "βραχύς βραχεῖα βραχύ",
+		"definition" : "brief, short",
+		"part-of-speech" : "adjective: -ύς, -εῖα, -ύ",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "330"
+  	},
+  	{
+		"headword" : "ἰσχυρός –ά –όν",
+		"definition" : "strong",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "331"
+  	},
+  	{
+		"headword" : "ἀλήθεια ἀληθείας, ἡ",
+		"definition" : "truth",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "332"
+  	},
+  	{
+		"headword" : "δίκη δίκης, ἡ",
+		"definition" : "justice, lawsuit, trial, penalty",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "333"
+  	},
+  	{
+		"headword" : "χωρίον χωρίου, τό",
+		"definition" : "place, spot, district",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "334"
+  	},
+  	{
+		"headword" : "ἡδύς ἡδεῖα ἡδύ",
+		"definition" : "sweet, pleasant",
+		"part-of-speech" : "adjective: -ύς, -εῖα, -ύ",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "335"
+  	},
+  	{
+		"headword" : "νόσος νόσου, ὁ",
+		"definition" : "disease, sickness",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "336"
+  	},
+  	{
+		"headword" : "λίθος λίθου, ὁ",
+		"definition" : "stone",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "337"
+  	},
+  	{
+		"headword" : "παλαιός –ά –όν",
+		"definition" : "old, ancient",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "338"
+  	},
+  	{
+		"headword" : "ἀφίημι, ἀφήσω, ἀφῆκα, ἀφεῖκα, ἀφεῖμαι, ἀφείθην",
+		"definition" : "send away, let go; let alone, neglect",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "339"
+  	},
+  	{
+		"headword" : "ἄλλως",
+		"definition" : "otherwise",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "340"
+  	},
+  	{
+		"headword" : "πρᾶξις πράξεως, ἡ",
+		"definition" : "action, transaction, business",
+		"part-of-speech" : "noun: 3rd declension ι-stem",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "341"
+  	},
+  	{
+		"headword" : "σαφής σαφές",
+		"definition" : "clear, distinct, plain",
+		"part-of-speech" : "adjective: 3rd declension -ης, -ες",
+		"semantic-group" : "Showing and Finding",
+		"frequency-rank" : "342"
+  	},
+  	{
+		"headword" : "σοφός –ή –όν",
+		"definition" : "wise, clever, skilled",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "343"
+  	},
+  	{
+		"headword" : "νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην",
+		"definition" : "conquer, win",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "344"
+  	},
+  	{
+		"headword" : "ὁμολογέω, ὁμολογήσω, ὡμολόγησα, ὡμολόγηκα, ὡμολόγημαι, ὡμολογήθην",
+		"definition" : "agree with, say the same thing as (+dat.)",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "345"
+  	},
+  	{
+		"headword" : "ναός (νεώς) ναοῦ (νεώ), ὁ",
+		"definition" : "temple",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Religion",
+		"frequency-rank" : "346"
+  	},
+  	{
+		"headword" : "αὖ, αὖθις",
+		"definition" : "moreover; on the other hand; back (again)",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "347"
+  	},
+  	{
+		"headword" : "πατρίς πατρίδος, ἡ",
+		"definition" : "fatherland",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "348"
+  	},
+  	{
+		"headword" : "ὀξύς ὀξεῖα ὀξύ",
+		"definition" : "sharp, keen, shrill, pungent",
+		"part-of-speech" : "adjective: -ύς, -εῖα, -ύ",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "349"
+  	},
+  	{
+		"headword" : "καίτοι (καί-τοι)",
+		"definition" : "and indeed, and yet",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "350"
+  	},
+  	{
+		"headword" : "πλέον",
+		"definition" : "more, rather",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "351"
+  	},
+  	{
+		"headword" : "πλέων πλέον",
+		"definition" : "more, larger (comp. of πολύς)",
+		"part-of-speech" : "adjective: 3rd declension -ων, -ον",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "352"
+  	},
+  	{
+		"headword" : "γνώμη γνώμης, ἡ",
+		"definition" : "thought, intelligence, opinion, purpose",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "The Mind, Perceiving and Learning",
+		"frequency-rank" : "353"
+  	},
+  	{
+		"headword" : "τιμή τιμῆς, ἡ",
+		"definition" : "honor, esteem; price, value; office, magistracy",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "354"
+  	},
+  	{
+		"headword" : "μεταξύ",
+		"definition" : "between",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "355"
+  	},
+  	{
+		"headword" : "προσήκω προσήξω",
+		"definition" : "belong to, have to do with; be fitting for (+dat.); arrive at; οἱ προσήκοντες relatives; τὰ προσήκoντα duties",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "356"
+  	},
+  	{
+		"headword" : "πρίν",
+		"definition" : "before, until",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Time",
+		"frequency-rank" : "357"
+  	},
+  	{
+		"headword" : "ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην",
+		"definition" : "do wrong; injure",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "358"
+  	},
+  	{
+		"headword" : "στρατηγός –οῦ, ὁ",
+		"definition" : "leader of an army, commander, general",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "359"
+  	},
+  	{
+		"headword" : "οὐκέτι",
+		"definition" : "no longer, no more",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "360"
+  	},
+  	{
+		"headword" : "πρέσβυς πρέσβεως, ὁ",
+		"definition" : "old man; (pl.) ambassadors",
+		"part-of-speech" : "noun: 3rd declension -εύς, -έως",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "361"
+  	},
+  	{
+		"headword" : "παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην",
+		"definition" : "stop, put an end to; (mid.) cease",
+		"part-of-speech" : "verb: -ω vowel stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "362"
+  	},
+  	{
+		"headword" : "τελευτάω, τελευτήσω, ἐτελεύτησα, τετελεύτηκα, τετελεύτημαι, ἐτελευτήθην",
+		"definition" : "finish; die",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "363"
+  	},
+  	{
+		"headword" : "μίγνυμι, μείξω, ἔμειξα, μέμειγμαι, ἐμείχθην",
+		"definition" : "mix, mingle",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "364"
+  	},
+  	{
+		"headword" : "λαός λαοῦ, ὁ",
+		"definition" : "the people, folk",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Humanity and Being",
+		"frequency-rank" : "365"
+  	},
+  	{
+		"headword" : "θυγάτηρ θυγατρός, ἡ",
+		"definition" : "daughter",
+		"part-of-speech" : "noun: 3rd declension irregular",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "366"
+  	},
+  	{
+		"headword" : "οἰκία οἰκίας, ἡ",
+		"definition" : "building, house, dwelling",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "367"
+  	},
+  	{
+		"headword" : "παραδίδωμι, παραδώσω, παρέδωκα, παραδέδωκα, παραδέδομαι, παρεδόθην",
+		"definition" : "transmit, hand over, surrender",
+		"part-of-speech" : "verb: -μι",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "368"
+  	},
+  	{
+		"headword" : "ἔξω",
+		"definition" : "outside; except",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "369"
+  	},
+  	{
+		"headword" : "νῆσος νήσου, ἡ",
+		"definition" : "island",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "370"
+  	},
+  	{
+		"headword" : "ἐκεῖ",
+		"definition" : "there",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "371"
+  	},
+  	{
+		"headword" : "ἐπιστήμη –ης, ἡ",
+		"definition" : "knowledge, understanding, skill",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "The Mind, Perceiving and Learning",
+		"frequency-rank" : "372"
+  	},
+  	{
+		"headword" : "ἐάω, ἐάσω, εἴασα",
+		"definition" : "allow, permit (+acc. and infin.); let be, let alone",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "373"
+  	},
+  	{
+		"headword" : "θαυμάζω, θαυμάσομαι, ἐθαύμασα, τεθαύμακα, τεθαύμασμαι, ἐθαυμάσθην",
+		"definition" : "to be in awe (of), be astonished (at)",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "374"
+  	},
+  	{
+		"headword" : "αἰσθάνομαι, αἰσθήσομαι, 2 aor. ᾐσθόμην, ᾔσθημαι",
+		"definition" : "perceive, understand, hear, learn",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "The Mind, Perceiving and Learning",
+		"frequency-rank" : "375"
+  	},
+  	{
+		"headword" : "χαίρω, χαιρήσω, κεχάρηκα, κεχάρημαι, ἐχάρην",
+		"definition" : "to be happy, rejoice at (+dat.), take joy in (+ptc.); χαῖρε, (pl.) χαίρετε hello, goodbye",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "376"
+  	},
+  	{
+		"headword" : "χαλεπός –ή –όν",
+		"definition" : "difficult, troublesome",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "377"
+  	},
+  	{
+		"headword" : "τέκνον τέκνου, τό",
+		"definition" : "child",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "378"
+  	},
+  	{
+		"headword" : "καταλαμβάνω, καταλήψομαι, κατέλαβον, κατείληφα, κατείλημμαι, κατελήφθην",
+		"definition" : "seize, catch up with, arrest, compel",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "379"
+  	},
+  	{
+		"headword" : "μάχομαι, μαχοῦμαι, ἐμαχεσάμην, μεμάχημαι",
+		"definition" : "fight (against) (+dat.)",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "380"
+  	},
+  	{
+		"headword" : "μιμνήσκω, -μνήσω, -έμνησα, pf. μέμνημαι, ἐμνήσθην",
+		"definition" : "remind; (in pf. mid.) remember",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "The Mind, Perceiving and Learning ",
+		"frequency-rank" : "381"
+  	},
+  	{
+		"headword" : "λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην",
+		"definition" : "loosen, unbind, set free; undo, destroy",
+		"part-of-speech" : "verb: -ω vowel stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "382"
+  	},
+  	{
+		"headword" : "θνῄσκω, 2 aor. -έθανον, τέθνηκα, θανοῦμαι",
+		"definition" : "to die, be dying",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "383"
+  	},
+  	{
+		"headword" : "τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην",
+		"definition" : "to honor",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "384"
+  	},
+  	{
+		"headword" : "τεῖχος τείχους, τό",
+		"definition" : "wall",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "385"
+  	},
+  	{
+		"headword" : "ἴσως",
+		"definition" : "equally, probably, perhaps",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "386"
+  	},
+  	{
+		"headword" : "αἴρω, ἀρῶ, ἦρα, ἦρκα, ἦρμαι, ἤρθην",
+		"definition" : "take up, lift up; remove",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "387"
+  	},
+  	{
+		"headword" : "ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα, ἀπέκτονα",
+		"definition" : "kill",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "388"
+  	},
+  	{
+		"headword" : "στρατιώτης –ου, ὁ",
+		"definition" : "soldier",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "389"
+  	},
+  	{
+		"headword" : "ἄνευ",
+		"definition" : "without (+gen.)",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Prepositions without direction",
+		"frequency-rank" : "390"
+  	},
+  	{
+		"headword" : "πότερος ποτέρα πότερον",
+		"definition" : "which of the two? πότερον whether",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "391"
+  	},
+  	{
+		"headword" : "ἁπλῶς",
+		"definition" : "simply, singly, in one way",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "392"
+  	},
+  	{
+		"headword" : "πίπτω, πεσοῦμαι, ἔπεσον, πέπτωκα",
+		"definition" : "fall, fall down",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "393"
+  	},
+  	{
+		"headword" : "τέταρτος –η –ον",
+		"definition" : "fourth",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "394"
+  	},
+  	{
+		"headword" : "κατασκευάζω, κατασκευάσω, κατεσκεύασα",
+		"definition" : "equip, furnish, make ready",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "395"
+  	},
+  	{
+		"headword" : "ἐχθρός –ά –όν",
+		"definition" : "hated, hateful; hostile to (+dat.)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "396"
+  	},
+  	{
+		"headword" : "ἀγών ἀγῶνος, ὁ",
+		"definition" : "contest; struggle",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "397"
+  	},
+  	{
+		"headword" : "κωλύω, κωλύσω, ἐκώλυσα, κεκώλυκα, κεκώλυμαι, ἐκωλύθην",
+		"definition" : "hinder, check, prevent (+acc. and infin.)",
+		"part-of-speech" : "verb: -ω vowel stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "398"
+  	},
+  	{
+		"headword" : "ἁμαρτάνω, ἁμαρτήσομαι, ἡμάρτησα, 2 aor. ἥμαρτον, ἡμάρτηκα, ἡμάρτημαι, ἡμαρτήθην",
+		"definition" : "miss the mark (+gen.); fail, be wrong, make a mistake",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "399"
+  	},
+  	{
+		"headword" : "διαφθείρω, διαφθερῶ, διέφθειρα, διέφθαρκα, διέφθαρμαι, διεφθάρην",
+		"definition" : "destroy; corrupt",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "400"
+  	},
+  	{
+		"headword" : "πόνος πόνου, ὁ",
+		"definition" : "work, labor; stress, trouble, pain",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "402"
+  	},
+  	{
+		"headword" : "ἔνθα",
+		"definition" : "there",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "403"
+  	},
+  	{
+		"headword" : "τάξις τάξεως, ἡ",
+		"definition" : "arrangement, order; military unit",
+		"part-of-speech" : "noun: 3rd declension ι-stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "404"
+  	},
+  	{
+		"headword" : "πειράω (usually mid. πειράομαι), πειράσομαι, ἐπείρασα, πεπείραμαι, ἐπειράθην",
+		"definition" : "attempt, try, make a trial of (+gen.)",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "405"
+  	},
+  	{
+		"headword" : "φοβέω, φοβήσω, ἐφόβησα, πεφόβημαι, ἐφοβήθην",
+		"definition" : "put to flight; (mid. and pass.) flee, fear",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "406"
+  	},
+  	{
+		"headword" : "βάλλω, βαλῶ, 2 aor. ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην",
+		"definition" : "throw, hurl; throw at, hit (acc.) with (dat.)",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "407"
+  	},
+  	{
+		"headword" : "πονηρός –ά –όν",
+		"definition" : "worthless, bad, wicked",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "408"
+  	},
+  	{
+		"headword" : "ξένος ξένου, ὁ",
+		"definition" : "guest-friend; foreigner, stranger",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "409"
+  	},
+  	{
+		"headword" : "βάρβαρος –ον",
+		"definition" : "non-Greek, foreign; barbarous",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "410"
+  	},
+  	{
+		"headword" : "ὅπου",
+		"definition" : "where, wherever",
+		"part-of-speech" : "conjunction: subordinating",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "411"
+  	},
+  	{
+		"headword" : "συμφέρω, συνοίσω, 1 aor. συνήνεγκα",
+		"definition" : "benefit, be useful or profitable to (+dat.); (impers.) συμφέρει it is of use, expedient (+infin.); τὸ συμφέρον use, profit, advantage",
+		"part-of-speech" : "verb: irregular",
+		"semantic-group" : "Help and Safety",
+		"frequency-rank" : "412"
+  	},
+  	{
+		"headword" : "πυνθάνομαι, πεύσομαι, 2 aor. ἐπυθόμην, πέπυσμαι",
+		"definition" : "learn, hear, inquire concerning (+gen.)",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "The Mind, Perceiving and Learning ",
+		"frequency-rank" : "413"
+  	},
+  	{
+		"headword" : "δοῦλος δούλου, ὁ",
+		"definition" : "slave",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "414"
+  	},
+  	{
+		"headword" : "τέμνω, τεμῶ, 2 aor. ἔτεμον, -τέτμηκα, τέτμημαι, ἐτμήθην",
+		"definition" : "cut, cut down, cut to pieces",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "415"
+  	},
+  	{
+		"headword" : "χρήσιμος χρησίμη χρήσιμον",
+		"definition" : "useful, serviceable",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "416"
+  	},
+  	{
+		"headword" : "ποῖος ποία ποῖον",
+		"definition" : "what sort of?",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "417"
+  	},
+  	{
+		"headword" : "ὅπλον ὅπλου, τό",
+		"definition" : "weapon, tool, implement (mostly pl.)",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "418"
+  	},
+  	{
+		"headword" : "πίστις πίστεως, ἡ",
+		"definition" : "trust in others, faith; that which gives confidence, assurance, pledge, guarantee",
+		"part-of-speech" : "noun: 3rd declension ι-stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "419"
+  	},
+  	{
+		"headword" : "ὑπολαμβάνω, ὑπολήψομαι, ὑπέλαβον, ὑπείληφα, ὑπείλημμαι, ὑπελήφθην",
+		"definition" : "take up, seize; answer, reply; assume, suppose",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "The Mind, Perceiving and Learning",
+		"frequency-rank" : "420"
+  	},
+  	{
+		"headword" : "ποιητής –οῦ, ὁ",
+		"definition" : "creator, poet",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "421"
+  	},
+  	{
+		"headword" : "λανθάνω, λήσω, ἔλαθον, λέληθα",
+		"definition" : "escape the notice of (+acc. and nom. participle), be unknown; (mid. and pass.) forget",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "422"
+  	},
+  	{
+		"headword" : "βελτίων βέλτιον",
+		"definition" : "better (comp. of ἀγαθός)",
+		"part-of-speech" : "adjective: 3rd declension -ων, -ον",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "423"
+  	},
+  	{
+		"headword" : "πάντως",
+		"definition" : "altogether, in all ways; at any rate",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "424"
+  	},
+  	{
+		"headword" : "πορεύω, πορεύσω, ἐπόρευσα, πεπόρευμαι, ἐπορεύθην",
+		"definition" : "carry; (mid. and pass) go, walk, march",
+		"part-of-speech" : "verb: -ω vowel stem",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "425"
+  	},
+  	{
+		"headword" : "ἀποκρίνω, ἀποκρινῶ, ἀπεκρινάμην, ἀπεκρίθη",
+		"definition" : "separate, set apart; (mid.) answer, reply",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "426"
+  	},
+  	{
+		"headword" : "πέντε",
+		"definition" : "five",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "427"
+  	},
+  	{
+		"headword" : "κίνδυνος κινδύνου, ὁ",
+		"definition" : "danger",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "428"
+  	},
+  	{
+		"headword" : "κατηγορέω, κατηγορήσω, κατηγόρησα, κατηγόρηκα, κατηγόρημαι, κατηγορήθην",
+		"definition" : "to speak against, to accuse (+gen.)",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "429"
+  	},
+  	{
+		"headword" : "τρέπω, τρέψω, ἔτρεψα, τέτροφα, ἐτράπην",
+		"definition" : "turn, direct towards a thing; put to flight, defeat; (pass.) turn one’s steps in a certain direction, go",
+		"part-of-speech" : "verb: -ω labial stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "430"
+  	},
+  	{
+		"headword" : "ὅμως",
+		"definition" : "nevertheless, all the same, notwithstanding",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "431"
+  	},
+  	{
+		"headword" : "θεῖος θεία θεῖον",
+		"definition" : "divine",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Religion",
+		"frequency-rank" : "432"
+  	},
+  	{
+		"headword" : "ἱππεύς ἱππέως, ὁ",
+		"definition" : "horseman, rider, charioteer",
+		"part-of-speech" : "noun: 3rd declension -εύς, -έως",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "433"
+  	},
+  	{
+		"headword" : "κτάομαι, κτήσομαι, ἐκτησάμην, κέκτημαι",
+		"definition" : "get, gain, acquire",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "Taking and Giving",
+		"frequency-rank" : "434"
+  	},
+  	{
+		"headword" : "λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην",
+		"definition" : "leave, abandon",
+		"part-of-speech" : "verb: -ω labial stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "435"
+  	},
+  	{
+		"headword" : "βουλή βουλῆς, ἡ",
+		"definition" : "will, determination; counsel, piece of advice; council of elders",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "436"
+  	},
+  	{
+		"headword" : "ἐλπίς ἐλπίδος, ἡ",
+		"definition" : "hope; expectation",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "437"
+  	},
+  	{
+		"headword" : "γραφή γραφῆς, ἡ",
+		"definition" : "a drawing, painting, writing; indictment",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "438"
+  	},
+  	{
+		"headword" : "τίκτω, τέξω or τέξομαι, ἔτεκον, τέτοκα, τέτεγμαι, ἐτέχθην",
+		"definition" : "beget, give birth to, produce",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "Family and Friendship and the Home",
+		"frequency-rank" : "439"
+  	},
+  	{
+		"headword" : "κομίζω, κομιῶ, ἐκόμισα, κεκόμικα, κεκόμισμαι, ἐκομίσθην",
+		"definition" : "take care of, provide for",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "Help and Safety",
+		"frequency-rank" : "440"
+  	},
+  	{
+		"headword" : "θυμός θυμοῦ, ὁ",
+		"definition" : "life, spirit; soul, heart, mind",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Religion",
+		"frequency-rank" : "441"
+  	},
+  	{
+		"headword" : "βλέπω, βλέψομαι, ἔβλεψα",
+		"definition" : "see, look (at)",
+		"part-of-speech" : "verb: -ω labial stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "442"
+  	},
+  	{
+		"headword" : "φόβος φόβου, ὁ",
+		"definition" : "panic, fear, flight",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "443"
+  	},
+  	{
+		"headword" : "πολιτεία –ας, ἡ",
+		"definition" : "constitution, citizenship, republic",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "444"
+  	},
+  	{
+		"headword" : "στάδιον σταδίου, τό (pl. στάδια and στάδιοι)",
+		"definition" : "stadion or stade, the longest Greek unit of linear measure, about 185 meters",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "445"
+  	},
+  	{
+		"headword" : "φρονέω, φρονήσω, ἐφρόνησα",
+		"definition" : "think, intend to (+infin.); be minded towards (+adv. and dat.)",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "The Mind, Perceiving and Learning ",
+		"frequency-rank" : "446"
+  	},
+  	{
+		"headword" : "τοιόσδε τοιάδε τοιόνδε",
+		"definition" : "such (as this), of such a sort (as this)",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "447"
+  	},
+  	{
+		"headword" : "ὁρμάω, ὁρμήσω, ὥρμησα, ὥρμηκα, ὥρμημαι, ὡρμήθην",
+		"definition" : "set in motion, urge on; (intrans.) start, hasten on",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "448"
+  	},
+  	{
+		"headword" : "παρασκευάζω, παρασκευάσω, παρεσκεύασα",
+		"definition" : "get ready, prepare, provide",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "449"
+  	},
+  	{
+		"headword" : "λαλέω, λαλήσω, ἐλάλησα, λελάληκα, ἐλαλήθην",
+		"definition" : "talk, chatter, babble",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "450"
+  	},
+  	{
+		"headword" : "δράω, δράσω, ἔδρασα, δέδρακα, δέδραμαι, ἐδράσθην",
+		"definition" : "do, accomplish",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Work and Leisure",
+		"frequency-rank" : "451"
+  	},
+  	{
+		"headword" : "σκοπέω, σκοπήσω, ἐσκόπησα",
+		"definition" : "look at, watch; look into, consider, examine",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "452"
+  	},
+  	{
+		"headword" : "βοῦς βοός, ὁ/ἡ",
+		"definition" : "bull, ox, cow",
+		"part-of-speech" : "noun: 3rd declension irregular",
+		"semantic-group" : "Animals and Plants",
+		"frequency-rank" : "453"
+  	},
+  	{
+		"headword" : "ἡμέτερος ἡμετέρα ἡμέτρον",
+		"definition" : "our",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "454"
+  	},
+  	{
+		"headword" : "γράμμα γράμματος, τό",
+		"definition" : "letter, written character; (pl.) piece of writing, document(s)",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "455"
+  	},
+  	{
+		"headword" : "ἐρωτάω, ἐρήσομαι, 2 aor. ἠρόμην",
+		"definition" : "ask someone (acc.) something (acc.); question, beg",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "456"
+  	},
+  	{
+		"headword" : "πολεμέω, πολεμήσω, ἐπολέμησα, πεπολέμηκα",
+		"definition" : "make war",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "457"
+  	},
+  	{
+		"headword" : "θύω, θύσω, ἔθυσα, τέθυκα, τέθυμαι, ἐτύθην",
+		"definition" : "sacrifice",
+		"part-of-speech" : "verb: -ω vowel stem",
+		"semantic-group" : "Religion",
+		"frequency-rank" : "458"
+  	},
+  	{
+		"headword" : "ἐλαύνω, ἐλῶ, ἤλασα, -ελήλακα, ἐλήλαμαι, ἠλάθην",
+		"definition" : "drive, set in motion",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "459"
+  	},
+  	{
+		"headword" : "δέδοικα, δείσομαι, ἔδεισα",
+		"definition" : "fear",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "460"
+  	},
+  	{
+		"headword" : "σύμμαχος –ον",
+		"definition" : "allied with (+dat.); οἱ σύμμαχοι allies",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "461"
+  	},
+  	{
+		"headword" : "ἡγεμών ἡγεμόνος, ὁ",
+		"definition" : "guide, leader, commander",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "462"
+  	},
+  	{
+		"headword" : "βαρύς βαρεῖα βαρύ",
+		"definition" : "heavy, grievous, tiresome",
+		"part-of-speech" : "adjective: -ύς, -εῖα, -ύ",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "463"
+  	},
+  	{
+		"headword" : "ὧδε",
+		"definition" : "thus, in this way; hither, here",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "464"
+  	},
+  	{
+		"headword" : "αἰσχρός –ά –όν",
+		"definition" : "ugly, shameful, disgraceful",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "465"
+  	},
+  	{
+		"headword" : "εἰρήνη εἰρήνης, ἡ",
+		"definition" : "peace",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "466"
+  	},
+  	{
+		"headword" : "ἁλίσκομαι, ἁλώσομαι, 2 aor. ἑάλων, ἑάλωκα",
+		"definition" : "to be taken, conquered (act. supplied by αἱρέω)",
+		"part-of-speech" : "verb: deponent",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "467"
+  	},
+  	{
+		"headword" : "δέκα",
+		"definition" : "ten",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "468"
+  	},
+  	{
+		"headword" : "ἀμείνων ἄμεινον",
+		"definition" : "better, abler, stronger, braver (comp. of ἀγαθός)",
+		"part-of-speech" : "adjective: 3rd declension -ων, -ον",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "469"
+  	},
+  	{
+		"headword" : "χείρων χεῖρον",
+		"definition" : "worse, inferior (comp. of κακός)",
+		"part-of-speech" : "adjective: 3rd declension -ων, -ον",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "470"
+  	},
+  	{
+		"headword" : "βοηθέω, βοηθήσω, ἐβοήθησα, βεβοήθηκα",
+		"definition" : "help, assist (+dat.)",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Help and Safety",
+		"frequency-rank" : "471"
+  	},
+  	{
+		"headword" : "λαμπρός –ά –όν",
+		"definition" : "bright, brilliant; well-known, illustrious",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Characteristics",
+		"frequency-rank" : "472"
+  	},
+  	{
+		"headword" : "ἀπαλλάσσω, ἀπαλλάξω, ἀπήλλαξα, ἀπήλλαχα, ἀπήλλαγμαι, ἀπηλλάχθην or ἀπηλλάγην",
+		"definition" : "set free, release, deliver",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "Help and Safety",
+		"frequency-rank" : "473"
+  	},
+  	{
+		"headword" : "βουλεύω βουλεύσω, ἐβούλευσα, βεβούλευκα, βεβούλευμαι, ἐβουλεύθην",
+		"definition" : "plan (to), decide (to); (mid.) deliberate",
+		"part-of-speech" : "verb: -ω vowel stem",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "474"
+  	},
+  	{
+		"headword" : "μάλα",
+		"definition" : "very, very much",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Conjunctions/Adverbs",
+		"frequency-rank" : "475"
+  	},
+  	{
+		"headword" : "αἰτέω, αἰτήσω, ᾔτησα, ᾔτηκα, ᾔτημαι, ᾐτήθην",
+		"definition" : "ask (for), beg",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "476"
+  	},
+  	{
+		"headword" : "σωτηρία σωτηρίας, ἡ",
+		"definition" : "safety, deliverance",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Help and Safety",
+		"frequency-rank" : "477"
+  	},
+  	{
+		"headword" : "ἆρα",
+		"definition" : "[introduces a question]",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "478"
+  	},
+  	{
+		"headword" : "γλῶσσα –ης, ἡ",
+		"definition" : "tongue; language",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Body Parts",
+		"frequency-rank" : "478"
+  	},
+  	{
+		"headword" : "διώκω, διώξομαι, ἐδίωξα, δεδίωχα, ἐδιώχθην",
+		"definition" : "pursue",
+		"part-of-speech" : "verb: -ω palatal stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "479"
+  	},
+  	{
+		"headword" : "δαίμων δαίμονος, ὁ/ἡ",
+		"definition" : "spirit, god, demon",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Religion",
+		"frequency-rank" : "480"
+  	},
+  	{
+		"headword" : "οὐκοῦν",
+		"definition" : "surely then (inviting assent to an inference)",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "481"
+  	},
+  	{
+		"headword" : "γλῶσσα γλώσσης, ἡ",
+		"definition" : "tongue; language",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Body Parts",
+		"frequency-rank" : "482"
+  	},
+  	{
+		"headword" : "ἑπτά",
+		"definition" : "seven",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "483"
+  	},
+  	{
+		"headword" : "τολμάω, τολμήσω, ἐτόλμησα, τετόλμηκα, τετόλμημαι, ἐτολμήθην",
+		"definition" : "have the courage, dare; undertake, undergo",
+		"part-of-speech" : "verb: contracted",
+		"semantic-group" : "The Senses and Feelings",
+		"frequency-rank" : "484"
+  	},
+  	{
+		"headword" : "δεσπότης –ου, ὁ",
+		"definition" : "master (of the household); absolute ruler",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "485"
+  	},
+  	{
+		"headword" : "εἰκός εἰκότος, τό",
+		"definition" : "likelihood, probability; εἰκός (ἐστι) it is likely (+infin.) →ἔοικα",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "The Mind, Perceiving and Learning",
+		"frequency-rank" : "486"
+  	},
+  	{
+		"headword" : "ἄδικος ἄδικον",
+		"definition" : "unjust",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Ethics and Morals",
+		"frequency-rank" : "487"
+  	},
+  	{
+		"headword" : "εἴκοσι(ν)",
+		"definition" : "twenty",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "488"
+  	},
+  	{
+		"headword" : "μυρίος μυρία μυρίον",
+		"definition" : "countless; μύριοι 10,000; μυριάς -άδος ἡ 10,000, a countless amount",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Measurement and Numerals",
+		"frequency-rank" : "489"
+  	},
+  	{
+		"headword" : "αὐτίκα",
+		"definition" : "at once, immediately",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "490"
+  	},
+  	{
+		"headword" : "δέκατος –η –ον",
+		"definition" : "tenth",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "491"
+  	},
+  	{
+		"headword" : "βαίνω, βήσομαι, 2 aor. ἔβην, βέβηκα",
+		"definition" : "walk, come, go",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Movement",
+		"frequency-rank" : "492"
+  	},
+  	{
+		"headword" : "περ",
+		"definition" : "[enclitic added to pronouns and other particles for emphasis]",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "493"
+  	},
+  	{
+		"headword" : "ἐλεύθερος ἐλευθέρα ἐλεύθερον",
+		"definition" : "free, independent",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "494"
+  	},
+  	{
+		"headword" : "στρατιά –ᾶς, ἡ",
+		"definition" : "army",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "495"
+  	},
+  	{
+		"headword" : "ἀμφί",
+		"definition" : "about, around",
+		"part-of-speech" : "preposition",
+		"semantic-group" : "Direction",
+		"frequency-rank" : "496"
+  	},
+  	{
+		"headword" : "συμφορά –ᾶς, ἡ",
+		"definition" : "event, circumstance, misfortune",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "Life and Death",
+		"frequency-rank" : "497"
+  	},
+  	{
+		"headword" : "ἑκατόν",
+		"definition" : "hundred",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "498"
+  	},
+  	{
+		"headword" : "νίκη νίκης, ἡ",
+		"definition" : "victory",
+		"part-of-speech" : "noun: 1st declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "499"
+  	},
+  	{
+		"headword" : "ἔπος ἔπους, τό",
+		"definition" : "word, speech, tale; prophecy",
+		"part-of-speech" : "noun: 3rd declension σ-stem",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "500"
+  	},
+  	{
+		"headword" : "στρατός –οῦ, ὁ",
+		"definition" : "army",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "War and Peace",
+		"frequency-rank" : "501"
+  	},
+  	{
+		"headword" : "φράζω, φράσω, ἔφρασα, πέφρακα, πέφρασμαι, ἐφράσθην",
+		"definition" : "tell, declare; (mid. and pass.) think (about)",
+		"part-of-speech" : "verb: -ω dental stem",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "502"
+  	},
+  	{
+		"headword" : "ἀργύριον ἀργυρίου, τό",
+		"definition" : "money",
+		"part-of-speech" : "noun: 2nd declension",
+		"semantic-group" : "Government and Society",
+		"frequency-rank" : "503"
+  	},
+  	{
+		"headword" : "τριάκοντα",
+		"definition" : "thirty",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "504"
+  	},
+  	{
+		"headword" : "ἕξ",
+		"definition" : "six",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "505"
+  	},
+  	{
+		"headword" : "πεμπτός –ή –όν",
+		"definition" : "fifth",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "506"
+  	},
+  	{
+		"headword" : "μάρτυς μάρτυρος, ὁ/ἡ",
+		"definition" : "witness",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "Law and Judgment",
+		"frequency-rank" : "507"
+  	},
+  	{
+		"headword" : "χαλκοῦς –ῆ –οῦν",
+		"definition" : "of copper or bronze",
+		"part-of-speech" : "adjective: 1st and 2nd declension",
+		"semantic-group" : "Earth",
+		"frequency-rank" : "508"
+  	},
+  	{
+		"headword" : "ἕβδομος –η –ον",
+		"definition" : "seventh",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "509"
+  	},
+  	{
+		"headword" : "ποῦ",
+		"definition" : "where ",
+		"part-of-speech" : "pronoun",
+		"semantic-group" : "Pronouns/Interrogatives",
+		"frequency-rank" : "510"
+  	},
+  	{
+		"headword" : "ναί",
+		"definition" : "indeed, yes (used in strong affirmation)",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Particles",
+		"frequency-rank" : "511"
+  	},
+  	{
+		"headword" : "φῶς φωτός, τό",
+		"definition" : "light, daylight",
+		"part-of-speech" : "noun: 3rd declension consonant stem",
+		"semantic-group" : "World Order",
+		"frequency-rank" : "512"
+  	},
+  	{
+		"headword" : "ὀκτώ",
+		"definition" : "eight",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "513"
+  	},
+  	{
+		"headword" : "ἕκτος –η –ον",
+		"definition" : "sixth",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "514"
+  	},
+  	{
+		"headword" : "τριακοστός –ή –όν",
+		"definition" : "thirtieth",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "515"
+  	},
+  	{
+		"headword" : "ἐννέα",
+		"definition" : "nine",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "516"
+  	},
+  	{
+		"headword" : "πότε",
+		"definition" : "when?",
+		"part-of-speech" : "adverb",
+		"semantic-group" : "Time",
+		"frequency-rank" : "517"
+  	},
+  	{
+		"headword" : "ὄγδοος –η –ον",
+		"definition" : "eighth",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "518"
+  	},
+  	{
+		"headword" : "ἔνατος –α –ον",
+		"definition" : "ninth",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "519"
+  	},
+  	{
+		"headword" : "εἰκοστός –ή –όν",
+		"definition" : "twentieth",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "520"
+  	},
+  	{
+		"headword" : "ἀγγέλλω, ἀγγελῶ, ἤγγειλα, ἤγγελκα, ἤγγελμαι, ἠγγέλθην",
+		"definition" : "report, tell",
+		"part-of-speech" : "verb: -ω liquid stem",
+		"semantic-group" : "Writing and Talking",
+		"frequency-rank" : "521"
+  	},
+  	{
+		"headword" : "ἑκατοστός –ή –όν",
+		"definition" : "hundredth",
+		"part-of-speech" : "adjective: numeral",
+		"semantic-group" : "Measurements and Numerals",
+		"frequency-rank" : "522"
+  	}
+]

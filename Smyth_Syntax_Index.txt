@@ -1,0 +1,301 @@
+﻿PART IV: SYNTAX
+
+Sentences, Subject, Predicate  
+
+# DEFINITIONS
+
+# SYNTAX OF THE SIMPLE SENTENCE  #
+
+Subject a Substantive or an Equivalent
+Predicate Nouns, Attributive Adjective
+Appositive, Copula, Object
+Expansion of Subject and Predicate
+The Concords
+The Subject
+	Its Omission
+	Impersonal Verbs Subject of the Infinitive
+	Case of the Subject: the Nominative
+The Predicate
+	Omission of the Verb
+	Concord of Subject and Predicate
+	With One Subject
+	With Two or More Subjects
+Concord of Predicate Substantives
+Apposition
+Peculiarities in the Use of Number,Gender, Person  
+Adjectives
+	Attributive Adjectives: their Agreement
+	Predicate Adjectives: their Agreement
+	Attraction of Predicate Nouns
+	Comparison of Adjectives (and Adverbs)
+Adverbs 
+The Article
+	ὁ, ἡ, τό in Homer
+	ὁ, ἡ, τό as a Relative and Demonstrative
+	ὁ, ἡ, τό as the Article
+	Position of the Article
+Pronouns
+	Personal Pronouns 
+	Possessive Pronouns
+	The Pronoun αύτός 
+	Reflexive Pronouns 
+	Demonstrative Pronouns 
+	Interrogative Pronouns
+	Indefinite Pronouns 
+	ἄλλος, ἔτερος, ἀλλήλοιν   
+	
+# THE CASES #
+
+## Vocative
+## Genitive 
+	Genitive Proper with Nouns 
+		Genitive of Possession 
+		Genitive of the Divided Whole (Partitive) 
+		Genitive of Quality 
+		Genitive of Explanation 
+		Genitive of Material, Measure 
+		Genitive, Subjective and Objective 
+		Genitive of Value 
+   	Genitive Proper with Verbs 
+		Partitive Genitive 
+		Genitive of Price and Value
+		Genitive of Crime and Accountability 
+		Genitive of Connection 
+		Genitive with Compound Verbs 
+	Genitive Proper: Free Uses 
+	Ablatival Genitive with Verbs 
+		Genitive of Separation 
+		Genitive of Distinction, Comparison 
+		Genitive of Cause 
+		Genitive of Source 
+    Genitive with Adjectives  
+	Genitive with Adverbs 
+	Genitive of Time and Place 
+## Dative
+	Dative Proper 
+		Dative Dependent on a Single Word 
+			Direct Complement 
+			Indirect Complement       
+			Direct or Indirect Complement
+		Dative as a Modifier of the Sentence 
+			Dative of Interest 
+			Dative of Relation 
+		Dative with Adjectives, Adverbs Substantives 
+	Instrumental Dative 
+		Inslrumenlal Dative Proper 
+		Comitative Dative 
+		With Adjectives, Adverbs, Substantives 
+	Locative Dative 
+	Dative with Compound Verbs 
+## Accusative  
+	Accusative of Internal Object (Object Effected) 
+		Cognate Accusative 
+		Accusative of Result 
+		Accusative of Extent 
+		Terminal Accusative
+	Accusative of External Object (Object Affected) 
+	Free Uses of the Accusative 
+		Accusative of Respect 
+		Adverbial Accusative 
+	Two Accusatives with One Verb 
+	Two Verbs with a Common Object  
+
+# THE PREPOSITIONS #
+
+Origin and Development 
+Variation
+Repetition and Omission 
+Ordinary Uses 
+List of Prepoeitions
+Improper Prepositions  
+
+# THE VERB #
+
+## The Voices 
+	Active Voice 
+	Middle Voice 
+	Passive Voice 
+## The Moods
+The Particle ἄν 
+The Moods in Simple Sentences 
+	Indicative without ἄν 
+	Indicative with ἄν  
+	Subjunctive without ἄν 
+	Subjunctive with ἄν 
+	Optative without ἄν 
+	Optative with ἄν 
+	Imperative    
+	Infinitive and Participle with ἄν 
+## The Tenses
+Kind of Time, Stage of Action
+Tenses outside of the Indicative 
+Tenses of the Indicative
+	Present  
+	Imperfect 
+	Future   
+	Aorist 
+	Perfect 
+	Pluperfect 
+	Future Perfect
+Periphrastic Tenses 
+## The Infinitive
+Subject and Predicate Noun with Infinitive 
+Personal and Impersonal Construction 
+Infinitive without the Article
+	As Subject, Predicate, and Appositive        
+	Not in Indirect Discourse , 
+		After Verbs of will or desire 
+		After Other Verbs 
+		After Adjectives, Adverbs, and Substantives 
+		Infinitive of Purpose and Result    
+		Absolute Infinitive 
+		Infinitive in Commands, Wishes, and Exclamations   
+	In Indirect Discourse 
+Infinitive with the Article
+## The Participle
+	Attributive Participle
+	Circumstantial Participle 
+		Genitive Absolute 
+		Accusative Absolute   
+		Adverbs used in Connection with Circumstantial Participles  
+	Supplementary Participle 
+		Not in Indirect Discourse 
+		In Indirect Discourse
+	Omission of ὤν 
+    ὡς with a Participle in Indirect Discourse    
+Verbs taking either the Participle or the Infinitive 
+Remarks on Some Uses of Participles 
+## Verbal Adjectives in -τέος
+Personal and Impersonal Constructions 
+## Summary of the Forms of Simple Sentences 
+
+# SYNTAX OF THE COMPOUND SENTENCE #
+
+Asyndeton
+Coordination in Place of Subordination — Parataxis 
+
+# SYNTAX OF THE COMPLEX SENTENCE
+General View 
+Anticipation (or Prolepsis)   
+Assimilation of Moods
+Three Main Classes of Subordinate Clauses
+## Purpose Clauses (Final Clauses)
+	Equivalents of a Final Clause
+## Object Clauses
+	Connection of Final with Object Clause	
+	Object Clauses with Verbs of Effort 
+	Object Clauses with Verbs of Caution
+	Object Clauses with Verbs of Fearing
+## Causal Clauses
+εἰ instead of ὅτι after Verbs of Emotion
+## Result Clauses (Consecutive Clauses) ##
+ὥστε with the Infinitive
+ὥστε with a Finite Verb
+## Proviso Clauses with ἐφ᾽ ω, ἐφ᾽ ωτε
+## Conditional Clauses
+Classification 
+Table of Conditional Forms 
+Present and Past Conditions 
+	Simple Present and Past Conditions 
+	Present and Past Unreal Conditions 
+	Unreal Conditions — Apodosis without ἄν 
+Future Conditions   
+	More Vivid Future Conditions
+		Emotional Future Conditions 
+	Less Vivid Future Conditions
+General Conditions 
+	Present General Conditions 
+	Past General Conditions 
+	Indicative Form of General Conditions 
+Different Forms of Conditional Sentences in the Same Sentence  
+Variations from the Ordinary Forms and Meanings of Conditional Sentences 
+	Modifications of the Protasis 
+	Modifications of the Apodosis 
+	Protasis and Apodosis Combined 
+Less Usual Combinations of Complete Protasis and Apodosis    
+	εἰ with the Optative, Apodosis a Primary Tense of the Indicative, etc 
+Two or More Protases or Apodoses in One Sentence 
+## Concessive Clauses
+## Temporal Clauses
+Indicative Temporal Clauses referring to Present or Past Time   
+Temporal Clauses referring to the Future
+Temporal Clauses in Generic Sentences  
+Temporal Clauses denoting Purpose
+Summary of the Constructions of ἕως "so long as" and "until"
+General Rule for πρίν "before", "until" 
+	πρίν with the Indicative 
+	πρίν with the Subjunctive 
+	πρίν with the Optative  
+	πρίν with the Infinitive 
+    πρότερον ἤ, πρόσθεν ἤ, πρὶν ἤ, πάρος
+## Comparative Clauses 
+Similes and Comparisons 
+## Relative Clauses 
+Relative Pronouns 
+Concord of Relative Pronouns
+The Antecedent of Relative Clauses 
+	Definite and Indefinite Antecedent 
+	Omission of the Antecedent  
+	Relative not Repeated  
+	Attraction of Relative Pronouns  
+	Case of the Relative with Omitted Antecedent 
+	Inverse Attraction of Relative Pronouns 
+	Incorporation of the Antecedent
+Other Peculiarities of Relative Clauses 
+Use of the Moods in Relative Clauses 
+Classes of Relative Clauses  
+	Ordinary Relative Clauses 
+	Relative Clauses of Purpose 
+	Relative Clauses of Cause
+	Relative Clauses of Result 
+	Conditional Relative Clauses 
+		Less Usual Forms  
+## Dependent Substantive Clauses 
+Dependent Statements with ὅτι or ὡς 
+Indirect Discourse 
+	General Principles 
+	Simple Sentences in Indirect Discourse 
+	Complex Sentences in Indirect Discourse 
+	Implied Indirect Discourse 
+	Remarks on the Constructions of Indirect Discours 
+ 
+# INTERROGATIVE SENTENCES 
+Direct Questions
+Indirect Questions 
+
+# EXCLAMATORY SENTENCES 
+Direct Exclamatory Sentences   
+Indirect Exclamatory
+Sentences 
+
+# NEGATIVE SENTENCES 
+Difference between ού and μή 
+Position of ού and μή 
+ού Adherescent 
+ού after εἰ (ἐάν) 
+ού and μή with Indicative and Optative 
+μή with Subjunctive and Imperative 
+Negatives of Indirect Discourse 
+ού and μή with the Infinitive
+	Not in Indirect Discourse 
+	In Indirect Discourse 
+ού and μή with the Participle 
+ού and μή with Substantives and Adjectives used Substantively    
+ούδείς, μηδείς 
+Apparent Exchange of ού and μή 
+μή and μή ού with the Infinitive depending on Verbs of Negative Meaning
+μή ού with the Infinitive depending on Negatived Verbs
+μη ού with the Participle depending on Negatived Verbs  
+μή and μή ού with the Subjunctive and Indicative 
+Redundant ού with πλἠν etc.
+ού μή 
+Negatives with ώστε and the Infinitive 
+Accumulation of Negatives 
+Some Negative Phrases 
+
+# PARTICLES 
+General View
+List of Particles
+
+# FIGURES 
+List of Grammatical and Rhetorical Figures

@@ -1,0 +1,3128 @@
+[
+    {
+        "loeb_author": "Apollonius Rhodius",
+        "loeb_number": "1",
+        "loeb_title": "Argonautica",
+        "loeb_url": "/view/LCL001/2009/volume.xml"
+    },
+    {
+        "loeb_author": "Appian",
+        "loeb_number": "2",
+        "loeb_title": "Roman History, Volume I",
+        "loeb_url": "/view/LCL002/1912/volume.xml"
+    },
+    {
+        "loeb_author": "Appian",
+        "loeb_number": "3",
+        "loeb_title": "Roman History, Volume II",
+        "loeb_url": "/view/LCL003/1912/volume.xml"
+    },
+    {
+        "loeb_author": "Appian",
+        "loeb_number": "4",
+        "loeb_title": "Roman History, Volume III",
+        "loeb_url": "/view/LCL004/1913/volume.xml"
+    },
+    {
+        "loeb_author": "Appian",
+        "loeb_number": "5",
+        "loeb_title": "Roman History, Volume IV",
+        "loeb_url": "/view/LCL005/1913/volume.xml"
+    },
+    {
+        "loeb_author": "Catullus, Tibullus",
+        "loeb_number": "6",
+        "loeb_title": "Catullus. Tibullus. Pervigilium Veneris",
+        "loeb_url": "/view/LCL006/1913/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "7",
+        "loeb_title": "Letters to Atticus, Volume I",
+        "loeb_url": "/view/LCL007/1999/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "8",
+        "loeb_title": "Letters to Atticus, Volume II",
+        "loeb_url": "/view/LCL008/1999/volume.xml"
+    },
+    {
+        "loeb_author": "Euripides",
+        "loeb_number": "9",
+        "loeb_title": "Suppliant Women. Electra. Heracles",
+        "loeb_url": "/view/LCL009/1998/volume.xml"
+    },
+    {
+        "loeb_author": "Euripides",
+        "loeb_number": "10",
+        "loeb_title": "Trojan Women. Iphigenia among the Taurians. Ion",
+        "loeb_url": "/view/LCL010/1999/volume.xml"
+    },
+    {
+        "loeb_author": "Euripides",
+        "loeb_number": "11",
+        "loeb_title": "Helen. Phoenician Women. Orestes",
+        "loeb_url": "/view/LCL011/2002/volume.xml"
+    },
+    {
+        "loeb_author": "Euripides",
+        "loeb_number": "12",
+        "loeb_title": "Cyclops. Alcestis. Medea",
+        "loeb_url": "/view/LCL012/1994/volume.xml"
+    },
+    {
+        "loeb_author": "Julian",
+        "loeb_number": "13",
+        "loeb_title": "Orations 1-5",
+        "loeb_url": "/view/LCL013/1913/volume.xml"
+    },
+    {
+        "loeb_author": "Lucian",
+        "loeb_number": "14",
+        "loeb_title": "Phalaris. Hippias or The Bath. Dionysus. Heracles. Amber or The Swans. The Fly. Nigrinus. Demonax. The Hall. My Native Land. Octogenarians. A True Story. Slander. The Consonants at Law. The Carousal (Symposium) or The Lapiths",
+        "loeb_url": "/view/LCL014/1913/volume.xml"
+    },
+    {
+        "loeb_author": "Petronius, Seneca",
+        "loeb_number": "15",
+        "loeb_title": "Satyricon. Apocolocyntosis",
+        "loeb_url": "/view/LCL015/1913/volume.xml"
+    },
+    {
+        "loeb_author": "Philostratus",
+        "loeb_number": "16",
+        "loeb_title": "Apollonius of Tyana, Volume I",
+        "loeb_url": "/view/LCL016/2005/volume.xml"
+    },
+    {
+        "loeb_author": "Philostratus",
+        "loeb_number": "17",
+        "loeb_title": "Apollonius of Tyana, Volume II",
+        "loeb_url": "/view/LCL017/2005/volume.xml"
+    },
+    {
+        "loeb_author": "Propertius",
+        "loeb_number": "18",
+        "loeb_title": "Elegies",
+        "loeb_url": "/view/LCL018/1990/volume.xml"
+    },
+    {
+        "loeb_author": "Quintus Smyrnaeus",
+        "loeb_number": "19",
+        "loeb_title": "The Fall of Troy",
+        "loeb_url": "/view/LCL019/1913/volume.xml"
+    },
+    {
+        "loeb_author": "Sophocles",
+        "loeb_number": "20",
+        "loeb_title": "Ajax. Electra. Oedipus Tyrannus",
+        "loeb_url": "/view/LCL020/1994/volume.xml"
+    },
+    {
+        "loeb_author": "Sophocles",
+        "loeb_number": "21",
+        "loeb_title": "Antigone. The Women of Trachis. Philoctetes. Oedipus at Colonus",
+        "loeb_url": "/view/LCL021/1994/volume.xml"
+    },
+    {
+        "loeb_author": "Terence",
+        "loeb_number": "22",
+        "loeb_title": "The Woman of Andros. The Self-Tormentor. The Eunuch",
+        "loeb_url": "/view/LCL022/2001/volume.xml"
+    },
+    {
+        "loeb_author": "Terence",
+        "loeb_number": "23",
+        "loeb_title": "Phormio. The Mother-in-Law. The Brothers",
+        "loeb_url": "/view/LCL023/2001/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "24",
+        "loeb_title": "The Apostolic Fathers, Volume I: I Clement. II Clement. Ignatius. Polycarp. Didache",
+        "loeb_url": "/view/LCL024/2003/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "25",
+        "loeb_title": "The Apostolic Fathers, Volume II: Epistle of Barnabas. Papias and Quadratus. Epistle to Diognetus. The Shepherd of Hermas",
+        "loeb_url": "/view/LCL025/2003/volume.xml"
+    },
+    {
+        "loeb_author": "Augustine",
+        "loeb_number": "26",
+        "loeb_title": "Confessions, Volume I",
+        "loeb_url": "/view/LCL026/2014/volume.xml"
+    },
+    {
+        "loeb_author": "Augustine",
+        "loeb_number": "27",
+        "loeb_title": "Confessions, Volume II",
+        "loeb_url": "/view/LCL027/1912/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "28",
+        "loeb_title": "Greek Bucolic Poets",
+        "loeb_url": "/view/LCL028/1912/volume.xml"
+    },
+    {
+        "loeb_author": "Julian",
+        "loeb_number": "29",
+        "loeb_title": "Orations 6-8. Letters to Themistius, To the Senate and People of Athens, To a Priest. The Caesars. Misopogon",
+        "loeb_url": "/view/LCL029/1913/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "30",
+        "loeb_title": "On Duties",
+        "loeb_url": "/view/LCL030/1913/volume.xml"
+    },
+    {
+        "loeb_author": "Suetonius",
+        "loeb_number": "31",
+        "loeb_title": "Lives of the Caesars, Volume I",
+        "loeb_url": "/view/LCL031/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Cassius",
+        "loeb_number": "32",
+        "loeb_title": "Roman History, Volume I",
+        "loeb_url": "/view/LCL032/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Horace",
+        "loeb_number": "33",
+        "loeb_title": "Odes and Epodes",
+        "loeb_url": "/view/LCL033/2004/volume.xml"
+    },
+    {
+        "loeb_author": "John Damascene",
+        "loeb_number": "34",
+        "loeb_title": "Barlaam and Ioasaph",
+        "loeb_url": "/view/LCL034/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Tacitus",
+        "loeb_number": "35",
+        "loeb_title": "Agricola. Germania. Dialogue on Oratory",
+        "loeb_url": "/view/LCL035/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "36",
+        "loeb_title": "Euthyphro. Apology. Crito. Phaedo. Phaedrus",
+        "loeb_url": "/view/LCL036/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Cassius",
+        "loeb_number": "37",
+        "loeb_title": "Roman History, Volume II",
+        "loeb_url": "/view/LCL037/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Suetonius",
+        "loeb_number": "38",
+        "loeb_title": "Lives of the Caesars, Volume II",
+        "loeb_url": "/view/LCL038/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Caesar",
+        "loeb_number": "39",
+        "loeb_title": "Civil Wars",
+        "loeb_url": "/view/LCL039/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "40",
+        "loeb_title": "On Ends",
+        "loeb_url": "/view/LCL040/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Ovid",
+        "loeb_number": "41",
+        "loeb_title": "Heroides. Amores",
+        "loeb_url": "/view/LCL041/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Ovid",
+        "loeb_number": "42",
+        "loeb_title": "Metamorphoses, Volume I",
+        "loeb_url": "/view/LCL042/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Ovid",
+        "loeb_number": "43",
+        "loeb_title": "Metamorphoses, Volume II",
+        "loeb_url": "/view/LCL043/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Apuleius",
+        "loeb_number": "44",
+        "loeb_title": "Metamorphoses (The Golden Ass), Volume I",
+        "loeb_url": "/view/LCL044/1996/volume.xml"
+    },
+    {
+        "loeb_author": "Achilles Tatius",
+        "loeb_number": "45",
+        "loeb_title": "Leucippe and Clitophon",
+        "loeb_url": "/view/LCL045/1969/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "46",
+        "loeb_title": "Lives, Volume I",
+        "loeb_url": "/view/LCL046/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "47",
+        "loeb_title": "Lives, Volume II",
+        "loeb_url": "/view/LCL047/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Procopius",
+        "loeb_number": "48",
+        "loeb_title": "History of the Wars, Volume I",
+        "loeb_url": "/view/LCL048/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Strabo",
+        "loeb_number": "49",
+        "loeb_title": "Geography, Volume I",
+        "loeb_url": "/view/LCL049/1917/volume.xml"
+    },
+    {
+        "loeb_author": "Strabo",
+        "loeb_number": "50",
+        "loeb_title": "Geography, Volume II",
+        "loeb_url": "/view/LCL050/1923/volume.xml"
+    },
+    {
+        "loeb_author": "Xenophon",
+        "loeb_number": "51",
+        "loeb_title": "Cyropaedia, Volume I",
+        "loeb_url": "/view/LCL051/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Xenophon",
+        "loeb_number": "52",
+        "loeb_title": "Cyropaedia, Volume II",
+        "loeb_url": "/view/LCL052/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Cassius",
+        "loeb_number": "53",
+        "loeb_title": "Roman History, Volume III",
+        "loeb_url": "/view/LCL053/1914/volume.xml"
+    },
+    {
+        "loeb_author": "Lucian",
+        "loeb_number": "54",
+        "loeb_title": "The Downward Journey or The Tyrant. Zeus Catechized. Zeus Rants. The Dream or The Cock. Prometheus.  Icaromenippus or The Sky-man. Timon or The Misanthrope. Charon or The Inspectors. Philosophies for Sale",
+        "loeb_url": "/view/LCL054/1915/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny the Younger",
+        "loeb_number": "55",
+        "loeb_title": "Letters, Volume I: Books 1-7",
+        "loeb_url": "/view/LCL055/1969/volume.xml"
+    },
+    {
+        "loeb_author": "Pindar",
+        "loeb_number": "56",
+        "loeb_title": "Olympian Odes. Pythian Odes",
+        "loeb_url": "/view/LCL056/1997/volume.xml"
+    },
+    {
+        "loeb_author": "Hesiod",
+        "loeb_number": "57",
+        "loeb_title": "Theogony. Works and Days. Testimonia",
+        "loeb_url": "/view/LCL057/2007/volume.xml"
+    },
+    {
+        "loeb_author": "Marcus Aurelius",
+        "loeb_number": "58",
+        "loeb_title": "Marcus Aurelius",
+        "loeb_url": "/view/LCL058/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny the Younger",
+        "loeb_number": "59",
+        "loeb_title": "Letters, Volume II: Books 8-10.\n                Panegyricus",
+        "loeb_url": "/view/LCL059/1969/volume.xml"
+    },
+    {
+        "loeb_author": "Plautus",
+        "loeb_number": "60",
+        "loeb_title": "Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives",
+        "loeb_url": "/view/LCL060/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Plautus",
+        "loeb_number": "61",
+        "loeb_title": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+        "loeb_url": "/view/LCL061/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca",
+        "loeb_number": "62",
+        "loeb_title": "Tragedies, Volume I",
+        "loeb_url": "/view/LCL062/2002/volume.xml"
+    },
+    {
+        "loeb_author": "Virgil",
+        "loeb_number": "63",
+        "loeb_title": "Eclogues. Georgics. Aeneid: Books 1-6",
+        "loeb_url": "/view/LCL063/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Virgil",
+        "loeb_number": "64",
+        "loeb_title": "Aeneid: Books 7-12. Appendix Vergiliana",
+        "loeb_url": "/view/LCL064/1918/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "65",
+        "loeb_title": "Lives, Volume III",
+        "loeb_url": "/view/LCL065/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Cassius",
+        "loeb_number": "66",
+        "loeb_title": "Roman History, Volume IV",
+        "loeb_url": "/view/LCL066/1916/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "67",
+        "loeb_title": "Greek Anthology, Volume I: Book 1: Christian Epigrams. Book 2: Christodorus of Thebes in Egypt. Book 3: The Cyzicene Epigrams. Book 4: The Proems of the Different Anthologies. Book 5: The Amatory Epigrams. Book 6: The Dedicatory Epigrams",
+        "loeb_url": "/view/LCL067/1916/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "68",
+        "loeb_title": "Greek Anthology, Volume II: Book 7: Sepulchral Epigrams. Book 8: The Epigrams of St. Gregory the Theologian",
+        "loeb_url": "/view/LCL068/1917/volume.xml"
+    },
+    {
+        "loeb_author": "Longus, Xenophon of Ephesus",
+        "loeb_number": "69",
+        "loeb_title": "Daphnis and Chloe. Anthia and Habrocomes",
+        "loeb_url": "/view/LCL069/2009/volume.xml"
+    },
+    {
+        "loeb_author": "Theophrastus",
+        "loeb_number": "70",
+        "loeb_title": "Enquiry into Plants, Volume I: Books 1-5",
+        "loeb_url": "/view/LCL070/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Galen",
+        "loeb_number": "71",
+        "loeb_title": "On the Natural Faculties",
+        "loeb_url": "/view/LCL071/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Caesar",
+        "loeb_number": "72",
+        "loeb_title": "The Gallic War",
+        "loeb_url": "/view/LCL072/1917/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "73",
+        "loeb_title": "Nicomachean Ethics",
+        "loeb_url": "/view/LCL073/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Boethius",
+        "loeb_number": "74",
+        "loeb_title": "Theological Tractates. The Consolation of Philosophy",
+        "loeb_url": "/view/LCL074/1973/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca",
+        "loeb_number": "75",
+        "loeb_title": "Epistles, Volume I",
+        "loeb_url": "/view/LCL075/1917/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca",
+        "loeb_number": "76",
+        "loeb_title": "Epistles, Volume II",
+        "loeb_url": "/view/LCL076/1920/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca",
+        "loeb_number": "77",
+        "loeb_title": "Epistles, Volume III",
+        "loeb_url": "/view/LCL077/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca",
+        "loeb_number": "78",
+        "loeb_title": "Tragedies, Volume II",
+        "loeb_url": "/view/LCL078/2004/volume.xml"
+    },
+    {
+        "loeb_author": "Theophrastus",
+        "loeb_number": "79",
+        "loeb_title": "Enquiry into Plants, Volume II: Books 6-9. On Odours. Weather Signs",
+        "loeb_url": "/view/LCL079/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "80",
+        "loeb_title": "Lives, Volume IV",
+        "loeb_url": "/view/LCL080/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Procopius",
+        "loeb_number": "81",
+        "loeb_title": "History of the Wars, Volume II",
+        "loeb_url": "/view/LCL081/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Cassius",
+        "loeb_number": "82",
+        "loeb_title": "Roman History, Volume V",
+        "loeb_url": "/view/LCL082/1917/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Cassius",
+        "loeb_number": "83",
+        "loeb_title": "Roman History, Volume VI",
+        "loeb_url": "/view/LCL083/1917/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "84",
+        "loeb_title": "Greek Anthology, Volume III: Book 9: The Declamatory Epigrams",
+        "loeb_url": "/view/LCL084/1917/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "85",
+        "loeb_title": "Greek Anthology, Volume IV: Book 10: The Hortatory and Admonitory Epigrams. Book 11: The Convivial and Satirical Epigrams. Book 12: Strato's Musa Puerilis",
+        "loeb_url": "/view/LCL085/1918/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "86",
+        "loeb_title": "Greek Anthology, Volume V: Book 13: Epigrams in Various Metres. Book 14: Arithmetical Problems, Riddles, Oracles. Book 15: Miscellanea. Book 16: Epigrams of the Planudean Anthology Not in the Palatine Manuscript",
+        "loeb_url": "/view/LCL086/1918/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "87",
+        "loeb_title": "Lives, Volume V",
+        "loeb_url": "/view/LCL087/1917/volume.xml"
+    },
+    {
+        "loeb_author": "Xenophon",
+        "loeb_number": "88",
+        "loeb_title": "Hellenica, Volume I",
+        "loeb_url": "/view/LCL088/1918/volume.xml"
+    },
+    {
+        "loeb_author": "Xenophon",
+        "loeb_number": "89",
+        "loeb_title": "Hellenica, Volume II",
+        "loeb_url": "/view/LCL089/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Xenophon",
+        "loeb_number": "90",
+        "loeb_title": "Anabasis",
+        "loeb_url": "/view/LCL090/1998/volume.xml"
+    },
+    {
+        "loeb_author": "Juvenal, Persius",
+        "loeb_number": "91",
+        "loeb_title": "Juvenal and Persius",
+        "loeb_url": "/view/LCL091/2004/volume.xml"
+    },
+    {
+        "loeb_author": "Clement of Alexandria",
+        "loeb_number": "92",
+        "loeb_title": "The Exhortation to the Greeks. The Rich Man's Salvation. To the Newly Baptized",
+        "loeb_url": "/view/LCL092/1919/volume.xml"
+    },
+    {
+        "loeb_author": "Pausanias",
+        "loeb_number": "93",
+        "loeb_title": "Description of Greece, Volume I",
+        "loeb_url": "/view/LCL093/1918/volume.xml"
+    },
+    {
+        "loeb_author": "Martial",
+        "loeb_number": "94",
+        "loeb_title": "Epigrams, Volume I",
+        "loeb_url": "/view/LCL094/1993/volume.xml"
+    },
+    {
+        "loeb_author": "Martial",
+        "loeb_number": "95",
+        "loeb_title": "Epigrams, Volume II",
+        "loeb_url": "/view/LCL095/1993/volume.xml"
+    },
+    {
+        "loeb_author": "Ausonius",
+        "loeb_number": "96",
+        "loeb_title": "Volume I: Books 1-17",
+        "loeb_url": "/view/LCL096/1919/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "97",
+        "loeb_title": "Letters to Atticus, Volume III",
+        "loeb_url": "/view/LCL097/1999/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "98",
+        "loeb_title": "Lives, Volume VI",
+        "loeb_url": "/view/LCL098/1918/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "99",
+        "loeb_title": "Lives, Volume VII",
+        "loeb_url": "/view/LCL099/1919/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "100",
+        "loeb_title": "Lives, Volume VIII",
+        "loeb_url": "/view/LCL100/1919/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "101",
+        "loeb_title": "Lives, Volume IX",
+        "loeb_url": "/view/LCL101/1920/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "102",
+        "loeb_title": "Lives, Volume X",
+        "loeb_url": "/view/LCL102/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "103",
+        "loeb_title": "Lives, Volume XI",
+        "loeb_url": "/view/LCL103/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Homer",
+        "loeb_number": "104",
+        "loeb_title": "Odyssey, Volume I",
+        "loeb_url": "/view/LCL104/1919/volume.xml"
+    },
+    {
+        "loeb_author": "Homer",
+        "loeb_number": "105",
+        "loeb_title": "Odyssey, Volume II",
+        "loeb_url": "/view/LCL105/1919/volume.xml"
+    },
+    {
+        "loeb_author": "Aeschines",
+        "loeb_number": "106",
+        "loeb_title": "Speeches",
+        "loeb_url": "/view/LCL106/1919/volume.xml"
+    },
+    {
+        "loeb_author": "Procopius",
+        "loeb_number": "107",
+        "loeb_title": "History of the Wars, Volume III",
+        "loeb_url": "/view/LCL107/1916/volume.xml"
+    },
+    {
+        "loeb_author": "Thucydides",
+        "loeb_number": "108",
+        "loeb_title": "History of the Peloponnesian War, Volume I",
+        "loeb_url": "/view/LCL108/1919/volume.xml"
+    },
+    {
+        "loeb_author": "Thucydides",
+        "loeb_number": "109",
+        "loeb_title": "History of the Peloponnesian War, Volume II",
+        "loeb_url": "/view/LCL109/1920/volume.xml"
+    },
+    {
+        "loeb_author": "Thucydides",
+        "loeb_number": "110",
+        "loeb_title": "History of the Peloponnesian War, Volume III",
+        "loeb_url": "/view/LCL110/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Tacitus",
+        "loeb_number": "111",
+        "loeb_title": "Histories",
+        "loeb_url": "/view/LCL111/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Fronto",
+        "loeb_number": "112",
+        "loeb_title": "Correspondence, Volume I",
+        "loeb_url": "/view/LCL112/1919/volume.xml"
+    },
+    {
+        "loeb_author": "Fronto",
+        "loeb_number": "113",
+        "loeb_title": "Correspondence, Volume II",
+        "loeb_url": "/view/LCL113/1920/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "114",
+        "loeb_title": "History of Rome, Volume I",
+        "loeb_url": "/view/LCL114/1919/volume.xml"
+    },
+    {
+        "loeb_author": "Ausonius, Paulinus Pellaeus",
+        "loeb_number": "115",
+        "loeb_title": "Volume II: Books 18-20. Paulinus Pellaeus: Eucharisticus",
+        "loeb_url": "/view/LCL115/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Sallust",
+        "loeb_number": "116",
+        "loeb_title": "The War with Catiline. The War with Jugurtha",
+        "loeb_url": "/view/LCL116/2013/volume.xml"
+    },
+    {
+        "loeb_author": "Herodotus",
+        "loeb_number": "117",
+        "loeb_title": "The Persian Wars, Volume I",
+        "loeb_url": "/view/LCL117/1920/volume.xml"
+    },
+    {
+        "loeb_author": "Herodotus",
+        "loeb_number": "118",
+        "loeb_title": "The Persian Wars, Volume II",
+        "loeb_url": "/view/LCL118/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Herodotus",
+        "loeb_number": "119",
+        "loeb_title": "The Persian Wars, Volume III",
+        "loeb_url": "/view/LCL119/1922/volume.xml"
+    },
+    {
+        "loeb_author": "Herodotus",
+        "loeb_number": "120",
+        "loeb_title": "The Persian Wars, Volume IV",
+        "loeb_url": "/view/LCL120/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Apollodorus",
+        "loeb_number": "121",
+        "loeb_title": "The Library, Volume I",
+        "loeb_url": "/view/LCL121/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Apollodorus",
+        "loeb_number": "122",
+        "loeb_title": "The Library, Volume II",
+        "loeb_url": "/view/LCL122/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "123",
+        "loeb_title": "Theaetetus. Sophist",
+        "loeb_url": "/view/LCL123/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Quintilian",
+        "loeb_number": "124",
+        "loeb_title": "The Orator's Education, Volume I: Books 1-2",
+        "loeb_url": "/view/LCL124/2002/volume.xml"
+    },
+    {
+        "loeb_author": "Quintilian",
+        "loeb_number": "125",
+        "loeb_title": "The Orator's Education, Volume II: Books 3-5",
+        "loeb_url": "/view/LCL125/2002/volume.xml"
+    },
+    {
+        "loeb_author": "Quintilian",
+        "loeb_number": "126",
+        "loeb_title": "The Orator's Education, Volume III: Books 6-8",
+        "loeb_url": "/view/LCL126/2002/volume.xml"
+    },
+    {
+        "loeb_author": "Quintilian",
+        "loeb_number": "127",
+        "loeb_title": "The Orator's Education, Volume IV: Books 9-10",
+        "loeb_url": "/view/LCL127/2002/volume.xml"
+    },
+    {
+        "loeb_author": "Polybius",
+        "loeb_number": "128",
+        "loeb_title": "The Histories, Volume I",
+        "loeb_url": "/view/LCL128/2010/volume.xml"
+    },
+    {
+        "loeb_author": "Callimachus, Lycophron, Aratus",
+        "loeb_number": "129",
+        "loeb_title": "Hymns and Epigrams. Lycophron: Alexandra. Aratus: Phaenomena",
+        "loeb_url": "/view/LCL129/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Lucian",
+        "loeb_number": "130",
+        "loeb_title": "The Dead Come to Life or The Fisherman. The Double Indictment or Trials by Jury. On Sacrifices. The Ignorant Book Collector. The Dream or Lucian's Career. The Parasite. The Lover of Lies. The Judgement of the Goddesses. On Salaried Posts in Great Houses",
+        "loeb_url": "/view/LCL130/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Epictetus",
+        "loeb_number": "131",
+        "loeb_title": "Discourses, Books 1-2",
+        "loeb_url": "/view/LCL131/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Menander",
+        "loeb_number": "132",
+        "loeb_title": "Aspis. Georgos. Dis Exapaton. Dyskolos. Encheiridion. Epitrepontes",
+        "loeb_url": "/view/LCL132/1979/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "133",
+        "loeb_title": "History of Rome, Volume II",
+        "loeb_url": "/view/LCL133/1922/volume.xml"
+    },
+    {
+        "loeb_author": "Philostratus, Eunapius",
+        "loeb_number": "134",
+        "loeb_title": "Lives of the Sophists. Eunapius: Lives of the Philosophers and Sophists",
+        "loeb_url": "/view/LCL134/1921/volume.xml"
+    },
+    {
+        "loeb_author": "Claudian",
+        "loeb_number": "135",
+        "loeb_title": "Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium  of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Panegyric on the Consulship of Manlius. On Stilicho's Consulship 1",
+        "loeb_url": "/view/LCL135/1922/volume.xml"
+    },
+    {
+        "loeb_author": "Claudian",
+        "loeb_number": "136",
+        "loeb_title": "On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina",
+        "loeb_url": "/view/LCL136/1922/volume.xml"
+    },
+    {
+        "loeb_author": "Polybius",
+        "loeb_number": "137",
+        "loeb_title": "The Histories, Volume II",
+        "loeb_url": "/view/LCL137/2010/volume.xml"
+    },
+    {
+        "loeb_author": "Polybius",
+        "loeb_number": "138",
+        "loeb_title": "The Histories, Volume III",
+        "loeb_url": "/view/LCL138/2011/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "139",
+        "loeb_title": "Historia Augusta, Volume I: Hadrian. Aelius. Antoninus Pius. Marcus Aurelius. L. Verus. Avidius Cassius. Commodus. Pertinax. Didius Julianus. Septimius Severus. Pescennius Niger. Clodius Albinus",
+        "loeb_url": "/view/LCL139/1921/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "140",
+        "loeb_title": "Historia Augusta, Volume II: Caracalla. Geta. Opellius Macrinus. Diadumenianus. Elagabalus. Severus Alexander. The Two Maximini. The Three Gordians. Maximus and Balbinus",
+        "loeb_url": "/view/LCL140/1924/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "141",
+        "loeb_title": "Tusculan Disputations",
+        "loeb_url": "/view/LCL141/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Sappho, Alcaeus",
+        "loeb_number": "142",
+        "loeb_title": "Greek Lyric, Volume I: Sappho and Alcaeus",
+        "loeb_url": "/view/LCL142/1982/volume.xml"
+    },
+    {
+        "loeb_author": "Anacreon",
+        "loeb_number": "143",
+        "loeb_title": "Greek Lyric, Volume II: Anacreon, Anacreontea, Choral Lyric from Olympus to Alcman",
+        "loeb_url": "/view/LCL143/1988/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "144",
+        "loeb_title": "Greek Lyric, Volume V: The New School of Poetry and Anonymous Songs and Hymns",
+        "loeb_url": "/view/LCL144/1993/volume.xml"
+    },
+    {
+        "loeb_author": "Aeschylus",
+        "loeb_number": "145",
+        "loeb_title": "Persians. Seven against Thebes. Suppliants. Prometheus Bound",
+        "loeb_url": "/view/LCL145/2009/volume.xml"
+    },
+    {
+        "loeb_author": "Aeschylus",
+        "loeb_number": "146",
+        "loeb_title": "Oresteia: Agamemnon. Libation-Bearers. Eumenides",
+        "loeb_url": "/view/LCL146/2009/volume.xml"
+    },
+    {
+        "loeb_author": "Hippocrates",
+        "loeb_number": "147",
+        "loeb_title": "Ancient Medicine. Airs, Waters, Places. Epidemics 1 and 3. The Oath. Precepts. Nutriment",
+        "loeb_url": "/view/LCL147/1923/volume.xml"
+    },
+    {
+        "loeb_author": "Hippocrates",
+        "loeb_number": "148",
+        "loeb_title": "Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Physician (Ch. 1). Dentition",
+        "loeb_url": "/view/LCL148/1923/volume.xml"
+    },
+    {
+        "loeb_author": "Hippocrates",
+        "loeb_number": "149",
+        "loeb_title": "On Wounds in the Head. In the Surgery. On Fractures. On Joints. Mochlicon",
+        "loeb_url": "/view/LCL149/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Hippocrates, Heracleitus",
+        "loeb_number": "150",
+        "loeb_title": "Nature of Man. Regimen in Health. Humours. Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe",
+        "loeb_url": "/view/LCL150/1931/volume.xml"
+    },
+    {
+        "loeb_author": "Ovid",
+        "loeb_number": "151",
+        "loeb_title": "Tristia. Ex Ponto",
+        "loeb_url": "/view/LCL151/1924/volume.xml"
+    },
+    {
+        "loeb_author": "Velleius Paterculus",
+        "loeb_number": "152",
+        "loeb_title": "Compendium of Roman History. Res Gestae Divi Augusti",
+        "loeb_url": "/view/LCL152/1924/volume.xml"
+    },
+    {
+        "loeb_author": "Eusebius",
+        "loeb_number": "153",
+        "loeb_title": "Ecclesiastical History, Volume I",
+        "loeb_url": "/view/LCL153/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "154",
+        "loeb_title": "On Old Age. On Friendship. On Divination",
+        "loeb_url": "/view/LCL154/1923/volume.xml"
+    },
+    {
+        "loeb_author": "Demosthenes",
+        "loeb_number": "155",
+        "loeb_title": "Orations, Volume II",
+        "loeb_url": "/view/LCL155/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Aeneas Tacticus, Asclepiodotus, Onasander",
+        "loeb_number": "156",
+        "loeb_title": "Aeneas Tacticus, Asclepiodotus, and\n                Onasander",
+        "loeb_url": "/view/LCL156/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Julian",
+        "loeb_number": "157",
+        "loeb_title": "Letters. Epigrams. Against the Galilaeans. Fragments",
+        "loeb_url": "/view/LCL157/1923/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "158",
+        "loeb_title": "Pro Archia. Post Reditum in Senatu. Post Reditum ad Quirites. De Domo Sua. De Haruspicum Responsis. Pro Plancio",
+        "loeb_url": "/view/LCL158/1923/volume.xml"
+    },
+    {
+        "loeb_author": "Polybius",
+        "loeb_number": "159",
+        "loeb_title": "The Histories, Volume IV",
+        "loeb_url": "/view/LCL159/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Polybius",
+        "loeb_number": "160",
+        "loeb_title": "The Histories, Volume V",
+        "loeb_url": "/view/LCL160/2012/volume.xml"
+    },
+    {
+        "loeb_author": "Polybius",
+        "loeb_number": "161",
+        "loeb_title": "The Histories, Volume VI",
+        "loeb_url": "/view/LCL161/2012/volume.xml"
+    },
+    {
+        "loeb_author": "Lucian",
+        "loeb_number": "162",
+        "loeb_title": "Anacharsis or Athletics. Menippus or The Descent into Hades. On Funerals. A Professor of Public Speaking. Alexander the False Prophet. Essays in Portraiture. Essays in Portraiture Defended. The Goddesse of Surrye",
+        "loeb_url": "/view/LCL162/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Plautus",
+        "loeb_number": "163",
+        "loeb_title": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+        "loeb_url": "/view/LCL163/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "164",
+        "loeb_title": "Statesman. Philebus. Ion",
+        "loeb_url": "/view/LCL164/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "165",
+        "loeb_title": "Laches. Protagoras. Meno. Euthydemus",
+        "loeb_url": "/view/LCL165/1924/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "166",
+        "loeb_title": "Lysis. Symposium. Gorgias",
+        "loeb_url": "/view/LCL166/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "167",
+        "loeb_title": "Cratylus. Parmenides. Greater Hippias. Lesser Hippias",
+        "loeb_url": "/view/LCL167/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Xenophon",
+        "loeb_number": "168",
+        "loeb_title": "Memorabilia. Oeconomicus. Symposium.\n                Apology",
+        "loeb_url": "/view/LCL168/2013/volume.xml"
+    },
+    {
+        "loeb_author": "Thucydides",
+        "loeb_number": "169",
+        "loeb_title": "History of the Peloponnesian War, Volume IV",
+        "loeb_url": "/view/LCL169/1923/volume.xml"
+    },
+    {
+        "loeb_author": "Homer",
+        "loeb_number": "170",
+        "loeb_title": "Iliad, Volume I",
+        "loeb_url": "/view/LCL170/1924/volume.xml"
+    },
+    {
+        "loeb_author": "Homer",
+        "loeb_number": "171",
+        "loeb_title": "Iliad, Volume II",
+        "loeb_url": "/view/LCL171/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "172",
+        "loeb_title": "History of Rome, Volume III",
+        "loeb_url": "/view/LCL172/1924/volume.xml"
+    },
+    {
+        "loeb_author": "Procopius",
+        "loeb_number": "173",
+        "loeb_title": "History of the Wars, Volume IV",
+        "loeb_url": "/view/LCL173/1924/volume.xml"
+    },
+    {
+        "loeb_author": "Frontinus",
+        "loeb_number": "174",
+        "loeb_title": "Stratagems. Aqueducts of Rome",
+        "loeb_url": "/view/LCL174/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Cassius",
+        "loeb_number": "175",
+        "loeb_title": "Roman History, Volume VII",
+        "loeb_url": "/view/LCL175/1924/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Cassius",
+        "loeb_number": "176",
+        "loeb_title": "Roman History, Volume VIII",
+        "loeb_url": "/view/LCL176/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Cassius",
+        "loeb_number": "177",
+        "loeb_title": "Roman History, Volume IX",
+        "loeb_url": "/view/LCL177/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Aristophanes",
+        "loeb_number": "178",
+        "loeb_title": "Acharnians. Knights",
+        "loeb_url": "/view/LCL178/1998/volume.xml"
+    },
+    {
+        "loeb_author": "Aristophanes",
+        "loeb_number": "179",
+        "loeb_title": "Birds. Lysistrata. Women at the Thesmophoria",
+        "loeb_url": "/view/LCL179/2000/volume.xml"
+    },
+    {
+        "loeb_author": "Aristophanes",
+        "loeb_number": "180",
+        "loeb_title": "Frogs. Assemblywomen. Wealth",
+        "loeb_url": "/view/LCL180/2002/volume.xml"
+    },
+    {
+        "loeb_author": "Lucretius",
+        "loeb_number": "181",
+        "loeb_title": "On the Nature of Things",
+        "loeb_url": "/view/LCL181/1924/volume.xml"
+    },
+    {
+        "loeb_author": "Strabo",
+        "loeb_number": "182",
+        "loeb_title": "Geography, Volume III",
+        "loeb_url": "/view/LCL182/1924/volume.xml"
+    },
+    {
+        "loeb_author": "Xenophon",
+        "loeb_number": "183",
+        "loeb_title": "Hiero. Agesilaus. Constitution of the Lacedaemonians. Ways and Means. Cavalry Commander. Art of Horsemanship. On Hunting. Constitution of the Athenians",
+        "loeb_url": "/view/LCL183/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Diogenes Laertius",
+        "loeb_number": "184",
+        "loeb_title": "Lives of Eminent Philosophers, Volume I",
+        "loeb_url": "/view/LCL184/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Diogenes Laertius",
+        "loeb_number": "185",
+        "loeb_title": "Lives of Eminent Philosophers, Volume II",
+        "loeb_url": "/view/LCL185/1925/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "186",
+        "loeb_title": "The Life. Against Apion",
+        "loeb_url": "/view/LCL186/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "187",
+        "loeb_title": "Laws, Volume I",
+        "loeb_url": "/view/LCL187/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Pausanias",
+        "loeb_number": "188",
+        "loeb_title": "Description of Greece, Volume II",
+        "loeb_url": "/view/LCL188/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "189",
+        "loeb_title": "Philippics 1-6",
+        "loeb_url": "/view/LCL189/2010/volume.xml"
+    },
+    {
+        "loeb_author": "Basil",
+        "loeb_number": "190",
+        "loeb_title": "Letters, Volume I: Letters 1-58",
+        "loeb_url": "/view/LCL190/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "191",
+        "loeb_title": "History of Rome, Volume IV",
+        "loeb_url": "/view/LCL191/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "192",
+        "loeb_title": "Laws, Volume II",
+        "loeb_url": "/view/LCL192/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "193",
+        "loeb_title": "Art of Rhetoric",
+        "loeb_url": "/view/LCL193/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Horace",
+        "loeb_number": "194",
+        "loeb_title": "Satires. Epistles. The Art of Poetry",
+        "loeb_url": "/view/LCL194/1926/volume.xml"
+    },
+    {
+        "loeb_author": "Gellius",
+        "loeb_number": "195",
+        "loeb_title": "Attic Nights, Volume I",
+        "loeb_url": "/view/LCL195/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Strabo",
+        "loeb_number": "196",
+        "loeb_title": "Geography, Volume IV",
+        "loeb_url": "/view/LCL196/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "197",
+        "loeb_title": "Moralia, Volume I",
+        "loeb_url": "/view/LCL197/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "198",
+        "loeb_title": "Pro Lege Manilia. Pro Caecina. Pro Cluentio. Pro Rabirio Perduellionis Reo",
+        "loeb_url": "/view/LCL198/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle, Longinus, Demetrius",
+        "loeb_number": "199",
+        "loeb_title": "Poetics. Longinus: On the Sublime. Demetrius: On Style",
+        "loeb_url": "/view/LCL199/1995/volume.xml"
+    },
+    {
+        "loeb_author": "Gellius",
+        "loeb_number": "200",
+        "loeb_title": "Attic Nights, Volume II",
+        "loeb_url": "/view/LCL200/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "201",
+        "loeb_title": "Charmides. Alcibiades I and II. Hipparchus. The Lovers. Theages. Minos. Epinomis",
+        "loeb_url": "/view/LCL201/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Isaeus",
+        "loeb_number": "202",
+        "loeb_title": "Isaeus",
+        "loeb_url": "/view/LCL202/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "203",
+        "loeb_title": "The Jewish War, Volume I",
+        "loeb_url": "/view/LCL203/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Athenaeus",
+        "loeb_number": "204",
+        "loeb_title": "The Learned Banqueters, Volume I: Books 1-3.106e",
+        "loeb_url": "/view/LCL204/2007/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "205",
+        "loeb_title": "Letters to Friends, Volume I",
+        "loeb_url": "/view/LCL205/2001/volume.xml"
+    },
+    {
+        "loeb_author": "Statius",
+        "loeb_number": "206",
+        "loeb_title": "Silvae",
+        "loeb_url": "/view/LCL206/2003/volume.xml"
+    },
+    {
+        "loeb_author": "Statius",
+        "loeb_number": "207",
+        "loeb_title": "Thebaid, Volume I: Thebaid",
+        "loeb_url": "/view/LCL207/2004/volume.xml"
+    },
+    {
+        "loeb_author": "Athenaeus",
+        "loeb_number": "208",
+        "loeb_title": "The Learned Banqueters, Volume II: Books 3.106e-5",
+        "loeb_url": "/view/LCL208/2007/volume.xml"
+    },
+    {
+        "loeb_author": "Isocrates",
+        "loeb_number": "209",
+        "loeb_title": "To Demonicus. To Nicocles. Nicocles or the Cyprians. Panegyricus. To Philip. Archidamus",
+        "loeb_url": "/view/LCL209/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "210",
+        "loeb_title": "The Jewish War, Volume III",
+        "loeb_url": "/view/LCL210/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Strabo",
+        "loeb_number": "211",
+        "loeb_title": "Geography, Volume V",
+        "loeb_url": "/view/LCL211/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Gellius",
+        "loeb_number": "212",
+        "loeb_title": "Attic Nights, Volume III",
+        "loeb_url": "/view/LCL212/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "213",
+        "loeb_title": "On the Republic. On the Laws",
+        "loeb_url": "/view/LCL213/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca",
+        "loeb_number": "214",
+        "loeb_title": "Moral Essays, Volume I",
+        "loeb_url": "/view/LCL214/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Basil",
+        "loeb_number": "215",
+        "loeb_title": "Letters, Volume II: Letters 59-185",
+        "loeb_url": "/view/LCL215/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "216",
+        "loeb_title": "Letters to Friends, Volume II",
+        "loeb_url": "/view/LCL216/2001/volume.xml"
+    },
+    {
+        "loeb_author": "Procopius",
+        "loeb_number": "217",
+        "loeb_title": "History of the Wars, Volume V",
+        "loeb_url": "/view/LCL217/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Epictetus",
+        "loeb_number": "218",
+        "loeb_title": "Discourses, Books 3-4. Fragments. The Encheiridion",
+        "loeb_url": "/view/LCL218/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Oppian, Colluthus, Tryphiodorus",
+        "loeb_number": "219",
+        "loeb_title": "Oppian, Colluthus, and Tryphiodorus",
+        "loeb_url": "/view/LCL219/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Lucan",
+        "loeb_number": "220",
+        "loeb_title": "The Civil War (Pharsalia)",
+        "loeb_url": "/view/LCL220/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "221",
+        "loeb_title": "The Verrine Orations, Volume I",
+        "loeb_url": "/view/LCL221/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "222",
+        "loeb_title": "Moralia, Volume II",
+        "loeb_url": "/view/LCL222/1928/volume.xml"
+    },
+    {
+        "loeb_author": "Strabo",
+        "loeb_number": "223",
+        "loeb_title": "Geography, Volume VI",
+        "loeb_url": "/view/LCL223/1929/volume.xml"
+    },
+    {
+        "loeb_author": "Athenaeus",
+        "loeb_number": "224",
+        "loeb_title": "The Learned Banqueters, Volume III: Books 6-7",
+        "loeb_url": "/view/LCL224/2008/volume.xml"
+    },
+    {
+        "loeb_author": "Theophrastus, Herodas, Sophron",
+        "loeb_number": "225",
+        "loeb_title": "Characters. Herodas: Mimes. Sophron and Other Mime Fragments",
+        "loeb_url": "/view/LCL225/2003/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "226",
+        "loeb_title": "On the Creation. Allegorical Interpretation of Genesis 2 and 3",
+        "loeb_url": "/view/LCL226/1929/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "227",
+        "loeb_title": "On the Cherubim. The Sacrifices of Abel and Cain. The Worse Attacks the Better. On the Posterity and Exile of Cain. On the Giants",
+        "loeb_url": "/view/LCL227/1929/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "228",
+        "loeb_title": "Physics, Volume I",
+        "loeb_url": "/view/LCL228/1957/volume.xml"
+    },
+    {
+        "loeb_author": "Isocrates",
+        "loeb_number": "229",
+        "loeb_title": "On the Peace. Areopagiticus. Against the Sophists. Antidosis. Panathenaicus",
+        "loeb_url": "/view/LCL229/1929/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "230",
+        "loeb_title": "Letters to Friends, Volume III",
+        "loeb_url": "/view/LCL230/2001/volume.xml"
+    },
+    {
+        "loeb_author": "Florus",
+        "loeb_number": "231",
+        "loeb_title": "Epitome of Roman History",
+        "loeb_url": "/view/LCL231/1929/volume.xml"
+    },
+    {
+        "loeb_author": "Ovid",
+        "loeb_number": "232",
+        "loeb_title": "Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation",
+        "loeb_url": "/view/LCL232/1929/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "233",
+        "loeb_title": "History of Rome, Volume V",
+        "loeb_url": "/view/LCL233/1929/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "234",
+        "loeb_title": "Timaeus. Critias. Cleitophon. Menexenus. Epistles",
+        "loeb_url": "/view/LCL234/1929/volume.xml"
+    },
+    {
+        "loeb_author": "Athenaeus",
+        "loeb_number": "235",
+        "loeb_title": "The Learned Banqueters, Volume IV: Books 8-10.420e",
+        "loeb_url": "/view/LCL235/2008/volume.xml"
+    },
+    {
+        "loeb_author": "Arrian",
+        "loeb_number": "236",
+        "loeb_title": "Anabasis of Alexander, Volume I",
+        "loeb_url": "/view/LCL236/1976/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "237",
+        "loeb_title": "Republic, Volume I",
+        "loeb_url": "/view/LCL237/2013/volume.xml"
+    },
+    {
+        "loeb_author": "Demosthenes",
+        "loeb_number": "238",
+        "loeb_title": "Orations, Volume I",
+        "loeb_url": "/view/LCL238/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Augustine",
+        "loeb_number": "239",
+        "loeb_title": "Select Letters",
+        "loeb_url": "/view/LCL239/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "240",
+        "loeb_title": "Pro Quinctio. Pro Roscio Amerino. Pro Roscio Comoedo. On the Agrarian Law",
+        "loeb_url": "/view/LCL240/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Strabo",
+        "loeb_number": "241",
+        "loeb_title": "Geography, Volume VII",
+        "loeb_url": "/view/LCL241/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "242",
+        "loeb_title": "Jewish Antiquities, Volume I",
+        "loeb_url": "/view/LCL242/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Basil",
+        "loeb_number": "243",
+        "loeb_title": "Letters, Volume III: Letters 186-248",
+        "loeb_url": "/view/LCL243/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Lysias",
+        "loeb_number": "244",
+        "loeb_title": "Lysias",
+        "loeb_url": "/view/LCL244/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "245",
+        "loeb_title": "Moralia, Volume III",
+        "loeb_url": "/view/LCL245/1931/volume.xml"
+    },
+    {
+        "loeb_author": "Bede",
+        "loeb_number": "246",
+        "loeb_title": "Ecclesiastical History, Volume I",
+        "loeb_url": "/view/LCL246/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "247",
+        "loeb_title": "On the Unchangeableness of God. On Husbandry. Concerning Noah's Work As a Planter. On Drunkenness. On Sobriety",
+        "loeb_url": "/view/LCL247/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Bede",
+        "loeb_number": "248",
+        "loeb_title": "Ecclesiastical History, Volume II",
+        "loeb_url": "/view/LCL248/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Tacitus",
+        "loeb_number": "249",
+        "loeb_title": "Histories",
+        "loeb_url": "/view/LCL249/1931/volume.xml"
+    },
+    {
+        "loeb_author": "Tertullian, Minucius Felix",
+        "loeb_number": "250",
+        "loeb_title": "Apology. De Spectaculis. Minucius Felix: Octavius",
+        "loeb_url": "/view/LCL250/1931/volume.xml"
+    },
+    {
+        "loeb_author": "Vitruvius",
+        "loeb_number": "251",
+        "loeb_title": "On Architecture, Volume I",
+        "loeb_url": "/view/LCL251/1931/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "252",
+        "loeb_title": "Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro",
+        "loeb_url": "/view/LCL252/1931/volume.xml"
+    },
+    {
+        "loeb_author": "Ovid",
+        "loeb_number": "253",
+        "loeb_title": "Fasti",
+        "loeb_url": "/view/LCL253/1931/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca",
+        "loeb_number": "254",
+        "loeb_title": "Moral Essays, Volume II",
+        "loeb_url": "/view/LCL254/1932/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "255",
+        "loeb_title": "Physics, Volume II",
+        "loeb_url": "/view/LCL255/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Philostratus the Elder, Philostratus the Younger, Callistratus",
+        "loeb_number": "256",
+        "loeb_title": "Philostratus the Elder, Imagines. Philostratus the Younger, Imagines. Callistratus, Descriptions",
+        "loeb_url": "/view/LCL256/1931/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Chrysostom",
+        "loeb_number": "257",
+        "loeb_title": "Discourses 1-11",
+        "loeb_url": "/view/LCL257/1932/volume.xml"
+    },
+    {
+        "loeb_author": "Tyrtaeus, Solon, Theognis, Mimnermus",
+        "loeb_number": "258",
+        "loeb_title": "Greek Elegiac Poetry",
+        "loeb_url": "/view/LCL258/1999/volume.xml"
+    },
+    {
+        "loeb_author": "Archilochus, Semonides, Hipponax",
+        "loeb_number": "259",
+        "loeb_title": "Greek Iambic Poetry",
+        "loeb_url": "/view/LCL259/1999/volume.xml"
+    },
+    {
+        "loeb_author": "Plautus",
+        "loeb_number": "260",
+        "loeb_title": "The Little Carthaginian. Pseudolus. The Rope",
+        "loeb_url": "/view/LCL260/2012/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "261",
+        "loeb_title": "On the Confusion of Tongues. On the Migration of Abraham. Who Is the Heir of Divine Things? On Mating with the Preliminary Studies",
+        "loeb_url": "/view/LCL261/1932/volume.xml"
+    },
+    {
+        "loeb_author": "Jerome",
+        "loeb_number": "262",
+        "loeb_title": "Select Letters",
+        "loeb_url": "/view/LCL262/1933/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "263",
+        "loeb_title": "Historia Augusta, Volume III: The Two Valerians. The Two Gallieni. The Thirty Pretenders. The Deified Claudius. The Deified Aurelian. Tacitus. Probus. Firmus, Saturninus, Proculus and Bonosus. Carus, Carinus and Numerian",
+        "loeb_url": "/view/LCL263/1932/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "264",
+        "loeb_title": "Politics",
+        "loeb_url": "/view/LCL264/1932/volume.xml"
+    },
+    {
+        "loeb_author": "Eusebius",
+        "loeb_number": "265",
+        "loeb_title": "Ecclesiastical History, Volume II",
+        "loeb_url": "/view/LCL265/1932/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "266",
+        "loeb_title": "Select Papyri, Volume I: Private Documents",
+        "loeb_url": "/view/LCL266/1932/volume.xml"
+    },
+    {
+        "loeb_author": "Strabo",
+        "loeb_number": "267",
+        "loeb_title": "Geography, Volume VIII",
+        "loeb_url": "/view/LCL267/1932/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "268",
+        "loeb_title": "On the Nature of the Gods. Academics",
+        "loeb_url": "/view/LCL268/1933/volume.xml"
+    },
+    {
+        "loeb_author": "Arrian",
+        "loeb_number": "269",
+        "loeb_title": "Anabasis of Alexander, Volume II",
+        "loeb_url": "/view/LCL269/1983/volume.xml"
+    },
+    {
+        "loeb_author": "Basil",
+        "loeb_number": "270",
+        "loeb_title": "Letters, Volume IV: Letters 249-368. On Greek Literature",
+        "loeb_url": "/view/LCL270/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "271",
+        "loeb_title": "Metaphysics, Volume I",
+        "loeb_url": "/view/LCL271/1933/volume.xml"
+    },
+    {
+        "loeb_author": "Pausanias",
+        "loeb_number": "272",
+        "loeb_title": "Description of Greece, Volume III",
+        "loeb_url": "/view/LCL272/1933/volume.xml"
+    },
+    {
+        "loeb_author": "Sextus Empiricus",
+        "loeb_number": "273",
+        "loeb_title": "Outlines of Pyrrhonism",
+        "loeb_url": "/view/LCL273/1933/volume.xml"
+    },
+    {
+        "loeb_author": "Athenaeus",
+        "loeb_number": "274",
+        "loeb_title": "The Learned Banqueters, Volume V: Books 10.420e-11",
+        "loeb_url": "/view/LCL274/2009/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "275",
+        "loeb_title": "On Flight and Finding. On the Change of Names. On Dreams",
+        "loeb_url": "/view/LCL275/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Plato",
+        "loeb_number": "276",
+        "loeb_title": "Republic, Volume II",
+        "loeb_url": "/view/LCL276/2013/volume.xml"
+    },
+    {
+        "loeb_author": "Silius Italicus",
+        "loeb_number": "277",
+        "loeb_title": "Punica, Volume I",
+        "loeb_url": "/view/LCL277/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Silius Italicus",
+        "loeb_number": "278",
+        "loeb_title": "Punica, Volume II",
+        "loeb_url": "/view/LCL278/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "279",
+        "loeb_title": "Library of History, Volume I",
+        "loeb_url": "/view/LCL279/1933/volume.xml"
+    },
+    {
+        "loeb_author": "Vitruvius",
+        "loeb_number": "280",
+        "loeb_title": "On Architecture, Volume II",
+        "loeb_url": "/view/LCL280/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "281",
+        "loeb_title": "Jewish Antiquities, Volume III",
+        "loeb_url": "/view/LCL281/1934/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "282",
+        "loeb_title": "Select Papyri, Volume II: Public Documents",
+        "loeb_url": "/view/LCL282/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Cato, Varro",
+        "loeb_number": "283",
+        "loeb_title": "On Agriculture",
+        "loeb_url": "/view/LCL283/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Aetna, Calpurnius Siculus, Publilius Syrus, Laus Pisonis, Grattius",
+        "loeb_number": "284",
+        "loeb_title": "Minor Latin Poets, Volume I: Publilius Syrus.\n                Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln\n                Eclogues. Aetna",
+        "loeb_url": "/view/LCL284/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "285",
+        "loeb_title": "Athenian Constitution. Eudemian Ethics. Virtues and Vices",
+        "loeb_url": "/view/LCL285/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Valerius Flaccus",
+        "loeb_number": "286",
+        "loeb_title": "Argonautica",
+        "loeb_url": "/view/LCL286/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "287",
+        "loeb_title": "Metaphysics, Volume II",
+        "loeb_url": "/view/LCL287/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "288",
+        "loeb_title": "On the Soul. Parva Naturalia. On Breath",
+        "loeb_url": "/view/LCL288/1957/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "289",
+        "loeb_title": "On Abraham. On Joseph. On Moses",
+        "loeb_url": "/view/LCL289/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Procopius",
+        "loeb_number": "290",
+        "loeb_title": "The Anecdota or Secret History",
+        "loeb_url": "/view/LCL290/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Sextus Empiricus",
+        "loeb_number": "291",
+        "loeb_title": "Against Logicians",
+        "loeb_url": "/view/LCL291/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Celsus",
+        "loeb_number": "292",
+        "loeb_title": "On Medicine, Volume I",
+        "loeb_url": "/view/LCL292/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "293",
+        "loeb_title": "The Verrine Orations, Volume II",
+        "loeb_url": "/view/LCL293/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Ennius, Caecilius",
+        "loeb_number": "294",
+        "loeb_title": "Remains of Old Latin, Volume I: Ennius. Caecilius",
+        "loeb_url": "/view/LCL294/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "295",
+        "loeb_title": "History of Rome, Volume IX",
+        "loeb_url": "/view/LCL295/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Sidonius",
+        "loeb_number": "296",
+        "loeb_title": "Poems. Letters",
+        "loeb_url": "/view/LCL296/1936/volume.xml"
+    },
+    {
+        "loeb_author": "Pausanias",
+        "loeb_number": "297",
+        "loeb_title": "Description of Greece, Volume IV",
+        "loeb_url": "/view/LCL297/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Pausanias",
+        "loeb_number": "298",
+        "loeb_title": "Description of Greece, Volume V",
+        "loeb_url": "/view/LCL298/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Demosthenes",
+        "loeb_number": "299",
+        "loeb_title": "Orations, Volume III",
+        "loeb_url": "/view/LCL299/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Ammianus Marcellinus",
+        "loeb_number": "300",
+        "loeb_title": "History, Volume I",
+        "loeb_url": "/view/LCL300/1950/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "301",
+        "loeb_title": "History of Rome, Volume X",
+        "loeb_url": "/view/LCL301/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Lucian",
+        "loeb_number": "302",
+        "loeb_title": "The Passing of Peregrinus. The Runaways. Toxaris or Friendship. The Dance. Lexiphanes. The Eunuch. Astrology. The Mistaken Critic. The Parliament of the Gods. The Tyrannicide. Disowned",
+        "loeb_url": "/view/LCL302/1936/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "303",
+        "loeb_title": "Library of History, Volume II",
+        "loeb_url": "/view/LCL303/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Celsus",
+        "loeb_number": "304",
+        "loeb_title": "On Medicine, Volume II",
+        "loeb_url": "/view/LCL304/1938/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "305",
+        "loeb_title": "Moralia, Volume IV",
+        "loeb_url": "/view/LCL305/1936/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "306",
+        "loeb_title": "Moralia, Volume V",
+        "loeb_url": "/view/LCL306/1936/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "307",
+        "loeb_title": "Minor Works",
+        "loeb_url": "/view/LCL307/1936/volume.xml"
+    },
+    {
+        "loeb_author": "Antiphon, Andocides",
+        "loeb_number": "308",
+        "loeb_title": "Minor Attic Orators, Volume I: Antiphon. Andocides",
+        "loeb_url": "/view/LCL308/1941/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "309",
+        "loeb_title": "Pro Sestio. In Vatinium",
+        "loeb_url": "/view/LCL309/1958/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca",
+        "loeb_number": "310",
+        "loeb_title": "Moral Essays, Volume III",
+        "loeb_url": "/view/LCL310/1935/volume.xml"
+    },
+    {
+        "loeb_author": "Sextus Empiricus",
+        "loeb_number": "311",
+        "loeb_title": "Against Physicists. Against Ethicists",
+        "loeb_url": "/view/LCL311/1936/volume.xml"
+    },
+    {
+        "loeb_author": "Tacitus",
+        "loeb_number": "312",
+        "loeb_title": "Annals",
+        "loeb_url": "/view/LCL312/1937/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "313",
+        "loeb_title": "History of Rome, Volume XI",
+        "loeb_url": "/view/LCL313/1936/volume.xml"
+    },
+    {
+        "loeb_author": "Livius Andronicus, Naevius, Pacuvius, Accius",
+        "loeb_number": "314",
+        "loeb_title": "Remains of Old Latin, Volume II: Livius Andronicus. Naevius. Pacuvius. Accius",
+        "loeb_url": "/view/LCL314/1936/volume.xml"
+    },
+    {
+        "loeb_author": "Ammianus Marcellinus",
+        "loeb_number": "315",
+        "loeb_title": "History, Volume II",
+        "loeb_url": "/view/LCL315/1940/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "316",
+        "loeb_title": "Problems, Volume I",
+        "loeb_url": "/view/LCL316/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "317",
+        "loeb_title": "Problems, Volume II",
+        "loeb_url": "/view/LCL317/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Demosthenes",
+        "loeb_number": "318",
+        "loeb_title": "Orations, Volume IV",
+        "loeb_url": "/view/LCL318/1936/volume.xml"
+    },
+    {
+        "loeb_author": "Dionysius of Halicarnassus",
+        "loeb_number": "319",
+        "loeb_title": "Roman Antiquities, Volume I",
+        "loeb_url": "/view/LCL319/1937/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "320",
+        "loeb_title": "On the Decalogue. On the Special Laws, Books 1-3",
+        "loeb_url": "/view/LCL320/1937/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "321",
+        "loeb_title": "Moralia, Volume X",
+        "loeb_url": "/view/LCL321/1936/volume.xml"
+    },
+    {
+        "loeb_author": "Tacitus",
+        "loeb_number": "322",
+        "loeb_title": "Annals",
+        "loeb_url": "/view/LCL322/1937/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "323",
+        "loeb_title": "Parts of Animals. Movement of Animals. Progression of Animals",
+        "loeb_url": "/view/LCL323/1937/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "324",
+        "loeb_title": "In Catilinam 1-4. Pro Murena. Pro Sulla. Pro Flacco",
+        "loeb_url": "/view/LCL324/1976/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "325",
+        "loeb_title": "Categories. On Interpretation. Prior Analytics",
+        "loeb_url": "/view/LCL325/1938/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "326",
+        "loeb_title": "Jewish Antiquities, Volume IV",
+        "loeb_url": "/view/LCL326/1937/volume.xml"
+    },
+    {
+        "loeb_author": "Athenaeus",
+        "loeb_number": "327",
+        "loeb_title": "The Learned Banqueters, Volume VI",
+        "loeb_url": "/view/LCL327/2010/volume.xml"
+    },
+    {
+        "loeb_author": "Plautus",
+        "loeb_number": "328",
+        "loeb_title": "Stichus. Trinummus. Truculentus. Tale of a\n                Travelling Bag. Fragments",
+        "loeb_url": "/view/LCL328/2013/volume.xml"
+    },
+    {
+        "loeb_author": "Lucilius",
+        "loeb_number": "329",
+        "loeb_title": "Remains of Old Latin, Volume III: Lucilius. The Twelve Tables",
+        "loeb_url": "/view/LCL329/1938/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny",
+        "loeb_number": "330",
+        "loeb_title": "Natural History, Volume I: Books 1-2",
+        "loeb_url": "/view/LCL330/1938/volume.xml"
+    },
+    {
+        "loeb_author": "Ammianus Marcellinus",
+        "loeb_number": "331",
+        "loeb_title": "History, Volume III",
+        "loeb_url": "/view/LCL331/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "332",
+        "loeb_title": "History of Rome, Volume XII",
+        "loeb_url": "/view/LCL332/1938/volume.xml"
+    },
+    {
+        "loeb_author": "Varro",
+        "loeb_number": "333",
+        "loeb_title": "On the Latin Language, Volume I",
+        "loeb_url": "/view/LCL333/1938/volume.xml"
+    },
+    {
+        "loeb_author": "Varro",
+        "loeb_number": "334",
+        "loeb_title": "On the Latin Language, Volume II",
+        "loeb_url": "/view/LCL334/1938/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "335",
+        "loeb_title": "Greek Mathematical Works, Volume I: Thales to Euclid",
+        "loeb_url": "/view/LCL335/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Celsus",
+        "loeb_number": "336",
+        "loeb_title": "On Medicine, Volume III",
+        "loeb_url": "/view/LCL336/1938/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "337",
+        "loeb_title": "Moralia, Volume VI",
+        "loeb_url": "/view/LCL337/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "338",
+        "loeb_title": "On the Heavens",
+        "loeb_url": "/view/LCL338/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Chrysostom",
+        "loeb_number": "339",
+        "loeb_title": "Discourses 12-30",
+        "loeb_url": "/view/LCL339/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "340",
+        "loeb_title": "Library of History, Volume III",
+        "loeb_url": "/view/LCL340/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "341",
+        "loeb_title": "On the Special Laws, Book 4. On the Virtues. On Rewards and Punishments",
+        "loeb_url": "/view/LCL341/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "342",
+        "loeb_title": "Brutus. Orator",
+        "loeb_url": "/view/LCL342/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Procopius",
+        "loeb_number": "343",
+        "loeb_title": "On Buildings. General Index",
+        "loeb_url": "/view/LCL343/1940/volume.xml"
+    },
+    {
+        "loeb_author": "Nonnos",
+        "loeb_number": "344",
+        "loeb_title": "Dionysiaca, Volume I",
+        "loeb_url": "/view/LCL344/1940/volume.xml"
+    },
+    {
+        "loeb_author": "Athenaeus",
+        "loeb_number": "345",
+        "loeb_title": "The Learned Banqueters, Volume VII",
+        "loeb_url": "/view/LCL345/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Demosthenes",
+        "loeb_number": "346",
+        "loeb_title": "Orations, Volume V",
+        "loeb_url": "/view/LCL346/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Dionysius of Halicarnassus",
+        "loeb_number": "347",
+        "loeb_title": "Roman Antiquities, Volume II",
+        "loeb_url": "/view/LCL347/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "348",
+        "loeb_title": "On the Orator: Books 1-2",
+        "loeb_url": "/view/LCL348/1942/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "349",
+        "loeb_title": "On the Orator: Book 3. On Fate. Stoic Paradoxes. Divisions of Oratory",
+        "loeb_url": "/view/LCL349/1942/volume.xml"
+    },
+    {
+        "loeb_author": "Manetho",
+        "loeb_number": "350",
+        "loeb_title": "History of Egypt and Other Works",
+        "loeb_url": "/view/LCL350/1940/volume.xml"
+    },
+    {
+        "loeb_author": "Demosthenes",
+        "loeb_number": "351",
+        "loeb_title": "Orations, Volume VI",
+        "loeb_url": "/view/LCL351/1939/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny",
+        "loeb_number": "352",
+        "loeb_title": "Natural History, Volume II: Books 3-7",
+        "loeb_url": "/view/LCL352/1942/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny",
+        "loeb_number": "353",
+        "loeb_title": "Natural History, Volume III: Books 8-11",
+        "loeb_url": "/view/LCL353/1940/volume.xml"
+    },
+    {
+        "loeb_author": "Nonnos",
+        "loeb_number": "354",
+        "loeb_title": "Dionysiaca, Volume II",
+        "loeb_url": "/view/LCL354/1940/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "355",
+        "loeb_title": "History of Rome, Volume VI",
+        "loeb_url": "/view/LCL355/1940/volume.xml"
+    },
+    {
+        "loeb_author": "Nonnos",
+        "loeb_number": "356",
+        "loeb_title": "Dionysiaca, Volume III",
+        "loeb_url": "/view/LCL356/1940/volume.xml"
+    },
+    {
+        "loeb_author": "Dionysius of Halicarnassus",
+        "loeb_number": "357",
+        "loeb_title": "Roman Antiquities, Volume III",
+        "loeb_url": "/view/LCL357/1940/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Chrysostom",
+        "loeb_number": "358",
+        "loeb_title": "Discourses 31-36",
+        "loeb_url": "/view/LCL358/1940/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "359",
+        "loeb_title": "Remains of Old Latin, Volume IV: Archaic Inscriptions",
+        "loeb_url": "/view/LCL359/1940/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "360",
+        "loeb_title": "Select Papyri, Volume III: Poetry",
+        "loeb_url": "/view/LCL360/1941/volume.xml"
+    },
+    {
+        "loeb_author": "Columella",
+        "loeb_number": "361",
+        "loeb_title": "On Agriculture, Volume I",
+        "loeb_url": "/view/LCL361/1941/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "362",
+        "loeb_title": "Greek Mathematical Works, Volume II: Aristarchus to Pappus",
+        "loeb_url": "/view/LCL362/1941/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "363",
+        "loeb_title": "Every Good Man is Free. On the Contemplative Life. On the Eternity of the World. Against Flaccus. Apology for the Jews. On Providence",
+        "loeb_url": "/view/LCL363/1941/volume.xml"
+    },
+    {
+        "loeb_author": "Dionysius of Halicarnassus",
+        "loeb_number": "364",
+        "loeb_title": "Roman Antiquities, Volume IV",
+        "loeb_url": "/view/LCL364/1943/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "365",
+        "loeb_title": "Jewish Antiquities, Volume V",
+        "loeb_url": "/view/LCL365/1943/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "366",
+        "loeb_title": "Generation of Animals",
+        "loeb_url": "/view/LCL366/1942/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "367",
+        "loeb_title": "History of Rome, Volume VII",
+        "loeb_url": "/view/LCL367/1943/volume.xml"
+    },
+    {
+        "loeb_author": "Quintus Curtius",
+        "loeb_number": "368",
+        "loeb_title": "History of Alexander, Volume I",
+        "loeb_url": "/view/LCL368/1946/volume.xml"
+    },
+    {
+        "loeb_author": "Quintus Curtius",
+        "loeb_number": "369",
+        "loeb_title": "History of Alexander, Volume II",
+        "loeb_url": "/view/LCL369/1946/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny",
+        "loeb_number": "370",
+        "loeb_title": "Natural History, Volume IV: Books 12-16",
+        "loeb_url": "/view/LCL370/1945/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny",
+        "loeb_number": "371",
+        "loeb_title": "Natural History, Volume V: Books 17-19",
+        "loeb_url": "/view/LCL371/1950/volume.xml"
+    },
+    {
+        "loeb_author": "Dionysius of Halicarnassus",
+        "loeb_number": "372",
+        "loeb_title": "Roman Antiquities, V",
+        "loeb_url": "/view/LCL372/1945/volume.xml"
+    },
+    {
+        "loeb_author": "Isocrates",
+        "loeb_number": "373",
+        "loeb_title": "Evagoras. Helen. Busiris. Plataicus. Concerning the Team of Horses. Trapeziticus. Against Callimachus. Aegineticus. Against Lochites. Against Euthynus. Letters",
+        "loeb_url": "/view/LCL373/1945/volume.xml"
+    },
+    {
+        "loeb_author": "Demosthenes",
+        "loeb_number": "374",
+        "loeb_title": "Orations, Volume VII",
+        "loeb_url": "/view/LCL374/1949/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "375",
+        "loeb_title": "Library of History, Volume IV",
+        "loeb_url": "/view/LCL375/1946/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Chrysostom",
+        "loeb_number": "376",
+        "loeb_title": "Discourses 37-60",
+        "loeb_url": "/view/LCL376/1946/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "377",
+        "loeb_title": "Library of History, Volume IX",
+        "loeb_url": "/view/LCL377/1947/volume.xml"
+    },
+    {
+        "loeb_author": "Dionysius of Halicarnassus",
+        "loeb_number": "378",
+        "loeb_title": "Roman Antiquities, Volume VI",
+        "loeb_url": "/view/LCL378/1947/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "379",
+        "loeb_title": "On the Embassy to Gaius. General Indexes",
+        "loeb_url": "/view/LCL379/1962/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "380",
+        "loeb_title": "Questions on Genesis",
+        "loeb_url": "/view/LCL380/1953/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "381",
+        "loeb_title": "History of Rome, Volume VIII",
+        "loeb_url": "/view/LCL381/1949/volume.xml"
+    },
+    {
+        "loeb_author": "Sextus Empiricus",
+        "loeb_number": "382",
+        "loeb_title": "Against Professors",
+        "loeb_url": "/view/LCL382/1949/volume.xml"
+    },
+    {
+        "loeb_author": "Alciphron, Aelian, Philostratus",
+        "loeb_number": "383",
+        "loeb_title": "Alciphron, Aelian, and Philostratus",
+        "loeb_url": "/view/LCL383/1949/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "384",
+        "loeb_title": "Library of History, Volume V",
+        "loeb_url": "/view/LCL384/1950/volume.xml"
+    },
+    {
+        "loeb_author": "Dio Chrysostom",
+        "loeb_number": "385",
+        "loeb_title": "Discourses 61-80. Fragments. Letters",
+        "loeb_url": "/view/LCL385/1951/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "386",
+        "loeb_title": "On Invention. The Best Kind of Orator. Topics",
+        "loeb_url": "/view/LCL386/1949/volume.xml"
+    },
+    {
+        "loeb_author": "Prudentius",
+        "loeb_number": "387",
+        "loeb_title": "Preface. Daily Round. Divinity of Christ. Origin of Sin. Fight for Mansoul. Against Symmachus 1",
+        "loeb_url": "/view/LCL387/1949/volume.xml"
+    },
+    {
+        "loeb_author": "Dionysius of Halicarnassus",
+        "loeb_number": "388",
+        "loeb_title": "Roman Antiquities, Volume VII",
+        "loeb_url": "/view/LCL388/1950/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "389",
+        "loeb_title": "Library of History, Volume VII",
+        "loeb_url": "/view/LCL389/1952/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "390",
+        "loeb_title": "Library of History, Volume X",
+        "loeb_url": "/view/LCL390/1954/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "391",
+        "loeb_title": "Posterior Analytics. Topica",
+        "loeb_url": "/view/LCL391/1960/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny",
+        "loeb_number": "392",
+        "loeb_title": "Natural History, Volume VI: Books 20-23",
+        "loeb_url": "/view/LCL392/1951/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny",
+        "loeb_number": "393",
+        "loeb_title": "Natural History, Volume VII: Books 24-27",
+        "loeb_url": "/view/LCL393/1956/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny",
+        "loeb_number": "394",
+        "loeb_title": "Natural History, Volume IX: Books 33-35",
+        "loeb_url": "/view/LCL394/1952/volume.xml"
+    },
+    {
+        "loeb_author": "Lycurgus, Dinarchus, Demades, Hyperides",
+        "loeb_number": "395",
+        "loeb_title": "Minor Attic Orators, Volume II: Lycurgus. Dinarchus. Demades. Hyperides",
+        "loeb_url": "/view/LCL395/1954/volume.xml"
+    },
+    {
+        "loeb_author": "Livy",
+        "loeb_number": "396",
+        "loeb_title": "History of Rome, Volume XIII",
+        "loeb_url": "/view/LCL396/1951/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "397",
+        "loeb_title": "Meteorologica",
+        "loeb_url": "/view/LCL397/1952/volume.xml"
+    },
+    {
+        "loeb_author": "Prudentius",
+        "loeb_number": "398",
+        "loeb_title": "Against Symmachus 2. Crowns of Martyrdom. Scenes From History. Epilogue",
+        "loeb_url": "/view/LCL398/1953/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "399",
+        "loeb_title": "Library of History, Volume VI",
+        "loeb_url": "/view/LCL399/1954/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "400",
+        "loeb_title": "On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos",
+        "loeb_url": "/view/LCL400/1955/volume.xml"
+    },
+    {
+        "loeb_author": "Philo",
+        "loeb_number": "401",
+        "loeb_title": "Questions on Exodus",
+        "loeb_url": "/view/LCL401/1953/volume.xml"
+    },
+    {
+        "loeb_author": "Caesar",
+        "loeb_number": "402",
+        "loeb_title": "Alexandrian War. African War. Spanish War",
+        "loeb_url": "/view/LCL402/1955/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "403",
+        "loeb_title": "Rhetorica ad Herennium",
+        "loeb_url": "/view/LCL403/1954/volume.xml"
+    },
+    {
+        "loeb_author": "Livy, Julius Obsequens",
+        "loeb_number": "404",
+        "loeb_title": "History of Rome, Volume XIV",
+        "loeb_url": "/view/LCL404/1959/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "405",
+        "loeb_title": "Moralia, Volume VII",
+        "loeb_url": "/view/LCL405/1959/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "406",
+        "loeb_title": "Moralia, Volume XII",
+        "loeb_url": "/view/LCL406/1957/volume.xml"
+    },
+    {
+        "loeb_author": "Columella",
+        "loeb_number": "407",
+        "loeb_title": "On Agriculture, Volume II",
+        "loeb_url": "/view/LCL407/1954/volume.xml"
+    },
+    {
+        "loeb_author": "Columella",
+        "loeb_number": "408",
+        "loeb_title": "On Agriculture, Volume III",
+        "loeb_url": "/view/LCL408/1955/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "409",
+        "loeb_title": "Library of History, Volume XI",
+        "loeb_url": "/view/LCL409/1957/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "410",
+        "loeb_title": "Jewish Antiquities, Volume VII",
+        "loeb_url": "/view/LCL410/1963/volume.xml"
+    },
+    {
+        "loeb_author": "Augustine",
+        "loeb_number": "411",
+        "loeb_title": "City of God, Volume I",
+        "loeb_url": "/view/LCL411/1957/volume.xml"
+    },
+    {
+        "loeb_author": "Augustine",
+        "loeb_number": "412",
+        "loeb_title": "City of God, Volume II",
+        "loeb_url": "/view/LCL412/1963/volume.xml"
+    },
+    {
+        "loeb_author": "Augustine",
+        "loeb_number": "413",
+        "loeb_title": "City of God, Volume III",
+        "loeb_url": "/view/LCL413/1968/volume.xml"
+    },
+    {
+        "loeb_author": "Augustine",
+        "loeb_number": "414",
+        "loeb_title": "City of God, Volume IV",
+        "loeb_url": "/view/LCL414/1966/volume.xml"
+    },
+    {
+        "loeb_author": "Augustine",
+        "loeb_number": "415",
+        "loeb_title": "City of God, Volume V",
+        "loeb_url": "/view/LCL415/1965/volume.xml"
+    },
+    {
+        "loeb_author": "Augustine",
+        "loeb_number": "416",
+        "loeb_title": "City of God, Volume VI",
+        "loeb_url": "/view/LCL416/1960/volume.xml"
+    },
+    {
+        "loeb_author": "Augustine",
+        "loeb_number": "417",
+        "loeb_title": "City of God, Volume VII",
+        "loeb_url": "/view/LCL417/1972/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny",
+        "loeb_number": "418",
+        "loeb_title": "Natural History, Volume VIII: Books 28-32",
+        "loeb_url": "/view/LCL418/1963/volume.xml"
+    },
+    {
+        "loeb_author": "Pliny",
+        "loeb_number": "419",
+        "loeb_title": "Natural History, Volume X: Books 36-37",
+        "loeb_url": "/view/LCL419/1962/volume.xml"
+    },
+    {
+        "loeb_author": "Sidonius",
+        "loeb_number": "420",
+        "loeb_title": "Letters",
+        "loeb_url": "/view/LCL420/1965/volume.xml"
+    },
+    {
+        "loeb_author": "Callimachus, Musaeus",
+        "loeb_number": "421",
+        "loeb_title": "Aetia, Iambi, Hecale and Other Fragments. Hero and Leander",
+        "loeb_url": "/view/LCL421/1973/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "422",
+        "loeb_title": "Library of History, Volume VIII",
+        "loeb_url": "/view/LCL422/1963/volume.xml"
+    },
+    {
+        "loeb_author": "Diodorus Siculus",
+        "loeb_number": "423",
+        "loeb_title": "Library of History, Volume XII",
+        "loeb_url": "/view/LCL423/1967/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "424",
+        "loeb_title": "Moralia, Volume VIII",
+        "loeb_url": "/view/LCL424/1969/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "425",
+        "loeb_title": "Moralia, Volume IX",
+        "loeb_url": "/view/LCL425/1961/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "426",
+        "loeb_title": "Moralia, Volume XI",
+        "loeb_url": "/view/LCL426/1965/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "427",
+        "loeb_title": "Moralia, Volume XIII: Part 1",
+        "loeb_url": "/view/LCL427/1976/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "428",
+        "loeb_title": "Moralia, Volume XIV",
+        "loeb_url": "/view/LCL428/1967/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "429",
+        "loeb_title": "Moralia, Volume XV",
+        "loeb_url": "/view/LCL429/1969/volume.xml"
+    },
+    {
+        "loeb_author": "Lucian",
+        "loeb_number": "430",
+        "loeb_title": "How to Write History. The Dipsads. Saturnalia. Herodotus or Aetion. Zeuxis or Antiochus. A Slip of the Tongue in Greeting. Apology for the \"Salaried Posts in Great Houses.\" Harmonides. A Conversation with Hesiod. The Scythian or The Consul. Hermotimus or Concerning the Sects. To One Who Said \"You're a Prometheus in Words.\" The Ship or The Wishes",
+        "loeb_url": "/view/LCL430/1959/volume.xml"
+    },
+    {
+        "loeb_author": "Lucian",
+        "loeb_number": "431",
+        "loeb_title": "Dialogues of the Dead. Dialogues of the Sea-Gods. Dialogues of the Gods. Dialogues of the Courtesans",
+        "loeb_url": "/view/LCL431/1961/volume.xml"
+    },
+    {
+        "loeb_author": "Lucian",
+        "loeb_number": "432",
+        "loeb_title": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+        "loeb_url": "/view/LCL432/1967/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "433",
+        "loeb_title": "Jewish Antiquities, Volume VIII",
+        "loeb_url": "/view/LCL433/1965/volume.xml"
+    },
+    {
+        "loeb_author": "Avianus, Hadrian, Florus, Nemesianus, Reposianus, Tiberianus, Phoenix, Rutilius Namatianus",
+        "loeb_number": "434",
+        "loeb_title": "Minor Latin Poets, Volume II: Florus.\n                Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus.\n                Rutilius Namatianus. Others",
+        "loeb_url": "/view/LCL434/1934/volume.xml"
+    },
+    {
+        "loeb_author": "Ptolemy",
+        "loeb_number": "435",
+        "loeb_title": "Tetrabiblos",
+        "loeb_url": "/view/LCL435/1940/volume.xml"
+    },
+    {
+        "loeb_author": "Babrius, Phaedrus",
+        "loeb_number": "436",
+        "loeb_title": "Fables",
+        "loeb_url": "/view/LCL436/1965/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "437",
+        "loeb_title": "History of Animals, Volume I",
+        "loeb_url": "/view/LCL437/1965/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "438",
+        "loeb_title": "History of Animals, Volume II",
+        "loeb_url": "/view/LCL438/1970/volume.xml"
+    },
+    {
+        "loeb_author": "Aristotle",
+        "loeb_number": "439",
+        "loeb_title": "History of Animals, Volume III",
+        "loeb_url": "/view/LCL439/1991/volume.xml"
+    },
+    {
+        "loeb_author": "Plotinus",
+        "loeb_number": "440",
+        "loeb_title": "Ennead, Volume I: Porphyry on the Life of Plotinus. Ennead I",
+        "loeb_url": "/view/LCL440/1969/volume.xml"
+    },
+    {
+        "loeb_author": "Plotinus",
+        "loeb_number": "441",
+        "loeb_title": "Ennead, Volume II",
+        "loeb_url": "/view/LCL441/1966/volume.xml"
+    },
+    {
+        "loeb_author": "Plotinus",
+        "loeb_number": "442",
+        "loeb_title": "Ennead, Volume III",
+        "loeb_url": "/view/LCL442/1967/volume.xml"
+    },
+    {
+        "loeb_author": "Plotinus",
+        "loeb_number": "443",
+        "loeb_title": "Ennead, Volume IV",
+        "loeb_url": "/view/LCL443/1984/volume.xml"
+    },
+    {
+        "loeb_author": "Plotinus",
+        "loeb_number": "444",
+        "loeb_title": "Ennead, Volume V",
+        "loeb_url": "/view/LCL444/1984/volume.xml"
+    },
+    {
+        "loeb_author": "Plotinus",
+        "loeb_number": "445",
+        "loeb_title": "Ennead, Volume VI: 1-5",
+        "loeb_url": "/view/LCL445/1988/volume.xml"
+    },
+    {
+        "loeb_author": "Aelian",
+        "loeb_number": "446",
+        "loeb_title": "On Animals, Volume I",
+        "loeb_url": "/view/LCL446/1958/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "447",
+        "loeb_title": "Pro Caelio. De Provinciis Consularibus. Pro Balbo",
+        "loeb_url": "/view/LCL447/1958/volume.xml"
+    },
+    {
+        "loeb_author": "Aelian",
+        "loeb_number": "448",
+        "loeb_title": "On Animals, Volume II",
+        "loeb_url": "/view/LCL448/1959/volume.xml"
+    },
+    {
+        "loeb_author": "Aelian",
+        "loeb_number": "449",
+        "loeb_title": "On Animals, Volume III",
+        "loeb_url": "/view/LCL449/1959/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca",
+        "loeb_number": "450",
+        "loeb_title": "Natural Questions, Volume I",
+        "loeb_url": "/view/LCL450/1971/volume.xml"
+    },
+    {
+        "loeb_author": "Libanius",
+        "loeb_number": "451",
+        "loeb_title": "Selected Orations, Volume I",
+        "loeb_url": "/view/LCL451/1969/volume.xml"
+    },
+    {
+        "loeb_author": "Libanius",
+        "loeb_number": "452",
+        "loeb_title": "Selected Orations, Volume II",
+        "loeb_url": "/view/LCL452/1977/volume.xml"
+    },
+    {
+        "loeb_author": "Apuleius",
+        "loeb_number": "453",
+        "loeb_title": "Metamorphoses (The Golden Ass), Volume II",
+        "loeb_url": "/view/LCL453/1989/volume.xml"
+    },
+    {
+        "loeb_author": "Herodian",
+        "loeb_number": "454",
+        "loeb_title": "History of the Empire, Volume I",
+        "loeb_url": "/view/LCL454/1969/volume.xml"
+    },
+    {
+        "loeb_author": "Herodian",
+        "loeb_number": "455",
+        "loeb_title": "History of the Empire, Volume II",
+        "loeb_url": "/view/LCL455/1970/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "456",
+        "loeb_title": "Jewish Antiquities, Volume IX",
+        "loeb_url": "/view/LCL456/1965/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca",
+        "loeb_number": "457",
+        "loeb_title": "Natural Questions, Volume II",
+        "loeb_url": "/view/LCL457/1972/volume.xml"
+    },
+    {
+        "loeb_author": "Philostratus",
+        "loeb_number": "458",
+        "loeb_title": "Apollonius of Tyana, Volume III",
+        "loeb_url": "/view/LCL458/2006/volume.xml"
+    },
+    {
+        "loeb_author": "Menander",
+        "loeb_number": "459",
+        "loeb_title": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+        "loeb_url": "/view/LCL459/1997/volume.xml"
+    },
+    {
+        "loeb_author": "Menander",
+        "loeb_number": "460",
+        "loeb_title": "Samia. Sikyonioi. Synaristosai. Phasma. Unidentified Fragments",
+        "loeb_url": "/view/LCL460/2000/volume.xml"
+    },
+    {
+        "loeb_author": "Bacchylides, Corinna",
+        "loeb_number": "461",
+        "loeb_title": "Greek Lyric, Volume IV: Bacchylides, Corinna, and Others",
+        "loeb_url": "/view/LCL461/1992/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "462",
+        "loeb_title": "Letters to Quintus and Brutus. Letter Fragments. Letter to Octavian. Invectives. Handbook of Electioneering",
+        "loeb_url": "/view/LCL462/2002/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca the Elder",
+        "loeb_number": "463",
+        "loeb_title": "Declamations, Volume I: Controversiae, Books 1-6",
+        "loeb_url": "/view/LCL463/1974/volume.xml"
+    },
+    {
+        "loeb_author": "Seneca the Elder",
+        "loeb_number": "464",
+        "loeb_title": "Declamations, Volume II: Controversiae, Books 7-10.  Suasoriae. Fragments",
+        "loeb_url": "/view/LCL464/1974/volume.xml"
+    },
+    {
+        "loeb_author": "Dionysius of Halicarnassus",
+        "loeb_number": "465",
+        "loeb_title": "Critical Essays, Volume I",
+        "loeb_url": "/view/LCL465/1974/volume.xml"
+    },
+    {
+        "loeb_author": "Dionysius of Halicarnassus",
+        "loeb_number": "466",
+        "loeb_title": "Critical Essays, Volume II",
+        "loeb_url": "/view/LCL466/1985/volume.xml"
+    },
+    {
+        "loeb_author": "Cornelius Nepos",
+        "loeb_number": "467",
+        "loeb_title": "On Great Generals. On Historians",
+        "loeb_url": "/view/LCL467/1929/volume.xml"
+    },
+    {
+        "loeb_author": "Plotinus",
+        "loeb_number": "468",
+        "loeb_title": "Ennead, Volume VI: 6-9",
+        "loeb_url": "/view/LCL468/1988/volume.xml"
+    },
+    {
+        "loeb_author": "Manilius",
+        "loeb_number": "469",
+        "loeb_title": "Astronomica",
+        "loeb_url": "/view/LCL469/1977/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "470",
+        "loeb_title": "Moralia, Volume XIII: Part 2",
+        "loeb_url": "/view/LCL470/1976/volume.xml"
+    },
+    {
+        "loeb_author": "Theophrastus",
+        "loeb_number": "471",
+        "loeb_title": "De Causis Plantarum, Volume I: Books 1-2",
+        "loeb_url": "/view/LCL471/1976/volume.xml"
+    },
+    {
+        "loeb_author": "Hippocrates",
+        "loeb_number": "472",
+        "loeb_title": "Affections. Diseases 1. Diseases 2",
+        "loeb_url": "/view/LCL472/1988/volume.xml"
+    },
+    {
+        "loeb_author": "Hippocrates",
+        "loeb_number": "473",
+        "loeb_title": "Diseases 3. Internal Affections. Regimen in Acute Diseases",
+        "loeb_url": "/view/LCL473/1988/volume.xml"
+    },
+    {
+        "loeb_author": "Theophrastus",
+        "loeb_number": "474",
+        "loeb_title": "De Causis Plantarum, Volume II: Books 3-4",
+        "loeb_url": "/view/LCL474/1990/volume.xml"
+    },
+    {
+        "loeb_author": "Theophrastus",
+        "loeb_number": "475",
+        "loeb_title": "De Causis Plantarum, Volume III: Books 5-6",
+        "loeb_url": "/view/LCL475/1990/volume.xml"
+    },
+    {
+        "loeb_author": "Stesichorus, Ibycus, Simonides",
+        "loeb_number": "476",
+        "loeb_title": "Greek Lyric, Volume III: Stesichorus, Ibycus, Simonides, and Others",
+        "loeb_url": "/view/LCL476/1991/volume.xml"
+    },
+    {
+        "loeb_author": "Hippocrates",
+        "loeb_number": "477",
+        "loeb_title": "Epidemics 2, 4-7",
+        "loeb_url": "/view/LCL477/1994/volume.xml"
+    },
+    {
+        "loeb_author": "Libanius",
+        "loeb_number": "478",
+        "loeb_title": "Autobiography and Selected Letters, Volume I",
+        "loeb_url": "/view/LCL478/1992/volume.xml"
+    },
+    {
+        "loeb_author": "Libanius",
+        "loeb_number": "479",
+        "loeb_title": "Autobiography and Selected Letters, Volume II",
+        "loeb_url": "/view/LCL479/1992/volume.xml"
+    },
+    {
+        "loeb_author": "Martial",
+        "loeb_number": "480",
+        "loeb_title": "Epigrams, Volume III",
+        "loeb_url": "/view/LCL480/1993/volume.xml"
+    },
+    {
+        "loeb_author": "Chariton",
+        "loeb_number": "481",
+        "loeb_title": "Callirhoe",
+        "loeb_url": "/view/LCL481/1995/volume.xml"
+    },
+    {
+        "loeb_author": "Hippocrates",
+        "loeb_number": "482",
+        "loeb_title": "Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas",
+        "loeb_url": "/view/LCL482/1995/volume.xml"
+    },
+    {
+        "loeb_author": "Sophocles",
+        "loeb_number": "483",
+        "loeb_title": "Fragments",
+        "loeb_url": "/view/LCL483/1996/volume.xml"
+    },
+    {
+        "loeb_author": "Euripides",
+        "loeb_number": "484",
+        "loeb_title": "Children of Heracles. Hippolytus. Andromache. Hecuba",
+        "loeb_url": "/view/LCL484/1995/volume.xml"
+    },
+    {
+        "loeb_author": "Pindar",
+        "loeb_number": "485",
+        "loeb_title": "Nemean Odes. Isthmian Odes. Fragments",
+        "loeb_url": "/view/LCL485/1997/volume.xml"
+    },
+    {
+        "loeb_author": "Aelian",
+        "loeb_number": "486",
+        "loeb_title": "Historical Miscellany",
+        "loeb_url": "/view/LCL486/1997/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "487",
+        "loeb_title": "The Jewish War, Volume II",
+        "loeb_url": "/view/LCL487/1927/volume.xml"
+    },
+    {
+        "loeb_author": "Aristophanes",
+        "loeb_number": "488",
+        "loeb_title": "Clouds. Wasps. Peace",
+        "loeb_url": "/view/LCL488/1998/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "489",
+        "loeb_title": "Jewish Antiquities, Volume VI",
+        "loeb_url": "/view/LCL489/1943/volume.xml"
+    },
+    {
+        "loeb_author": "Josephus",
+        "loeb_number": "490",
+        "loeb_title": "Jewish Antiquities, Volume II",
+        "loeb_url": "/view/LCL490/1930/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "491",
+        "loeb_title": "Letters to Atticus, Volume IV",
+        "loeb_url": "/view/LCL491/1999/volume.xml"
+    },
+    {
+        "loeb_author": "Valerius Maximus",
+        "loeb_number": "492",
+        "loeb_title": "Memorable Doings and Sayings, Volume I",
+        "loeb_url": "/view/LCL492/2000/volume.xml"
+    },
+    {
+        "loeb_author": "Valerius Maximus",
+        "loeb_number": "493",
+        "loeb_title": "Memorable Doings and Sayings, Volume II",
+        "loeb_url": "/view/LCL493/2000/volume.xml"
+    },
+    {
+        "loeb_author": "Quintilian",
+        "loeb_number": "494",
+        "loeb_title": "The Orator's Education, Volume V: Books 11-12",
+        "loeb_url": "/view/LCL494/2002/volume.xml"
+    },
+    {
+        "loeb_author": "Euripides",
+        "loeb_number": "495",
+        "loeb_title": "Bacchae. Iphigenia at Aulis. Rhesus",
+        "loeb_url": "/view/LCL495/2003/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "496",
+        "loeb_title": "Homeric Hymns. Homeric Apocrypha. Lives of Homer",
+        "loeb_url": "/view/LCL496/2003/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "497",
+        "loeb_title": "Greek Epic Fragments",
+        "loeb_url": "/view/LCL497/2003/volume.xml"
+    },
+    {
+        "loeb_author": "Statius",
+        "loeb_number": "498",
+        "loeb_title": "Thebaid, Volume II: Thebaid",
+        "loeb_url": "/view/LCL498/2004/volume.xml"
+    },
+    {
+        "loeb_author": "Plutarch",
+        "loeb_number": "499",
+        "loeb_title": "Moralia, Volume XVI",
+        "loeb_url": "/view/LCL499/2004/volume.xml"
+    },
+    {
+        "loeb_author": "Quintilian",
+        "loeb_number": "500",
+        "loeb_title": "The Lesser Declamations, Volume I",
+        "loeb_url": "/view/LCL500/2006/volume.xml"
+    },
+    {
+        "loeb_author": "Quintilian",
+        "loeb_number": "501",
+        "loeb_title": "The Lesser Declamations, Volume II",
+        "loeb_url": "/view/LCL501/2006/volume.xml"
+    },
+    {
+        "loeb_author": "Aristophanes",
+        "loeb_number": "502",
+        "loeb_title": "Fragments",
+        "loeb_url": "/view/LCL502/2008/volume.xml"
+    },
+    {
+        "loeb_author": "Hesiod",
+        "loeb_number": "503",
+        "loeb_title": "The Shield. Catalogue of Women. Other Fragments",
+        "loeb_url": "/view/LCL503/2007/volume.xml"
+    },
+    {
+        "loeb_author": "Euripides",
+        "loeb_number": "504",
+        "loeb_title": "Fragments",
+        "loeb_url": "/view/LCL504/2008/volume.xml"
+    },
+    {
+        "loeb_author": "Aeschylus",
+        "loeb_number": "505",
+        "loeb_title": "Fragments",
+        "loeb_url": "/view/LCL505/2009/volume.xml"
+    },
+    {
+        "loeb_author": "Euripides",
+        "loeb_number": "506",
+        "loeb_title": "Fragments",
+        "loeb_url": "/view/LCL506/2009/volume.xml"
+    },
+    {
+        "loeb_author": "Cicero",
+        "loeb_number": "507",
+        "loeb_title": "Philippics 7-14",
+        "loeb_url": "/view/LCL507/2010/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "508",
+        "loeb_title": "Hellenistic Collection",
+        "loeb_url": "/view/LCL508/2010/volume.xml"
+    },
+    {
+        "loeb_author": "Hippocrates",
+        "loeb_number": "509",
+        "loeb_title": "Coan Prenotions. Anatomical and Minor Clinical Writings",
+        "loeb_url": "/view/LCL509/2010/volume.xml"
+    },
+    {
+        "loeb_author": "Macrobius",
+        "loeb_number": "510",
+        "loeb_title": "Saturnalia, Volume I",
+        "loeb_url": "/view/LCL510/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Macrobius",
+        "loeb_number": "511",
+        "loeb_title": "Saturnalia, Volume II",
+        "loeb_url": "/view/LCL511/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Macrobius",
+        "loeb_number": "512",
+        "loeb_title": "Saturnalia, Volume III",
+        "loeb_url": "/view/LCL512/2011/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "513",
+        "loeb_title": "Fragments of Old Comedy, Volume I: Alcaeus to Diocles",
+        "loeb_url": "/view/LCL513/2011/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "514",
+        "loeb_title": "Fragments of Old Comedy, Volume II: Diopeithes to Pherecrates",
+        "loeb_url": "/view/LCL514/2011/volume.xml"
+    },
+    {
+        "loeb_author": null,
+        "loeb_number": "515",
+        "loeb_title": "Fragments of Old Comedy, Volume III: Philonicus to Xenophon. Adespota",
+        "loeb_url": "/view/LCL515/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Galen",
+        "loeb_number": "516",
+        "loeb_title": "Method of Medicine, Volume I",
+        "loeb_url": "/view/LCL516/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Galen",
+        "loeb_number": "517",
+        "loeb_title": "Method of Medicine, Volume II",
+        "loeb_url": "/view/LCL517/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Galen",
+        "loeb_number": "518",
+        "loeb_title": "Method of Medicine, Volume III",
+        "loeb_url": "/view/LCL518/2011/volume.xml"
+    },
+    {
+        "loeb_author": "Athenaeus",
+        "loeb_number": "519",
+        "loeb_title": "The Learned Banqueters, Volume VIII",
+        "loeb_url": "/view/LCL519/2012/volume.xml"
+    },
+    {
+        "loeb_author": "Hippocrates",
+        "loeb_number": "520",
+        "loeb_title": "Generation. Nature of the Child. Diseases 4. Nature of Women and Barrenness",
+        "loeb_url": "/view/LCL520/2012/volume.xml"
+    },
+    {
+        "loeb_author": "Philostratus",
+        "loeb_number": "521",
+        "loeb_title": "Heroicus. Gymnasticus. Discourses 1 and 2",
+        "loeb_url": "/view/LCL521/2014/volume.xml"
+    }
+]

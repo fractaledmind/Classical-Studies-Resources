@@ -62,6 +62,9 @@ def readBIN(file):
 				break
 			len_label=ord(f.read(1))  #get the label string lenght
 			label=f.read(len_label) #read the label
+			label = label.replace("%3","/") #replace some escapes
+			label = label.replace("%19","-") #replace some escapes
+			label = label.replace("`","") #replace some escapes
 			f.seek(2,1) #advance 2 bytes (00 00 )
 			offset_end=read_and_convert(f) #start of next label in fact...
 			lista.append((label,offset_start, offset_end))
